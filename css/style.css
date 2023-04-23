@@ -63,6 +63,12 @@ h2 {
     font-size: 1.5em;
 }
 
+.event .lieu a {
+    padding: 5px 10px;
+    background-color: #12133B;
+    color: white;
+}
+
 .body {
     font-size: 1.2em;
     display: flex;
