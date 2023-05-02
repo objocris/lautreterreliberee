@@ -4,7 +4,7 @@ html {
 }
 
 * {
-    font-family: 'Frankie';
+    font-family: 'Inter', sans-serif;
 }
 
 a {
@@ -56,10 +56,12 @@ h2 {
 }
 
 .event .date {
+    font-family: 'Frankie';
     font-size: 3em;
 }
 
-.event .description {
+.event .description p, .event .description p a {
+    font-family: 'Frankie';
     font-size: 1.2em;
 }
 
@@ -68,6 +70,7 @@ h2 {
 }
 
 .event .lieu a {
+    font-family: 'Frankie';
     padding: 5px 10px;
     background-color: #12133B;
     color: white;
