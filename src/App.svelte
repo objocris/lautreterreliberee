@@ -1,11 +1,14 @@
 <script language="ts">
-
+    import rimbaultTransparent from './images/rimbault-transparent.png';
+    import affichePdf from './images/affiche.pdf';
+    import afficheSansTexte from './images/affiche-sanstexte.png';
+    import logoSmall from './images/logo-small.png';
 </script>
 
 <main>
     <div class="container">
         <div class="img-header text-center">
-            <img src="/images/rimbault-transparent.png" alt="Portrait de Louis Rimbault"/>
+            <img src={rimbaultTransparent} alt="Portrait de Louis Rimbault"/>
         </div>
         <h1 class="text-center">L'autre terre libérée</h1>
         <div class="events">
@@ -37,8 +40,8 @@
         </div>
 
         <div class="affiche-wrapper text-center">
-            <a href="/images/affiche.pdf" target="_blank">
-                <img src="/images/affiche-sanstexte.png" class="affiche" alt="Affiche de l'événement Champ Libre à Luynes"/>
+            <a href={affichePdf} target="_blank">
+                <img src={afficheSansTexte} class="affiche" alt="Affiche de l'événement Champ Libre à Luynes"/>
             </a>
         </div>
 
@@ -64,8 +67,8 @@
             </div>
         </div>
         <div class="footer text-center">
-            <img src="/images/rimbault-transparent.png" alt="Portrait pochoir de Louis Rimbault"/>
-            <img src="/images/logo-small.png" alt="Logo de l'association L'autre terre libérée à Luynes"/>
+            <img src={rimbaultTransparent} alt="Portrait pochoir de Louis Rimbault"/>
+            <img src={logoSmall} alt="Logo de l'association L'autre terre libérée à Luynes"/>
         </div>
         <div class="liens">
             <a href="mentions-legales.html">Mentions légales</a>
