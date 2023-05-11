@@ -1,7 +1,7 @@
 <main>
     <div class="container">
         <div class="img-header text-center">
-            <img src="src/assets/images/rimbault-transparent.png" alt="Portrait de Louis Rimbault"/>
+            <img src="/public/images/rimbault-transparent.png" alt="Portrait de Louis Rimbault"/>
         </div>
         <h1 class="text-center">L'autre terre libérée</h1>
         <div class="events">
@@ -33,8 +33,8 @@
         </div>
 
         <div class="affiche-wrapper text-center">
-            <a href="src/assets/images/affiche.pdf" target="_blank">
-                <img src="src/assets/images/affiche-sanstexte.png" class="affiche" alt="Affiche de l'événement Champ Libre à Luynes"/>
+            <a href="/public/images/affiche.pdf" target="_blank">
+                <img src="/public/images/affiche-sanstexte.png" class="affiche" alt="Affiche de l'événement Champ Libre à Luynes"/>
             </a>
         </div>
 
