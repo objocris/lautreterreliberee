@@ -1,2 +1,0 @@
-# lautreterreliberee
-Site autreterreliberee.fr

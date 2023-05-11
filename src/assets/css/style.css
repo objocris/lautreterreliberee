@@ -1,0 +1,125 @@
+html {
+    font-size: 16px;
+    color: #12133B;
+}
+
+* {
+    font-family: 'Inter', sans-serif;
+}
+
+a {
+    color: #CF171E;
+}
+
+ul {
+    list-style-type: square;
+}
+
+.container {
+    padding: 50px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+}
+
+.affiche-wrapper img {
+    width: 300px;
+    margin-bottom: 50px;
+}
+
+.affiche-wrapper a {
+    display: block;
+    max-width: 100%;
+}
+
+h1, h2 {
+    font-family: 'Frankie';
+}
+
+h1 {
+    font-size: 3em;
+}
+
+h2 {
+    font-size: 2em;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+
+.event {
+    margin-bottom: 50px;
+}
+
+.event .date {
+    font-family: 'Frankie';
+    font-size: 3em;
+}
+
+.event .description p, .event .description p a {
+    font-family: 'Frankie';
+    font-size: 1.2em;
+}
+
+.event .lieu {
+    font-size: 1.5em;
+}
+
+.event .lieu a {
+    font-family: 'Frankie';
+    padding: 5px 10px;
+    background-color: #12133B;
+    color: white;
+}
+
+.body {
+    font-size: 1.2em;
+    display: flex;
+    justify-content: center;   
+}
+
+.body .inner {
+    max-width: 1024px;
+}
+
+.footer {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.footer img {
+    width: 150px;
+    margin: 20px;
+}
+
+.liens {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media screen and (min-width: 768px) {
+    h1 {
+        font-size: 5em;
+    }
+
+    h2 {
+        font-size: 3em;
+        margin-bottom: 100px;
+    }
+
+    .event .description {
+        font-size: 1.8em;
+    }
+
+    .body {
+        font-size: 1.5em;
+    }
+}
