@@ -1,6 +1,6 @@
 <script language="ts">
-    import rimbaultTransparent from '$lib/images/rimbault-transparent.png';
-    import logoSmall from '$lib/images/logo-small.png';
+    import rimbaultTransparent from '/static/images/rimbault-transparent.png';
+    import logoSmall from '/static/images/logo-small.png';
 </script>
 
 <div class="container">

@@ -1,6 +1,6 @@
 <script>
 	export let data;
-    $: audioPath = '/src/lib/audio/' + data.ardoise.numero + '.mp3';
+    $: audioPath = '/audio/' + data.ardoise.numero + '.mp3';
 </script>
 
 <div class="ardoise m-auto pl-6 pr-6">
