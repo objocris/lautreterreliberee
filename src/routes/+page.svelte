@@ -13,7 +13,7 @@
     <div class="img-header text-center flex justify-center">
         <img src={rimbaultTransparent} alt="Portrait de Louis Rimbault"/>
     </div>
-    <h1 class="frankie text-center text-8xl mt-10 mb-10 font-bold">L'autre terre libérée</h1>
+    <h1 class="frankie text-center text-6xl mt-10 mb-10 font-bold">L'autre terre libérée</h1>
     <div class="events">
         <div class="event text-center">
             <div class="date">27 juin 2023 — 19h</div>
@@ -76,6 +76,5 @@
     </div>
     <div class="liens">
         <a href="/mentions-legales" class="mr-2 ml-2">Mentions légales</a>
-        <a href="/balade-sonore/1" class="mr-2 ml-2">Balade sonore</a>
     </div>
 </div>

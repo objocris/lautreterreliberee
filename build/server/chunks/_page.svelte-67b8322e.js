@@ -8,7 +8,7 @@ const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   return `${$$result.head += `<!-- HEAD_svelte-nd5kgj_START -->${$$result.title = `<title>L&#39;autre terre libérée, à la rencontre de Louis Rimbault</title>`, ""}<!-- HEAD_svelte-nd5kgj_END -->`, ""}
 
 <div class="container"><div class="img-header text-center flex justify-center"><img${add_attribute("src", rimbaultTransparent, 0)} alt="Portrait de Louis Rimbault"></div>
-    <h1 class="frankie text-center text-8xl mt-10 mb-10 font-bold">L&#39;autre terre libérée</h1>
+    <h1 class="frankie text-center text-6xl mt-10 mb-10 font-bold">L&#39;autre terre libérée</h1>
     <div class="events"><div class="event text-center"><div class="date">27 juin 2023 — 19h</div>
             <div class="description"><p><a href="https://cafeshistoriques.com/programme/la-rencontre-de-louis-rimbault-et-des-causeries-anarchistes" target="_blank">A la rencontre de Louis Rimbault</a></p>
                 <p>Conférence d&#39;<a href="https://fr.wikipedia.org/wiki/Anne_Steiner" target="_blank">Anne Steiner</a>, sociologue, spécialiste du mouvement individualiste anarchiste</p>
@@ -37,9 +37,8 @@ const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
             </p>
             <p>C’est dans ce cadre que les adhérents de L’autre terre libérée ont décidé d’organiser le premier événement de l’association le <strong>mardi 27 juin</strong> et le <strong>dimanche 2 juillet 2023</strong> sur la commune de Luynes.</p></div></div>
     <div class="footer text-center"><img${add_attribute("src", logoSmall, 0)} alt="Logo de l'association L'autre terre libérée à Luynes"></div>
-    <div class="liens"><a href="/mentions-legales" class="mr-2 ml-2">Mentions légales</a>
-        <a href="/balade-sonore/1" class="mr-2 ml-2">Balade sonore</a></div></div>`;
+    <div class="liens"><a href="/mentions-legales" class="mr-2 ml-2">Mentions légales</a></div></div>`;
 });
 
 export { Page as default };
-//# sourceMappingURL=_page.svelte-29262a30.js.map
+//# sourceMappingURL=_page.svelte-67b8322e.js.map
