@@ -11,8 +11,10 @@ const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
 <div class="max-w-screen-lg m-auto pl-6 pr-6"><h5 class="frankie text-2xl mt-6">Etape ${escape(data.ardoise.numero)}</h5>
     <h1 class="frankie text-4xl mb-6">${escape(data.ardoise.titre)}</h1>
 
-    <div class="balade-nav flex justify-between frankie text-4xl mt-6 mb-6">${data.previous ? `<a${add_attribute("href", "/balade-sonore/" + +data.previous.numero, 0)} class="previous" title="Etape précédente"></a>` : ``}
-        <audio controls${add_attribute("src", audioPath, 0)} class="w-full ml-4 mr-4"></audio>
+    <audio controls${add_attribute("src", audioPath, 0)} class="w-full mb-6"></audio>
+
+    <div class="balade-nav flex justify-between frankie text-4xl mt-8 mb-8 ml-3 mr-3">${data.previous ? `<a${add_attribute("href", "/balade-sonore/" + +data.previous.numero, 0)} class="previous" title="Etape précédente"></a>` : ``}
+        
         ${data.next ? `<a${add_attribute("href", "/balade-sonore/" + +data.next.numero, 0)} class="next" title="Etape suivante"></a>` : ``}</div>
 
     <div class="texteArdoise text-lg lg:text-2xl mb-6">${each(data.ardoise.texteArdoise, (paragraph) => {
@@ -25,4 +27,4 @@ const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
 });
 
 export { Page as default };
-//# sourceMappingURL=_page.svelte-abe5d895.js.map
+//# sourceMappingURL=_page.svelte-69e71dfb.js.map

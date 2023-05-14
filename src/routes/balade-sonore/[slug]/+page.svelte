@@ -11,11 +11,13 @@
     <h5 class="frankie text-2xl mt-6">Etape {data.ardoise.numero}</h5>
     <h1 class="frankie text-4xl mb-6">{data.ardoise.titre}</h1>
 
-    <div class="balade-nav flex justify-between frankie text-4xl mt-6 mb-6">
+    <audio controls src={audioPath} class="w-full mb-6"/>
+
+    <div class="balade-nav flex justify-between frankie text-4xl mt-8 mb-8 ml-3 mr-3">
         {#if data.previous}
             <a href={'/balade-sonore/' + (+data.previous.numero)} class="previous" title="Etape précédente"> </a>
         {/if}
-        <audio controls src={audioPath} class="w-full ml-4 mr-4"/>
+        
         {#if data.next}
             <a href={'/balade-sonore/' + (+data.next.numero)} class="next" title="Etape suivante"> </a>
         {/if}
