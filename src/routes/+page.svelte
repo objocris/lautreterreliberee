@@ -22,7 +22,9 @@
                 <p>dans le cadre des <a href="https://cafeshistoriques.com/" target="_blank">Cafés historiques en région Centre-Val de Loire</a></p>
             </div>
             <div class="lieu">
-                <p><a href="https://www.openstreetmap.org/?mlat=47.38562&mlon=0.55435#map=19/47.38562/0.55435" target="_blank">Halles de Luynes</a></p>
+                <p>
+                    <a class="text-white" href="https://www.openstreetmap.org/?mlat=47.38562&mlon=0.55435#map=19/47.38562/0.55435" target="_blank">Halles de Luynes</a>
+                </p>
             </div>
         </div>
         <div class="event text-center">

@@ -38,16 +38,6 @@ img {
     max-width: 100%;
 }
 
-h1 {
-    font-size: 3em;
-}
-
-h2 {
-    font-size: 2em;
-    margin-top: 10px;
-    margin-bottom: 50px;
-}
-
 .event {
     margin-bottom: 50px;
 }
@@ -76,7 +66,11 @@ h2 {
 .body {
     font-size: 1.2em;
     display: flex;
-    justify-content: center;   
+    justify-content: center;
+
+    p {
+        margin-bottom: 10px;
+    }
 }
 
 .body .inner {
