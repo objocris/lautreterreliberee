@@ -1,5 +1,5 @@
 <script language="ts">
-    import rimbaultTransparent from '$lib/images/rimbault-transparent.png';
+    import rimbaultTransparent from '/static/images/rimbault-transparent.png';
     import affichePdf from '/static/images/affiche.pdf';
     import afficheSansTexte from '/static/images/affiche-sanstexte.png';
     import logoSmall from '/static/images/logo-small.png';
