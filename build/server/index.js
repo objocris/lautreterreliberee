@@ -137,7 +137,7 @@ const options = {
         <meta name="description" content="L'autre terre libérée, une histoire anarchiste luynoise autour de la figure de Louis Rimbault." />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-        <link rel="apple-touch-icon" sizes="180x180" href="` + assets2 + '/favicons/apple-touch-icon.png" />\n        <link rel="icon" type="image/png" sizes="32x32" href="' + assets2 + '/favicons/favicon-32x32.png" />\n        <link rel="icon" type="image/png" sizes="16x16" href="' + assets2 + '/favicons/favicon-16x16.png" />\n        <link rel="manifest" href="' + assets2 + '/favicons/site.webmanifest" />\n        <link rel="mask-icon" href="' + assets2 + '/favicons/safari-pinned-tab.svg" color="#5bbad5" />\n        <meta name="msapplication-TileColor" content="#da532c" />\n        <meta name="theme-color" content="#ffffff" />\n\n        <link rel="preconnect" href="https://fonts.googleapis.com" />\n        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />\n        <link href="https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap" rel="stylesheet" />\n        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet" />\n\n        <link rel="stylesheet" href="' + assets2 + '/css/normalize.css" />\n        <link rel="stylesheet" href="' + assets2 + '/frankie/stylesheet.css" />\n        <link rel="stylesheet" href="' + assets2 + '/css/style.css" />\n\n        <link rel="manifest" href="' + assets2 + '/favicons/site.webmanifest" />\n        <meta name="theme-color" content="#fafafa" />\n\n        ' + head + "\n    </head>\n    <body>\n        " + body + "\n    </body>\n</html>\n",
+        <link rel="apple-touch-icon" sizes="180x180" href="` + assets2 + '/favicons/apple-touch-icon.png" />\n        <link rel="icon" type="image/png" sizes="32x32" href="' + assets2 + '/favicons/favicon-32x32.png" />\n        <link rel="icon" type="image/png" sizes="16x16" href="' + assets2 + '/favicons/favicon-16x16.png" />\n        <link rel="manifest" href="' + assets2 + '/favicons/site.webmanifest" />\n        <link rel="mask-icon" href="' + assets2 + '/favicons/safari-pinned-tab.svg" color="#5bbad5" />\n        <meta name="msapplication-TileColor" content="#da532c" />\n        <meta name="theme-color" content="#ffffff" />\n\n        <link rel="preconnect" href="https://fonts.googleapis.com" />\n        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />\n        <link href="https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap" rel="stylesheet" />\n        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet" />\n\n        <link rel="manifest" href="' + assets2 + '/favicons/site.webmanifest" />\n        <meta name="theme-color" content="#fafafa" />\n\n        ' + head + "\n    </head>\n    <body>\n        " + body + "\n    </body>\n</html>\n",
     error: ({ status, message }) => '<!DOCTYPE html>\n<html lang="en">\n	<head>\n		<meta charset="utf-8" />\n		<title>' + message + `</title>
 
 		<style>
@@ -198,7 +198,7 @@ const options = {
 		<div class="error">
 			<span class="status">` + status + '</span>\n			<div class="message">\n				<h1>' + message + "</h1>\n			</div>\n		</div>\n	</body>\n</html>\n"
   },
-  version_hash: "hhc7ss"
+  version_hash: "19xl2tv"
 };
 function get_hooks() {
   return {};
