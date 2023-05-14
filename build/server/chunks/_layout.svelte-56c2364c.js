@@ -1,5 +1,6 @@
 import { c as create_ssr_component, d as add_attribute } from './index3-f58250d6.js';
-import { r as rimbaultTransparent, l as logoSmall } from './logo-small-ca2e234f.js';
+import { r as rimbaultTransparent } from './rimbault-transparent-ca888b84.js';
+import { l as logoSmall } from './logo-small-4093e461.js';
 
 const Layout = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   return `${slots.default ? slots.default({}) : ``}
@@ -9,4 +10,4 @@ const Layout = create_ssr_component(($$result, $$props, $$bindings, slots) => {
 });
 
 export { Layout as default };
-//# sourceMappingURL=_layout.svelte-64fc3fe3.js.map
+//# sourceMappingURL=_layout.svelte-56c2364c.js.map

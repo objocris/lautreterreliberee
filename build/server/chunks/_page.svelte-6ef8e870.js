@@ -1,5 +1,6 @@
 import { c as create_ssr_component, d as add_attribute } from './index3-f58250d6.js';
-import { r as rimbaultTransparent, l as logoSmall } from './logo-small-ca2e234f.js';
+import { r as rimbaultTransparent } from './rimbault-transparent-ca888b84.js';
+import { l as logoSmall } from './logo-small-4093e461.js';
 
 const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   return `<div class="container"><div class="img-header text-center"><img${add_attribute("src", rimbaultTransparent, 0)} alt="Portrait de Rimbault"></div>
@@ -15,4 +16,4 @@ const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
 });
 
 export { Page as default };
-//# sourceMappingURL=_page.svelte-bffa2a1b.js.map
+//# sourceMappingURL=_page.svelte-6ef8e870.js.map

@@ -4,14 +4,14 @@ const manifest = {
 	assets: new Set(["audio/1.mp3","audio/2.mp3","audio/3.mp3","audio/4.mp3","audio/5.mp3","audio/6.mp3","audio/7.mp3","audio/8.mp3","css/normalize.css","css/style.css","favicons/android-chrome-192x192.png","favicons/apple-touch-icon.png","favicons/browserconfig.xml","favicons/favicon-16x16.png","favicons/favicon-32x32.png","favicons/favicon.ico","favicons/mstile-150x150.png","favicons/safari-pinned-tab.svg","favicons/site.webmanifest","frankie/Frankie.woff","frankie/Frankie.woff2","frankie/stylesheet.css","images/LAUTRETERRELIBEREE.gif","images/affiche-sanstexte.pdf","images/affiche-sanstexte.png","images/affiche.pdf","images/logo-small.png","images/rimbault-transparent.png","images/rimbault.png"]),
 	mimeTypes: {".mp3":"audio/mpeg",".css":"text/css",".png":"image/png",".xml":"application/xml",".ico":"image/vnd.microsoft.icon",".svg":"image/svg+xml",".webmanifest":"application/manifest+json",".woff":"font/woff",".woff2":"font/woff2",".gif":"image/gif",".pdf":"application/pdf"},
 	_: {
-		client: {"start":"_app/immutable/entry/start.ad590a7a.js","app":"_app/immutable/entry/app.45587c9f.js","imports":["_app/immutable/entry/start.ad590a7a.js","_app/immutable/chunks/index.0c59758d.js","_app/immutable/chunks/singletons.4f22be8d.js","_app/immutable/entry/app.45587c9f.js","_app/immutable/chunks/index.0c59758d.js"],"stylesheets":[],"fonts":[]},
+		client: {"start":"_app/immutable/entry/start.7416e306.js","app":"_app/immutable/entry/app.80afd237.js","imports":["_app/immutable/entry/start.7416e306.js","_app/immutable/chunks/index.0c59758d.js","_app/immutable/chunks/singletons.1bb61cef.js","_app/immutable/entry/app.80afd237.js","_app/immutable/chunks/index.0c59758d.js"],"stylesheets":[],"fonts":[]},
 		nodes: [
-			() => import('./chunks/0-4e65896f.js'),
-			() => import('./chunks/1-ce284ad0.js'),
-			() => import('./chunks/2-181abc39.js'),
-			() => import('./chunks/3-a34e3475.js'),
+			() => import('./chunks/0-7cba8f09.js'),
+			() => import('./chunks/1-aa347977.js'),
+			() => import('./chunks/2-fbf987df.js'),
+			() => import('./chunks/3-c22e8c28.js'),
 			() => import('./chunks/4-a4b052f9.js'),
-			() => import('./chunks/5-849e84dc.js')
+			() => import('./chunks/5-5504d0e3.js')
 		],
 		routes: [
 			{

@@ -1,6 +1,7 @@
 import { c as create_ssr_component, d as add_attribute } from './index3-f58250d6.js';
-import { r as rimbaultTransparent, l as logoSmall } from './logo-small-ca2e234f.js';
+import { l as logoSmall } from './logo-small-4093e461.js';
 
+const rimbaultTransparent = "/_app/immutable/assets/rimbault-transparent.9f7c2422.png";
 const affichePdf = "/_app/immutable/assets/affiche.bd1b3200.pdf";
 const afficheSansTexte = "/_app/immutable/assets/affiche-sanstexte.277287d8.png";
 const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
@@ -39,4 +40,4 @@ const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
 });
 
 export { Page as default };
-//# sourceMappingURL=_page.svelte-e204d742.js.map
+//# sourceMappingURL=_page.svelte-003821a6.js.map
