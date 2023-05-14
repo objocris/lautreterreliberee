@@ -5,6 +5,10 @@
     import logoSmall from '$lib/images/logo-small.png';
 </script>
 
+<svelte:head>
+   <title>L'autre terre libérée, à la rencontre de Louis Rimbault</title>
+</svelte:head>
+
 <div class="container">
     <div class="img-header text-center flex justify-center">
         <img src={rimbaultTransparent} alt="Portrait de Louis Rimbault"/>
@@ -68,10 +72,10 @@
         </div>
     </div>
     <div class="footer text-center">
-        <img src={rimbaultTransparent} alt="Portrait pochoir de Louis Rimbault"/>
         <img src={logoSmall} alt="Logo de l'association L'autre terre libérée à Luynes"/>
     </div>
     <div class="liens">
-        <a href="/mentions-legales">Mentions légales</a>
+        <a href="/mentions-legales" class="mr-2 ml-2">Mentions légales</a>
+        <a href="/balade-sonore/1" class="mr-2 ml-2">Balade sonore</a>
     </div>
 </div>

@@ -3,6 +3,10 @@
     import logoSmall from '$lib/images/logo-small.png';
 </script>
 
+<svelte:head>
+   <title>Mentions légales — L'autre terre libérée</title>
+</svelte:head>
+
 <div class="container">
     <div class="flex justify-center">
         <img src={rimbaultTransparent} alt="Portrait de Rimbault"/>

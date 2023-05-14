@@ -5,12 +5,12 @@
 
 <slot/>
 
-<footer>
+<footer class="mb-6">
     <div class="footer text-center">
-        <img src={rimbaultTransparent} alt="Portrait pochoir de Louis Rimbault"/>
         <img src={logoSmall} alt="Logo de l'association L'autre terre libérée à Luynes"/>
     </div>
     <div class="text-center">
-        <a href="/">Accueil</a>
+        <a href="/" class="mr-2 ml-2">Accueil</a>
+        <a href="/mentions-legales" class="mr-2 ml-2">Mentions légales</a>
     </div>
 </footer>
