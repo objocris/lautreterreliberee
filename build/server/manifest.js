@@ -4,12 +4,12 @@ const manifest = {
 	assets: new Set(["audio/1.mp3","audio/2.mp3","audio/3.mp3","audio/4.mp3","audio/5.mp3","audio/6.mp3","audio/7.mp3","audio/8.mp3","css/normalize.css","css/style.css","favicons/android-chrome-192x192.png","favicons/apple-touch-icon.png","favicons/browserconfig.xml","favicons/favicon-16x16.png","favicons/favicon-32x32.png","favicons/favicon.ico","favicons/mstile-150x150.png","favicons/safari-pinned-tab.svg","favicons/site.webmanifest","frankie/Frankie.woff","frankie/Frankie.woff2","frankie/stylesheet.css","images/LAUTRETERRELIBEREE.gif","images/affiche-sanstexte.pdf","images/affiche-sanstexte.png","images/affiche.pdf","images/logo-small.png","images/rimbault-transparent.png","images/rimbault.png"]),
 	mimeTypes: {".mp3":"audio/mpeg",".css":"text/css",".png":"image/png",".xml":"application/xml",".ico":"image/vnd.microsoft.icon",".svg":"image/svg+xml",".webmanifest":"application/manifest+json",".woff":"font/woff",".woff2":"font/woff2",".gif":"image/gif",".pdf":"application/pdf"},
 	_: {
-		client: {"start":"_app/immutable/entry/start.820810fd.js","app":"_app/immutable/entry/app.1c924984.js","imports":["_app/immutable/entry/start.820810fd.js","_app/immutable/chunks/index.0c59758d.js","_app/immutable/chunks/singletons.37c2ab6b.js","_app/immutable/entry/app.1c924984.js","_app/immutable/chunks/index.0c59758d.js"],"stylesheets":[],"fonts":[]},
+		client: {"start":"_app/immutable/entry/start.4ffc4365.js","app":"_app/immutable/entry/app.1e1b3774.js","imports":["_app/immutable/entry/start.4ffc4365.js","_app/immutable/chunks/index.0c59758d.js","_app/immutable/chunks/singletons.5af2fa8d.js","_app/immutable/entry/app.1e1b3774.js","_app/immutable/chunks/index.0c59758d.js"],"stylesheets":[],"fonts":[]},
 		nodes: [
 			() => import('./chunks/0-7cba8f09.js'),
-			() => import('./chunks/1-18bc2b79.js'),
+			() => import('./chunks/1-d53c4579.js'),
 			() => import('./chunks/2-181abc39.js'),
-			() => import('./chunks/3-a34e3475.js'),
+			() => import('./chunks/3-71e09c63.js'),
 			() => import('./chunks/4-a4b052f9.js'),
 			() => import('./chunks/5-849e84dc.js')
 		],

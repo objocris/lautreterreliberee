@@ -1,11 +1,12 @@
 import { c as create_ssr_component, d as add_attribute } from './index3-f58250d6.js';
-import { r as rimbaultTransparent, l as logoSmall } from './logo-small-ca2e234f.js';
 
+const rimbaultTransparent = "/_app/immutable/assets/rimbault-transparent.9f7c2422.png";
 const affichePdf = "/_app/immutable/assets/affiche.bd1b3200.pdf";
 const afficheSansTexte = "/_app/immutable/assets/affiche-sanstexte.277287d8.png";
+const logoSmall = "/_app/immutable/assets/logo-small.96bd569f.png";
 const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   return `<div class="container"><div class="img-header text-center flex justify-center"><img${add_attribute("src", rimbaultTransparent, 0)} alt="Portrait de Louis Rimbault"></div>
-    <h1 class="text-center text-8xl mt-10 mb-10 font-bold">L&#39;autre terre libérée</h1>
+    <h1 class="frankie text-center text-8xl mt-10 mb-10 font-bold">L&#39;autre terre libérée</h1>
     <div class="events"><div class="event text-center"><div class="date">27 juin 2023 — 19h</div>
             <div class="description"><p><a href="https://cafeshistoriques.com/programme/la-rencontre-de-louis-rimbault-et-des-causeries-anarchistes" target="_blank">A la rencontre de Louis Rimbault</a></p>
                 <p>Conférence d&#39;<a href="https://fr.wikipedia.org/wiki/Anne_Steiner" target="_blank">Anne Steiner</a>, sociologue, spécialiste du mouvement individualiste anarchiste</p>
@@ -39,4 +40,4 @@ const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
 });
 
 export { Page as default };
-//# sourceMappingURL=_page.svelte-e204d742.js.map
+//# sourceMappingURL=_page.svelte-62e3edfb.js.map
