@@ -1,15 +1,15 @@
 <script language="ts">
-    import rimbaultTransparent from '/static/images/rimbault-transparent.png';
-    import affichePdf from '/static/images/affiche.pdf';
-    import afficheSansTexte from '/static/images/affiche-sanstexte.png';
-    import logoSmall from '/static/images/logo-small.png';
+    import rimbaultTransparent from '$lib/images/rimbault-transparent.png';
+    import affichePdf from '$lib/images/affiche.pdf';
+    import afficheSansTexte from '$lib/images/affiche-sanstexte.png';
+    import logoSmall from '$lib/images/logo-small.png';
 </script>
 
 <div class="container">
     <div class="img-header text-center flex justify-center">
         <img src={rimbaultTransparent} alt="Portrait de Louis Rimbault"/>
     </div>
-    <h1 class="text-center text-8xl mt-10 mb-10 font-bold">L'autre terre libérée</h1>
+    <h1 class="frankie text-center text-8xl mt-10 mb-10 font-bold">L'autre terre libérée</h1>
     <div class="events">
         <div class="event text-center">
             <div class="date">27 juin 2023 — 19h</div>
