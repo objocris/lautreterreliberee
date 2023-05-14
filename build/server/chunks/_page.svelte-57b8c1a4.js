@@ -15,7 +15,7 @@ const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
 
     <div class="balade-nav flex justify-between frankie text-4xl mt-8 mb-8 ml-3 mr-3">${data.previous ? `<a${add_attribute("href", "/balade-sonore/" + +data.previous.numero, 0)} class="previous" title="Etape précédente"></a>` : ``}
         
-        ${data.next ? `<a${add_attribute("href", "/balade-sonore/" + +data.next.numero, 0)} class="next" title="Etape suivante"></a>` : ``}</div>
+        ${data.next ? `<a${add_attribute("href", "/balade-sonore/" + +data.next.numero, 0)} class="next ml-auto" title="Etape suivante"></a>` : ``}</div>
 
     <div class="texteArdoise text-lg lg:text-2xl mb-6">${each(data.ardoise.texteArdoise, (paragraph) => {
     return `<p class="mb-2">${escape(paragraph)}</p>`;
@@ -27,4 +27,4 @@ const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
 });
 
 export { Page as default };
-//# sourceMappingURL=_page.svelte-69e71dfb.js.map
+//# sourceMappingURL=_page.svelte-57b8c1a4.js.map

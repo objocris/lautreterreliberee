@@ -19,7 +19,7 @@
         {/if}
         
         {#if data.next}
-            <a href={'/balade-sonore/' + (+data.next.numero)} class="next" title="Etape suivante"> </a>
+            <a href={'/balade-sonore/' + (+data.next.numero)} class="next ml-auto" title="Etape suivante"> </a>
         {/if}
     </div>
 
