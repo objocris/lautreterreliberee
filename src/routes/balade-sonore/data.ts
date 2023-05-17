@@ -108,7 +108,7 @@ export const ardoises: Ardoise[] = [
         titre: 'La salade de Rimbault, la Basconnaise',
         texteArdoise :
             [
-                'Louis Rimbault participe à plusieurs expériences de milieux libres, notamment à Bascon dans l’Aisne, auprès de Georges Butaud, anarchiste et végétalien né en 1868. Rimbault y invente une recette d'infinie variété végétale : la Basconnaise.'
+                'Louis Rimbault participe à plusieurs expériences de milieux libres, notamment à Bascon dans l’Aisne, auprès de Georges Butaud, anarchiste et végétalien né en 1868. Rimbault y invente une recette d’infinie variété végétale : la Basconnaise.'
             ],
         texteAudio:
             [
@@ -130,7 +130,7 @@ export const ardoises: Ardoise[] = [
         titre: 'La lutte contre les fléaux',
         texteArdoise :
             [
-                'Toute sa vie, Louis Rimbault mène une lutte acharnée contre l’alcool et le tabac. Il faut replacer dans le contexte d’une époque différente de la nôtre ces combats, contre une consommation de vin, largement encouragée par la publicité, qui crée des ravages dans la population du début du 20e siècle et qui, du point de vue de nombre d’anarchistes, contribue à l'aliénation des masses. Il a écrit nombre d’articles à ce sujet, dans Le Néo-naturien, dont celui-ci.'
+                'Toute sa vie, Louis Rimbault mène une lutte acharnée contre l’alcool et le tabac. Il faut replacer dans le contexte d’une époque différente de la nôtre ces combats, contre une consommation de vin, largement encouragée par la publicité, qui crée des ravages dans la population du début du 20e siècle et qui, du point de vue de nombre d’anarchistes, contribue à l’aliénation des masses. Il a écrit nombre d’articles à ce sujet, dans Le Néo-naturien, dont celui-ci.'
             ],
         texteAudio:
             [
