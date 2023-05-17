@@ -5,7 +5,7 @@ const ardoises = [
     numero: "1",
     titre: "A la rencontre de Louis Rimbault",
     texteArdoise: [
-      "Ce premier podcast vous invite à partir à la rencontre de Louis. Comme vous aujourd’hui, cette histoire nous l’avons découverte au hasard d’une promenade dans Luynes. Nous sommes tombés sur ce premier indice, point de départ de notre enquête, là où nous allons vous emmener."
+      "<strong>Ce premier podcast vous invite à partir à la rencontre de Louis</strong>. Comme vous aujourd’hui, cette histoire nous l’avons découverte au hasard d’une promenade dans <i>Luynes</i>. Nous sommes tombés sur ce premier indice, point de départ de notre enquête, là où nous allons vous emmener."
     ],
     texteAudio: [
       "A Luynes, comme dans beaucoup de villes et villages, nous avons un patrimoine bâti historique qu’on aime à mettre en lumière. Toutes ces vieilles pierres racontent une histoire officielle convenue, lisse et pratique.",
@@ -171,4 +171,4 @@ const stylesheets = [];
 const fonts = [];
 
 export { component, fonts, imports, index, _page_server_ts as server, server_id, stylesheets };
-//# sourceMappingURL=5-1217b027.js.map
+//# sourceMappingURL=5-06d7ae7e.js.map
