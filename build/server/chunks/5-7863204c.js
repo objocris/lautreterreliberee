@@ -9,7 +9,7 @@ const ardoises = [
     ],
     texteAudio: [
       "A Luynes, comme dans beaucoup de villes et villages, nous avons un patrimoine bâti historique qu’on aime à mettre en lumière. Toutes ces vieilles pierres racontent une histoire officielle convenue, lisse et pratique.",
-      "A Luynes, nous avons les vestiges d’un aqueduc romain ; des halles du XVe siècle, point de départ de cette aventure ; une maison à pan de bois, du XVe également ; un château médiéval remodelé à la Renaissance ; et encore quelques autres bâtisses pour le moins magnifiques…",
+      "A Luynes, nous avons les vestiges d’un aqueduc romain ; une halle du XVe siècle, point de départ de cette aventure ; une maison à pan de bois, du XVe également ; un château médiéval remodelé à la Renaissance ; et encore quelques autres bâtisses pour le moins magnifiques…",
       "Tout cela est très classique. Mais n’oublions pas que ces emblèmes forts et imposants ont été construits sur la sueur et le sang d’hommes et de femmes. Et leurs petites histoires, leurs parcours aident à construire la grande.",
       "L’Histoire, celle avec le H en majuscule, est composée de multiples autres plus petites, pour beaucoup certainement banales mais parfois passionnantes.",
       "Et à Luynes, il se trouve que nous en avons une comme cela, une qui a disparu des radars. Une histoire dont le premier indice se trouve dans le cimetière, dans sa partie ancienne, près de l’if.",
@@ -59,7 +59,7 @@ const ardoises = [
     numero: "4",
     titre: "Louis Rimbault s’installe à Luynes",
     texteArdoise: [
-      "1923, Louis Rimbault est à Luynes, il vient d’acheter une propriété pour y installer son projet d’école végétarienne. Dans le journal Le Néo-Naturien, Louis Rimbault décrit avec enthousiasme le paysage qui l’accueille. Vous allez écouter la description d’un paysage luynois de 1923 en contemplant un paysage de 2023."
+      "1923, Louis Rimbault est à Luynes, il vient d’acheter une propriété pour y installer son projet d’école végétarienne. Dans le journal <i>Le Néo-Naturien</i>, Louis Rimbault décrit avec enthousiasme le paysage qui l’accueille. Vous allez écouter la description d’un paysage luynois de 1923 en contemplant un paysage de 2023."
     ],
     texteAudio: [
       "C’est donc à Luynes, près de Tours (11 kilomètres), en pleine Touraine, que s’établira la cité libre végétalienne « TERRE LIBÉRÉE », au lieu-dit « Le Pin ». Les 10 hectares de bonne terre acquits à cet effet sont merveilleusement situés sur un coteau abrité de vents par une ceinture de bois de sapins et de châtaigniers. La propriété domine un ensemble de ravissants panoramas.",
@@ -75,7 +75,7 @@ const ardoises = [
       "Pour Rimbault, être végétarien, en 1910, c’est un acte éminemment politique. En 1923, il lance son appel aux consciences citoyennes pour venir rejoindre la communauté luynoise. Rimbault est un exalté, un tribun, son texte est emprunt de sa verve enthousiaste et excessive si caractéristique, que nous avons malgré tout quelque peu allégée. Vous noterez l’étonnante modernité de ces mots écrits il y a cent ans."
     ],
     texteAudio: [
-      "Appel de Louis Rimbault en décembre 1923, dans « Le Néo Naturien », journal de propagande végétarienne.",
+      "Appel de Louis Rimbault en décembre 1923, dans <i>Le Néo-Naturien</i>, journal de propagande végétarienne.",
       "Pas un naturophile : naturien, naturocrate, végétarien, végétalien, fruitarien n’aura manqué de se réjouir de l’initiative qui consiste à créer, aux environs de Tours, la première cité végétalienne.",
       "Après avoir renversé les bastilles et dressé mille barricades ; après avoir consenti les sacrifices des révolutions sans lendemain ; après avoir espéré dans les mots christianisme, libéralisme, socialisme, anarchisme ; après avoir remplacé les bannières blanches par des rouges et des noires. Les hommes désignés sous le vocable « matériel humain » sont l’enjeu misérable d’un ordinaire marché.",
       "Quelques hommes clairvoyants ont cependant réagi, et, est né sous leurs efforts et l’exemple de leur vie saine, bienveillante et logique LE VÉGÉTALISME, régénérant physiquement, moralement les hommes, en libérant la terre des ses maux.",
@@ -95,16 +95,21 @@ const ardoises = [
       "Louis Rimbault participe à plusieurs expériences de milieux libres, notamment à Bascon dans l’Aisne, auprès de Georges Butaud, anarchiste et végétalien né en 1868. Rimbault y invente une recette d’infinie variété végétale : la Basconnaise."
     ],
     texteAudio: [
-      "A Terre Libérée, Louis Rimbault enseigne et développe ses théories végétaliennes. Il écrit dans le Néo-Naturien, un journal de propagande dédié à cette cause.",
       "Voici donc pour vous les recettes végétaliennes, pour vivre cent ans.",
-      "Les légumes secs : haricots, lentilles, fèves, pois.",
+      "La salade basconnaise (alimentation saine, vivante, complète et innocente) sera composée de toutes verdures potagères, de toutes salades et légumes verts coupés fins, après un lavage soigné à l’eau salée d’abord, et rincés à l’eau courante.",
+      'Les racines crues : carottes, navets, rutabagas, radis noirs, panais, raves, betteraves, pommes de terre, topinambours, seront simplement brossés sans être épluchés - un légume, un fruit épluché perd jusqu’à 8 parties sur 10 de sa valeur nourricière - ils seront donc nettoyés à la brosse à main dans l’eau courante et coupés avec un couteau de ferblanc, dit "couteau à la julienne", vendu communément 0 fr. 50 dans les bazars. Ce couteau, garni de petites encoches, produit une julienne qui fait s’entrelacer, dans un coloris appétissant, puis se confondre, tous les éléments en présence.',
+      "Le radis rose et le salsifis, seront coupés en petites rondelles à l’aide de l’extrémité du couteau, réservée à l’épluchage de la pomme de terre.",
+      "Les fruits, tels que tomate, melon, seront coupés fin en petites tranches, le melon, débarrassé de sa pelure ; le concombre, la pomme, ces deux derniers lavés avec soin et non épluchés, seront débités en julienne, pépins enlevés.",
+      "D’autres fruits tels la cerise - noyau sorti - la groseille à grappe, la framboise, l’amande, la noix, la noisette et le marron - ces quatre derniers coupés en petits morceaux - agrémenteront la basconnaise, suivant ce que la saison fournira de fruits.",
+      "Les légumes secs : haricots, lentilles, fèves, pois, cuits dans les soupes (au moyen de la boule à riz ou d’un petit sac de toile) seront ajoutés dans la proportion d’une cuillerée à bouche ou deux par personne.",
       "Les haricots verts coupés fins, les fèves fraîches coupées en petits morceaux et le petit pois, peuvent entrer, pour une petite part dans la composition de la basconnaise.",
-      "Le chou-fleur (cuit et cru), les légumes verts cuits et la pomme de terre cuite (2 en moyenne par personne), seront également ajoutés.",
+      "Le chou-fleur (cuit et cru), les légumes verts cuits, les croûtons de pain au four - supprimant le pain sur la table - et la pomme de terre cuite (3 en moyenne par personne), seront également ajoutés.",
       "Le blé grillé (doré seulement) et passé au moulin à café, le maïs également, remplaceront avantageusement les croûtons de pains grillés ou dorés à l’huile chaude à la poêle.",
-      "Toutes les variétés de choux crus, coupés très fins, sont tout spécialement recommandés pour leur principe minéralisateurs ; le chou cuit est à écarter de la basconnaise.",
-      "Les amandes et le blé trempés dans l’eau avec quelques gouttes de jus de citron, pendant douze heures au moins, et passé ensuite au hache-viande, font de la basconnaise un aliment complet de soutien et de force. Condiments associés au choix : poireaux, ciboulette, oignons, ail (vert de préférence), pourpier, oseille, persil, cerfeuil, estragon, fenouil, sarriette, raiponce, pimprenelle, champignons crus et fleurs de luzerne, de trèfle, de sainfoin ou capucines, de roses, de genêts.",
-      "A “Terre Libérée”, il entre, dans la composition de la “Basconnaise”, plus de 50 variétés végétales sauvages.",
-      "Un argument opposé à l’idée de la basconnaise et de la cuisine d’infinie variété végétale c’est le temps qu’il faut donner à la préparation des mets. Et nous répondrons à cela, que l’argument ne porte que pour ceux qui n’ont pas de temps, soit qu’ils le gâchent ou qu’ils l’offrent stupidement à la rapacité de ceux qui les dupent ou les exploitent.",
+      "Toutes les variétés de choux crus, coupés très fins, sont tout spécialement recommandés pour leurs principes minéralisateurs ; le chou cuit est à écarter de la basconnaise.",
+      "Les amandes et le blé trempé dans l’eau avec quelques gouttes de jus de citron, pendant 12 heures au moins, et passés ensuite au hache-viande, font de la basconnaise un aliment complet, de soutien et de force. Condiments associés au choix : poireaux, ciboulette, oignons, ail - vert de préférence - pourpier, oseille, persil, cerfeuil, estragon, fenouil, sarriette, raiponce, pimprenelle, champignons crus et fleurs de trèfle, de sainfoin, luzerne ou capucines, roses, genêts, coquelicot, sureau.",
+      "La salade pourra être assaisonnée de citron en remplacement du vinaigre - quelques gouttes de vinaigre peuvent détruire une part importante des principes minéralisateurs - d’huile de bonne qualité, au choix des variétés, et de sel.",
+      "A <i>Terre Libérée</i>, il entre, dans la composition de la “Basconnaise”, plus de 50 variétés végétales sauvages.",
+      "A <i>Terre Libérée</i>, il entre, dans la composition de la “Basconnaise”, plus de 50 variétés végétales sauvages. Un argument opposé à l’idée de la basconnaise et de la cuisine d’infinie variété végétale c’est le temps qu’il faut donner à la préparation des mets. Et nous répondrons à cela, que l’argument ne porte que pour ceux qui n’ont pas de temps, soit qu’ils le gâchent ou qu’ils l’offrent stupidement à la rapacité de ceux qui les dupent ou les exploitent.",
       "Louis Rimbault."
     ]
   },
@@ -112,7 +117,7 @@ const ardoises = [
     numero: "7",
     titre: "La lutte contre les fléaux",
     texteArdoise: [
-      "Toute sa vie, Louis Rimbault mène une lutte acharnée contre l’alcool et le tabac. Il faut replacer dans le contexte d’une époque différente de la nôtre ces combats, contre une consommation de vin, largement encouragée par la publicité, qui crée des ravages dans la population du début du 20e siècle et qui, du point de vue de nombre d’anarchistes, contribue à l’aliénation des masses. Il a écrit nombre d’articles à ce sujet, dans Le Néo-naturien, dont celui-ci."
+      "Toute sa vie, Louis Rimbault mène une lutte acharnée contre l’alcool et le tabac. Il faut replacer dans le contexte d’une époque différente de la nôtre ces combats, contre une consommation de vin, largement encouragée par la publicité, qui crée des ravages dans la population du début du 20e siècle et qui, du point de vue de nombre d’anarchistes, contribue à l’aliénation des masses. Il a écrit nombre d’articles à ce sujet, dans <i>Le Néo-Naturien</i>, dont celui-ci."
     ],
     texteAudio: [
       "Voilà bien une des plus importantes causes de la misère et de l’exploitation ! Les chiffres que nous donnons ci-dessous donneront une idée du gâchis provoqué et justifié par l’usage ou l’abus des choses nuisibles toujours, dangereuses souvent, et mortelles quelquefois.",
@@ -126,7 +131,7 @@ const ardoises = [
     numero: "8",
     titre: "Une visite à Terre Libérée",
     texteArdoise: [
-      "En 1924, un “camarade” du Libertaire, un hebdomadaire fondé en 1895 par Louise Michel et Sébastien Faure, rend visite à Terre Libérée. Cet article rend la visite très vivante, vous découvrez la colonie comme si vous y étiez."
+      "En 1924, un “camarade” du <i>Libertaire</i>, un hebdomadaire fondé en 1895 par Louise Michel et Sébastien Faure, rend visite à Terre Libérée. Cet article rend la visite très vivante, vous découvrez la colonie comme si vous y étiez."
     ],
     texteAudio: [
       "Je profitai de ma présence à Tours, pour aller visiter la colonie où Rimbault et quelques pionniers sont en train, depuis une quarantaine de jours, de défricher un sol ingrat. La question des colonies anarchistes m’intéressait au plus haut point, je partis d’enthousiasme.",
@@ -171,4 +176,4 @@ const stylesheets = [];
 const fonts = [];
 
 export { component, fonts, imports, index, _page_server_ts as server, server_id, stylesheets };
-//# sourceMappingURL=5-06d7ae7e.js.map
+//# sourceMappingURL=5-7863204c.js.map
