@@ -1,9 +1,10 @@
 <script>
     import { page } from '$app/stores';
     import { onMount } from 'svelte';
-	// export let data;
-    // $: audioPath = '/audio/' + data.ardoise.numero + '.mp3';
+	export let data;
+    $: audioPath = '/audio/' + data.ardoise.numero + '.mp3';
 
+    /*
     onMount(async () => {
         const headers = new Headers({
             'Content-Type': 'application/json',
@@ -14,16 +15,14 @@
 		const res = await fetch(url, { headers });
         console.log(res);
 	});
+    */
 </script>
 
 <svelte:head>
-    <!--
    <title>{data.ardoise.titre} — L'autre terre libérée</title>
-    -->
 </svelte:head>
 
 <div class="max-w-screen-lg m-auto pl-6 pr-6">
-    <!--
     <h5 class="frankie text-2xl mt-6">Etape {data.ardoise.numero}</h5>
     <h1 class="frankie text-4xl mb-6">{data.ardoise.titre}</h1>
 
@@ -50,5 +49,4 @@
             <p class="mb-3">{@html paragraph}</p>
         {/each}
     </div>
-    -->
 </div>

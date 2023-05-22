@@ -11,7 +11,7 @@ export const ardoises: Ardoise[] = [
         titre: 'A la rencontre de Louis Rimbault',
         texteArdoise :
             [
-                '<strong>Ce premier podcast vous invite à partir à la rencontre de Louis</strong>. Comme vous aujourd’hui, cette histoire nous l’avons découverte au hasard d’une promenade dans <i>Luynes</i>. Nous sommes tombés sur ce premier indice, point de départ de notre enquête, là où nous allons vous emmener.'
+                'Ce premier podcast vous invite à partir à la rencontre de Louis. Comme vous aujourd’hui, cette histoire nous l’avons découverte au hasard d’une promenade dans Luynes. Nous sommes tombés sur ce premier indice, point de départ de notre enquête, là où nous allons vous emmener.'
             ],
         texteAudio:
             [
