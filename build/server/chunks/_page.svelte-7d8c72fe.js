@@ -16,7 +16,7 @@ const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
                 <p>dans le cadre des <a href="https://cafeshistoriques.com/" target="_blank">Cafés historiques en région Centre-Val de Loire</a></p></div>
             <div class="lieu"><p><a class="text-white" href="https://www.openstreetmap.org/?mlat=47.38562&mlon=0.55435#map=19/47.38562/0.55435" target="_blank">Halles de Luynes</a></p></div></div>
         <div class="event text-center"><div class="date">2 juillet 2023</div>
-            <div class="description"><p>Champ Libres, à la découverte de Terre Libérée</p>
+            <div class="description"><p>Champ Libre, à la découverte de Terre Libérée</p>
                 <p>Balade sonore — Pique-nique partagé</p>
                 <p>Fresque du climat — Causeries en plein air</p></div>
             <div class="lieu"><p><a href="https://www.openstreetmap.org/?mlat=47.39772&mlon=0.53513#map=18/47.39772/0.53513" target="_blank">Terrain l&#39;autre terre libérée</a></p></div></div></div>
@@ -41,4 +41,4 @@ const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
 });
 
 export { Page as default };
-//# sourceMappingURL=_page.svelte-67b8322e.js.map
+//# sourceMappingURL=_page.svelte-7d8c72fe.js.map
