@@ -34,7 +34,7 @@
         <div class="event text-center">
             <div class="date">2 juillet 2023</div>
             <div class="description">
-                <p>Champ Libres, à la découverte de Terre Libérée</p>
+                <p>Champ Libre, à la découverte de Terre Libérée</p>
                 <p>Balade sonore — Pique-nique partagé</p>
                 <p>Fresque du climat — Causeries en plein air</p>
             </div>
