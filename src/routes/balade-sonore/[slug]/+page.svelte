@@ -23,7 +23,7 @@
 </svelte:head>
 
 <div class="max-w-screen-lg m-auto pl-6 pr-6">
-    <h5 class="frankie text-2xl mt-6">Etape {data.ardoise.numero}</h5>
+    <h5 class="frankie text-2xl mt-6">Ardoise {data.ardoise.numero}</h5>
     <h1 class="frankie text-4xl mb-6">{data.ardoise.titre}</h1>
 
     <audio controls src={audioPath} class="w-full mb-6"/>
