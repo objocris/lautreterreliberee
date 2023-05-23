@@ -5,7 +5,7 @@ const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   let { data } = $$props;
   if ($$props.data === void 0 && $$bindings.data && data !== void 0)
     $$bindings.data(data);
-  audioPath = "/audio/" + data.ardoise.numero + ".mp3";
+  audioPath = `/audio/${data.ardoise.numero}.mp3`;
   return `${$$result.head += `<!-- HEAD_svelte-16us0vy_START -->${$$result.title = `<title>${escape(data.ardoise.titre)} — L&#39;autre terre libérée</title>`, ""}<!-- HEAD_svelte-16us0vy_END -->`, ""}
 
 <div class="max-w-screen-lg m-auto pl-6 pr-6"><h5 class="frankie text-2xl mt-6">Ardoise ${escape(data.ardoise.numero)}</h5>
@@ -27,4 +27,4 @@ const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
 });
 
 export { Page as default };
-//# sourceMappingURL=_page.svelte-0d5097cc.js.map
+//# sourceMappingURL=_page.svelte-44f547b6.js.map

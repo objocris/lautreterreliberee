@@ -2,7 +2,7 @@
     import { page } from '$app/stores';
     import { onMount } from 'svelte';
 	export let data;
-    $: audioPath = '/audio/' + data.ardoise.numero + '.mp3';
+    $: audioPath = `/audio/${data.ardoise.numero}.mp3`;
 
     /*
     onMount(async () => {
