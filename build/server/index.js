@@ -133,14 +133,14 @@ const options = {
 <html lang="en">
     <head>
         <!-- Google tag (gtag.js) -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-MYHJ7N5MJ9"><\/script>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-TE2G0SWJP7"><\/script>
         <script>
             window.dataLayer = window.dataLayer || [];
             function gtag() {
                 dataLayer.push(arguments);
             }
             gtag("js", new Date());
-            gtag("config", "G-MYHJ7N5MJ9");
+            gtag("config", "G-TE2G0SWJP7");
         <\/script>
 
         <meta charset="utf-8" />
@@ -209,7 +209,7 @@ const options = {
 		<div class="error">
 			<span class="status">` + status + '</span>\n			<div class="message">\n				<h1>' + message + "</h1>\n			</div>\n		</div>\n	</body>\n</html>\n"
   },
-  version_hash: "hujc63"
+  version_hash: "kr2qz4"
 };
 function get_hooks() {
   return {};
