@@ -132,6 +132,17 @@ const options = {
     app: ({ head, body, assets: assets2, nonce, env }) => `<!DOCTYPE html>
 <html lang="en">
     <head>
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-MYHJ7N5MJ9"><\/script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag("js", new Date());
+            gtag("config", "G-MYHJ7N5MJ9");
+        <\/script>
+
         <meta charset="utf-8" />
         <title>L'autre terre libérée</title>
         <meta name="description" content="L'autre terre libérée, une histoire anarchiste luynoise autour de la figure de Louis Rimbault." />
@@ -198,7 +209,7 @@ const options = {
 		<div class="error">
 			<span class="status">` + status + '</span>\n			<div class="message">\n				<h1>' + message + "</h1>\n			</div>\n		</div>\n	</body>\n</html>\n"
   },
-  version_hash: "z33b2o"
+  version_hash: "hujc63"
 };
 function get_hooks() {
   return {};
