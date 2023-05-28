@@ -13,6 +13,10 @@ html {
 
 a {
     color: #CF171E;
+
+    &:hover {
+        text-decoration: underline;
+    }
 }
 
 ul {
@@ -20,7 +24,6 @@ ul {
 }
 
 .container {
-    padding: 50px;
     margin: auto;
 }
 
