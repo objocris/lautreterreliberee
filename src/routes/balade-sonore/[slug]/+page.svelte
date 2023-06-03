@@ -34,7 +34,7 @@
             <a href={`/balade-sonore/${data.previous.numero}`} class="previous" title="Ardoise précédente" />
         {/if}
         {#if data.next}
-            <a href={`/balade-sonore/${data.next.numero}`} class="next ml-auto" class:disabled={disableNext} title={disableNext ? "A suivre..." : "Etape suivante"} />
+            <a href={disableNext ? "#" : `/balade-sonore/${data.next.numero}`} class="next ml-auto" class:disabled={disableNext} title={disableNext ? "A suivre..." : "Etape suivante"} />
         {/if}
     </div>
 
@@ -70,7 +70,6 @@
             &.disabled {
                 opacity: 0.5;
                 cursor: not-allowed;
-                pointer-events: none;
             }
         }
     }

@@ -1,7 +1,7 @@
 import { c as create_ssr_component, e as escape, b as add_attribute, f as each } from './index3-f6dc7f44.js';
 
 const css = {
-  code: ".balade-nav.svelte-1gk2qq4.svelte-1gk2qq4{display:flex;align-items:center}.balade-nav.svelte-1gk2qq4 a.svelte-1gk2qq4{border-right:10px solid #12133b;border-bottom:10px solid #12133b;width:30px;height:30px;transform:rotate(-45deg)}.balade-nav.svelte-1gk2qq4 a.previous.svelte-1gk2qq4{transform:rotate(135deg)}.balade-nav.svelte-1gk2qq4 a.disabled.svelte-1gk2qq4{opacity:0.5;cursor:not-allowed;pointer-events:none}",
+  code: ".balade-nav.svelte-1gel4hs.svelte-1gel4hs{display:flex;align-items:center}.balade-nav.svelte-1gel4hs a.svelte-1gel4hs{border-right:10px solid #12133b;border-bottom:10px solid #12133b;width:30px;height:30px;transform:rotate(-45deg)}.balade-nav.svelte-1gel4hs a.previous.svelte-1gel4hs{transform:rotate(135deg)}.balade-nav.svelte-1gel4hs a.disabled.svelte-1gel4hs{opacity:0.5;cursor:not-allowed}",
   map: null
 };
 const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
@@ -20,8 +20,8 @@ const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
 
     <audio controls${add_attribute("src", audioPath, 0)} class="w-full mb-6"></audio>
 
-    <div class="balade-nav flex justify-between frankie text-4xl mt-8 mb-8 ml-3 mr-3 svelte-1gk2qq4">${data.previous ? `<a${add_attribute("href", `/balade-sonore/${data.previous.numero}`, 0)} class="previous svelte-1gk2qq4" title="Ardoise précédente"></a>` : ``}
-        ${data.next ? `<a${add_attribute("href", `/balade-sonore/${data.next.numero}`, 0)} class="${["next ml-auto svelte-1gk2qq4", disableNext ? "disabled" : ""].join(" ").trim()}"${add_attribute("title", disableNext ? "A suivre..." : "Etape suivante", 0)}></a>` : ``}</div>
+    <div class="balade-nav flex justify-between frankie text-4xl mt-8 mb-8 ml-3 mr-3 svelte-1gel4hs">${data.previous ? `<a${add_attribute("href", `/balade-sonore/${data.previous.numero}`, 0)} class="previous svelte-1gel4hs" title="Ardoise précédente"></a>` : ``}
+        ${data.next ? `<a${add_attribute("href", disableNext ? "#" : `/balade-sonore/${data.next.numero}`, 0)} class="${["next ml-auto svelte-1gel4hs", disableNext ? "disabled" : ""].join(" ").trim()}"${add_attribute("title", disableNext ? "A suivre..." : "Etape suivante", 0)}></a>` : ``}</div>
 
     <div class="texteArdoise text-lg lg:text-2xl mb-6">${each(data.ardoise.texteArdoise, (paragraph) => {
     return `<p class="mb-2"><!-- HTML_TAG_START -->${paragraph}<!-- HTML_TAG_END --></p>`;
@@ -34,4 +34,4 @@ const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
 });
 
 export { Page as default };
-//# sourceMappingURL=_page.svelte-c9411c3a.js.map
+//# sourceMappingURL=_page.svelte-60e66517.js.map
