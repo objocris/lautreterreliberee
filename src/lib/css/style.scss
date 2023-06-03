@@ -99,23 +99,6 @@ img {
     align-items: center;
 }
 
-.balade-nav {
-    display: flex;
-    align-items: center;
-
-    a {
-        border-right:10px solid #12133B;
-        border-bottom:10px solid #12133B;
-        width:30px;
-        height:30px;
-        transform: rotate(-45deg);
-
-        &.previous {
-            transform: rotate(135deg);
-        }
-    }
-}
-
 @media screen and (min-width: 768px) {
     h1 {
         font-size: 5em;

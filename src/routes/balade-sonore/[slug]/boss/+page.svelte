@@ -3,7 +3,6 @@
     // import { onMount } from "svelte";
     export let data;
     $: audioPath = `/audio/${data.ardoise.numero}.mp3`;
-    $: disableNext = +data.ardoise.numero >= 2;
 
     /*
     onMount(async () => {
@@ -31,10 +30,10 @@
 
     <div class="balade-nav flex justify-between frankie text-4xl mt-8 mb-8 ml-3 mr-3">
         {#if data.previous}
-            <a href={`/balade-sonore/${data.previous.numero}`} class="previous" title="Ardoise précédente" />
+            <a href={`/balade-sonore/${data.previous.numero}/boss`} class="previous" title="Ardoise précédente" />
         {/if}
         {#if data.next}
-            <a href={`/balade-sonore/${data.next.numero}`} class="next ml-auto" class:disabled={disableNext} title={disableNext ? "A suivre..." : "Etape suivante"} />
+            <a href={`/balade-sonore/${data.next.numero}/boss`} class="next ml-auto" title="Ardoise suivante" />
         {/if}
     </div>
 
@@ -65,12 +64,6 @@
 
             &.previous {
                 transform: rotate(135deg);
-            }
-
-            &.disabled {
-                opacity: 0.5;
-                cursor: not-allowed;
-                pointer-events: none;
             }
         }
     }
