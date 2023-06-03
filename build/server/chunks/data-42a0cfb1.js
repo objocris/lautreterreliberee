@@ -6,11 +6,11 @@ const ardoises = [
       "Ce premier podcast vous invite à partir à la rencontre de Louis. Comme vous aujourd’hui, cette histoire nous l’avons découverte au hasard d’une promenade dans Luynes. Nous sommes tombés sur ce premier indice, point de départ de notre enquête, là où nous allons vous emmener."
     ],
     texteAudio: [
-      "A Luynes, comme dans beaucoup de villes et villages, nous avons un patrimoine bâti historique qu’on aime à mettre en lumière. Toutes ces vieilles pierres racontent une histoire officielle convenue, lisse et pratique.",
-      "A Luynes, nous avons les vestiges d’un aqueduc romain ; une halle du XVe siècle, point de départ de cette aventure ; une maison à pan de bois, du XVe également ; un château médiéval remodelé à la Renaissance ; et encore quelques autres bâtisses pour le moins magnifiques…",
-      "Tout cela est très classique. Mais n’oublions pas que ces emblèmes forts et imposants ont été construits sur la sueur et le sang d’hommes et de femmes. Et leurs petites histoires, leurs parcours aident à construire la grande.",
-      "L’Histoire, celle avec le H en majuscule, est composée de multiples autres plus petites, pour beaucoup certainement banales mais parfois passionnantes.",
-      "Et à Luynes, il se trouve que nous en avons une comme cela, une qui a disparu des radars. Une histoire dont le premier indice se trouve dans le cimetière, dans sa partie ancienne, près de l’if.",
+      "A Luynes, comme dans beaucoup de villes et villages, nous avons un patrimoine bâti historique qu’on aime à mettre en lumière. Toutes ces vieilles pierres racontent une histoire officielle.",
+      "A Luynes, nous avons les vestiges d’un aqueduc romain ; une halle du XVe siècle, point de départ de cette promenade ; une maison à pan de bois, du XVe également ; un château médiéval remodelé à la Renaissance ; et encore quelques autres bâtisses pour le moins magnifiques…",
+      "A côté de ces emblèmes forts et imposants, construits sur la sueur et le sang d’hommes et de femmes, il y a leurs petites histoires, leurs parcours.",
+      "L’Histoire, celle avec le H en majuscule, est composée de ces multiples autres plus petites, pour beaucoup certainement banales mais parfois passionnantes.",
+      "Et à Luynes, il se trouve que nous en avons une comme cela, une qui a disparu des mémoires. Une histoire dont le premier indice se trouve dans le cimetière, dans sa partie ancienne, près de l’if.",
       "C’est là-bas que nous avons rencontré Louis pour la première fois, et c’est là-bas que nous vous invitons également à le rencontrer pour la première fois. A lire l’épitaphe sur sa tombe."
     ]
   },
@@ -148,4 +148,4 @@ const ardoises = [
 ].sort((a, b) => a.numero.localeCompare(b.numero));
 
 export { ardoises as a };
-//# sourceMappingURL=data-0708aaa7.js.map
+//# sourceMappingURL=data-42a0cfb1.js.map
