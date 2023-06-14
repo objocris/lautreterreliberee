@@ -263,10 +263,13 @@ const map = {
     ]
   }
 };
+const programmeChampLibrePdf = "/_app/immutable/assets/champ-libre-2023.9a3989b1.pdf";
 const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   return `<div class="img-header text-center flex justify-center mb-10"><img${add_attribute("src", afficheSansTexte, 0)} alt="Affiche Champ Libre 2023" class="w-60 max-w-full"></div>
 
-<h1 class="frankie text-2xl md:text-4xl lg:text-6xl text-center mb-12 text-white bg-atl-blue p-4">Champ Libre<br>À la découverte de Terre Libérée</h1>
+<h1 class="frankie text-2xl md:text-4xl lg:text-6xl text-center text-white bg-atl-blue p-4">Champ Libre<br>À la découverte de Terre Libérée</h1>
+
+<div class="text-center my-12"><a${add_attribute("href", programmeChampLibrePdf, 0)} target="_blank" class="text-2xl">Version PDF</a></div>
 
 <span class="frankie text-atl-blue text-2xl md:text-6xl block">Mardi 27 juin 2023</span>
 
@@ -377,4 +380,4 @@ const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
 });
 
 export { Page as default };
-//# sourceMappingURL=_page.svelte-e66f6bf3.js.map
+//# sourceMappingURL=_page.svelte-aa1b62d5.js.map

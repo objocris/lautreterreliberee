@@ -3,12 +3,15 @@ import { r as rimbaultTransparent } from './rimbault-transparent-ca888b84.js';
 
 const cartePostale = "/_app/immutable/assets/carte-postale.6fcd83ab.png";
 const mugshot = "/_app/immutable/assets/mugshot.497cb4fb.png";
+const presentationAssociationPdf = "/_app/immutable/assets/l-autre-terre-liberee.3ad41616.pdf";
 const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   return `${$$result.head += `<!-- HEAD_svelte-1o8280v_START -->${$$result.title = `<title>L&#39;association &quot;L&#39;Autre terre libérée&quot;, à la rencontre de Louis Rimbault</title>`, ""}<!-- HEAD_svelte-1o8280v_END -->`, ""}
 
 <h1 class="frankie text-center text-4xl md:text-6xl font-bold">L&#39;autre Terre Libérée</h1>
 
 <div class="text-center flex justify-center mb-8"><img${add_attribute("src", cartePostale, 0)} alt="Carte postale Terre Libérée" class="w-96"></div>
+
+<div class="text-center my-6"><a${add_attribute("href", presentationAssociationPdf, 0)} target="_blank">Version PDF</a></div>
 
 <p class="text-base md:text-xl mb-4">Notre association a pour objet d’exhumer l’histoire de Terre Libérée disparue de la mémoire collective. Elle a aussi pour vocation d’organiser des moments de convivialité et de promouvoir le vivre ensemble, le tout dans une démarche coopérative et respectueuse de l’environnement. L’essence même
     de cette initiative locale réside dans la volonté de créer du lien et vient questionner le sens de « faire communauté » aujourd’hui.
@@ -49,4 +52,4 @@ const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
 });
 
 export { Page as default };
-//# sourceMappingURL=_page.svelte-955c954a.js.map
+//# sourceMappingURL=_page.svelte-42f90eb9.js.map

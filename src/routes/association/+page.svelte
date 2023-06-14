@@ -2,6 +2,7 @@
     import rimbaultTransparent from "$lib/images/rimbault-transparent.png";
     import cartePostale from "$lib/images/carte-postale.png";
     import mugshot from "$lib/images/mugshot.png";
+    import presentationAssociationPdf from "$lib/images/l-autre-terre-liberee.pdf";
 </script>
 
 <svelte:head>
@@ -12,6 +13,10 @@
 
 <div class="text-center flex justify-center mb-8">
     <img src={cartePostale} alt="Carte postale Terre Libérée" class="w-96" />
+</div>
+
+<div class="text-center my-6">
+    <a href={presentationAssociationPdf} target="_blank">Version PDF</a>
 </div>
 
 <p class="text-base md:text-xl mb-4">

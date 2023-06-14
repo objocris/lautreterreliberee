@@ -3,13 +3,18 @@
     import Icon from "svelte-awesome";
     import map from "svelte-awesome/icons/map";
     import rimbaultTransparent from "$lib/images/rimbault-transparent.png";
+    import programmeChampLibrePdf from "$lib/images/champ-libre-2023.pdf";
 </script>
 
 <div class="img-header text-center flex justify-center mb-10">
     <img src={afficheSansTexte} alt="Affiche Champ Libre 2023" class="w-60 max-w-full" />
 </div>
 
-<h1 class="frankie text-2xl md:text-4xl lg:text-6xl text-center mb-12 text-white bg-atl-blue p-4">Champ Libre<br />À la découverte de Terre Libérée</h1>
+<h1 class="frankie text-2xl md:text-4xl lg:text-6xl text-center text-white bg-atl-blue p-4">Champ Libre<br />À la découverte de Terre Libérée</h1>
+
+<div class="text-center my-12">
+    <a href={programmeChampLibrePdf} target="_blank" class="text-2xl">Version PDF</a>
+</div>
 
 <span class="frankie text-atl-blue text-2xl md:text-6xl block">Mardi 27 juin 2023</span>
 
