@@ -297,9 +297,9 @@ const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
     {},
     {}
   )}</a></span>
-<h2 class="text-base md:text-2xl text-atl-red font-bold">10h &gt; 12h - Départ de la halle de Luynes</h2>
-<p class="text-base lg:text-2xl mb-4">Promenade d’environ 2h, parsemée de podcasts pour découvrir l’histoire de Louis Rimbault et de son école de pratique végétalienne Terre Libérée. Cette balade sonore proposée par l’association L’autre Terre Libérée vous raconte cette expérience qui a eu lieu à Luynes entre 1923 et 1949, et qui a
-    disparu des mémoires collectives. Tout au long du parcours, des ardoises informatives vous invitent à scanner des QR Codes pour écouter des petites pastilles audio tout en cheminant jusqu’au terrain de l’association.
+<h2 class="text-base md:text-2xl text-atl-red font-bold">10h &gt; 12h - Départ de la halle de Luynes - <a href="/balade-sonore/1">Podcasts</a></h2>
+<p class="text-base lg:text-2xl mb-4">Promenade d’environ 2h, parsemée de <a href="/balade-sonore/1">podcasts</a> pour découvrir l’histoire de Louis Rimbault et de son école de pratique végétalienne Terre Libérée. Cette balade sonore proposée par l’association L’autre Terre Libérée vous raconte cette expérience qui a eu lieu à Luynes
+    entre 1923 et 1949, et qui a disparu des mémoires collectives. Tout au long du parcours, des ardoises informatives vous invitent à scanner des QR Codes pour écouter des petites pastilles audio tout en cheminant jusqu’au terrain de l’association.
 </p>
 <p class="font-bold italic text-base lg:text-2xl">Informations pratiques :</p>
 <p class="italic text-base lg:text-2xl mb-4">Nous vous invitons à vous garer dans les parkings du centre du village puis de vous rendre sous la halle pour le départ de la balade. Prévoir 2 heures pour l’aller, un temps sur place, puis environ 40 minutes de marche pour le retour. Pour ceux qui voudraient éviter la marche, il est possible de
@@ -377,4 +377,4 @@ const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
 });
 
 export { Page as default };
-//# sourceMappingURL=_page.svelte-39d8db1d.js.map
+//# sourceMappingURL=_page.svelte-e66f6bf3.js.map
