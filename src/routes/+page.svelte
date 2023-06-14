@@ -1,71 +1,98 @@
 <script language="ts">
-    import rimbaultTransparent from "$lib/images/rimbault-transparent.png";
-    import affichePdf from "$lib/images/affiche.pdf";
     import afficheSansTexte from "$lib/images/affiche-sanstexte.png";
+    import Icon from "svelte-awesome";
+    import map from "svelte-awesome/icons/map";
+    import rimbaultTransparent from "$lib/images/rimbault-transparent.png";
 </script>
 
-<svelte:head>
-    <title>L'autre terre libérée, à la rencontre de Louis Rimbault</title>
-</svelte:head>
-
-<div class="img-header text-center flex justify-center">
-    <img src={rimbaultTransparent} alt="Portrait de Louis Rimbault" />
-</div>
-<h1 class="frankie text-center text-6xl mt-10 mb-10 font-bold">L'autre terre libérée</h1>
-<div class="events">
-    <div class="event text-center">
-        <div class="date">27 juin 2023 — 19h</div>
-        <div class="description">
-            <p>
-                <a href="https://cafeshistoriques.com/programme/la-rencontre-de-louis-rimbault-et-des-causeries-anarchistes" target="_blank">A la rencontre de Louis Rimbault</a>
-            </p>
-            <p>Conférence d'<a href="https://fr.wikipedia.org/wiki/Anne_Steiner" target="_blank">Anne Steiner</a>, sociologue, spécialiste du mouvement individualiste anarchiste</p>
-            <p>en partenariat avec le <a href="https://rdv-histoire.com" target="_blank">Centre Européen de la Promotion de l'Histoire</a></p>
-            <p>dans le cadre des <a href="https://cafeshistoriques.com/" target="_blank">Cafés historiques en région Centre-Val de Loire</a></p>
-        </div>
-        <div class="lieu">
-            <p>
-                <a class="text-white" href="https://www.openstreetmap.org/?mlat=47.38562&mlon=0.55435#map=19/47.38562/0.55435" target="_blank">Halles de Luynes</a>
-            </p>
-        </div>
-    </div>
-    <div class="event text-center">
-        <div class="date">2 juillet 2023</div>
-        <div class="description">
-            <p>Champ Libre, à la découverte de Terre Libérée</p>
-            <p>Balade sonore — Pique-nique partagé</p>
-            <p>Fresque du climat — Causeries en plein air</p>
-        </div>
-        <div class="lieu">
-            <p><a href="https://www.openstreetmap.org/?mlat=47.39772&mlon=0.53513#map=18/47.39772/0.53513" target="_blank">Terrain l'autre terre libérée</a></p>
-        </div>
-    </div>
+<div class="img-header text-center flex justify-center mb-10">
+    <img src={afficheSansTexte} alt="Affiche Champ Libre 2023" class="w-60 max-w-full" />
 </div>
 
-<div class="affiche-wrapper flex justify-center">
-    <a href={affichePdf} target="_blank">
-        <img src={afficheSansTexte} class="affiche" alt="Affiche de l'événement Champ Libre à Luynes" />
+<h1 class="frankie text-2xl md:text-4xl lg:text-6xl text-center mb-12 text-white bg-atl-blue p-4">Champ Libre<br />À la découverte de Terre Libérée</h1>
+
+<span class="frankie text-atl-blue text-2xl md:text-6xl block">Mardi 27 juin 2023</span>
+
+<span class="frankie text-atl-red text-2xl md:text-4xl">
+    <a href="https://cafeshistoriques.com/programme/la-rencontre-de-louis-rimbault-et-des-causeries-anarchistes" class="frankie">«À la rencontre de Louis Rimbault et des causeries anarchistes»</a>
+    <a href="https://osm.org/go/0AU8MOGON?way=68947126" target="blank">
+        <Icon data={map} class="w-4 md:w-8 h-4 md:h-8" />
     </a>
-</div>
+</span>
+<h2 class="text-base md:text-2xl text-atl-red font-bold">19h</h2>
+<p class="text-base lg:text-2xl mb-4">
+    Conférence d'<a href="https://fr.wikipedia.org/wiki/Anne_Steiner" target="_blank">Anne Steiner</a>, sociologue, spécialiste du <a href="https://fr.wikipedia.org/wiki/Anarchisme_individualiste" target="_blank">mouvement individualiste anarchiste</a>, en partenariat avec les
+    <a href="https://rdv-histoire.com/" target="_blank">Rendez-vous de l'histoire de Blois</a>, dans le cadre des <a href="https://cafeshistoriques.com/" target="_blank">cafés historiques en région Centre Val-de-Loire</a>.
+</p>
 
-<div class="body">
-    <div class="inner">
-        <p>
-            <strong>L’Autre Terre Libérée</strong> est une joyeuse association citoyenne qui a pour vocation de valoriser l’histoire passée d’une expérience communautaire, végétarienne et anarchiste réalisée sur territoire luynois (37) entre 1923 et 1949. L’expérience, dont la mémoire locale a fait
-            table rase, était une école de pratique végétalienne, elle se nommait <strong>Terre Libérée</strong> et son initiateur se nommait <a href="https://fr.wikipedia.org/wiki/Louis_Rimbault" target="_blank"><strong>Louis Rimbault</strong></a>.
-        </p>
-        <p>
-            Au-delà d’un devoir de mémoire, l’association a pour vocation d’organiser des moments de partage et de convivialité, de promouvoir la transition écologique et le vivre ensemble, le tout dans une démarche coopérative. L’essence même de cette initiative locale réside dans la volonté de
-            créer du lien et vient questionner le sens de “faire communauté” aujourd’hui.
-        </p>
-        <p>
-            L’expérience communautaire <strong>Terre Libérée</strong> s’est déroulée sur les hauteurs de Luynes, rue des pins. La ferme est encore visible mais appartient à des privés. Une parcelle de 2500m2, jouxtant l’expérience a été donnée en gestion à l’association. Sur cette prairie boisée, l’association
-            a pour objectif de laisser en permanence un jardin offert aux promeneurs.
-        </p>
-        <p>
-            Dans cet espace en accès libre, l’association raconte sur des ardoises gravées ce morceau de patrimoine disparu des mémoires collectives. Ce jardin se trouvant sur un parcours de promenade, du mobilier de plein air va être réalisé par les membres de l’association (en cours de
-            réalisation) et proposé aux promeneurs afin qu’ils puissent s’y arrêter faire un pique nique. Nous prévoyons une promenade identifiée (en accord avec la mairie) depuis les halles de Luynes.
-        </p>
-        <p>C’est dans ce cadre que les adhérents de L’autre terre libérée ont décidé d’organiser le premier événement de l’association le <strong>mardi 27 juin</strong> et le <strong>dimanche 2 juillet 2023</strong> sur la commune de Luynes.</p>
-    </div>
+<span class="frankie text-atl-blue text-2xl md:text-6xl mt-8 block">Dimanche 2 juillet 2023</span>
+
+<span class="frankie text-atl-red text-2xl md:text-4xl">
+    Balade sonore
+    <a href="https://osm.org/go/0AU8MOGON?way=68947126" target="blank">
+        <Icon data={map} class="w-4 md:w-8 h-4 md:h-8" />
+    </a>
+</span>
+<h2 class="text-base md:text-2xl text-atl-red font-bold">10h > 12h - Départ de la halle de Luynes</h2>
+<p class="text-base lg:text-2xl mb-4">
+    Promenade d’environ 2h, parsemée de podcasts pour découvrir l’histoire de Louis Rimbault et de son école de pratique végétalienne Terre Libérée. Cette balade sonore proposée par l’association L’autre Terre Libérée vous raconte cette expérience qui a eu lieu à Luynes entre 1923 et 1949, et qui a
+    disparu des mémoires collectives. Tout au long du parcours, des ardoises informatives vous invitent à scanner des QR Codes pour écouter des petites pastilles audio tout en cheminant jusqu’au terrain de l’association.
+</p>
+<p class="font-bold italic text-base lg:text-2xl">Informations pratiques :</p>
+<p class="italic text-base lg:text-2xl mb-4">
+    Nous vous invitons à vous garer dans les parkings du centre du village puis de vous rendre sous la halle pour le départ de la balade. Prévoir 2 heures pour l’aller, un temps sur place, puis environ 40 minutes de marche pour le retour. Pour ceux qui voudraient éviter la marche, il est possible de
+    se garer sur le parking du supermarché, puis de descendre jusqu’au terrain (environ 10 minutes de marche).
+</p>
+<span class="frankie text-atl-red text-2xl md:text-4xl">
+    Pique-nique partagé & Causeries
+    <a href="https://osm.org/go/0AU8Qn3Nl-?m=" target="blank">
+        <Icon data={map} class="w-4 md:w-8 h-4 md:h-8" />
+    </a>
+</span>
+<h2 class="text-base md:text-2xl text-atl-red font-bold">12h30 - Terrain de l'association</h2>
+<p class="text-base lg:text-2xl mb-4">
+    Chaque participant est invité à préparer une spécialité culinaire, à la déposer sur la table pour partager le moment convivial du repas. Une buvette sera également disponible pour se désaltérer, proposant des boissons bio avec et sans alcool, sélectionnées auprès de producteurs locaux.
+</p>
+
+<span class="frankie text-atl-red text-2xl md:text-4xl">
+    Fresque du climat
+    <a href="https://osm.org/go/0AU8Qn3Nl-?m=" target="blank">
+        <Icon data={map} class="w-4 md:w-8 h-4 md:h-8" />
+    </a>
+</span>
+<h2 class="text-base md:text-2xl text-atl-red font-bold">À partir de 14h - Terrain de l'association</h2>
+<p class="text-base lg:text-2xl mb-4">
+    L’approche ludique et pédagogique de la Fresque du Climat permet à chacun de comprendre le fonctionnement, l’ampleur et la complexité des enjeux liés aux dérèglements climatiques. L’atelier mobilise l’intelligence collective pour sensibiliser les participants aux changements climatiques. Durant
+    l’atelier, les participants relient les liens de cause à effets et intègrent les enjeux climatiques dans leur globalité.
+</p>
+
+<span class="frankie text-atl-red text-2xl md:text-4xl">
+    Vélo Sound System
+    <a href="https://osm.org/go/0AU8Qn3Nl-?m=" target="blank">
+        <Icon data={map} class="w-4 md:w-8 h-4 md:h-8" />
+    </a>
+</span>
+<h2 class="text-base md:text-2xl text-atl-red font-bold">À partir de 14h - Terrain de l'association</h2>
+<p class="text-base lg:text-2xl mb-4">Découverte d’un Discobike mobile et autonome de diffusion du son, alimenté par des sources d'énergies renouvelables musculaires et solaires.</p>
+
+<span class="frankie text-atl-red text-2xl md:text-4xl">
+    Ateliers ludiques
+    <a href="https://osm.org/go/0AU8Qn3Nl-?m=" target="blank">
+        <Icon data={map} class="w-4 md:w-8 h-4 md:h-8" />
+    </a>
+</span>
+<h2 class="text-base md:text-2xl text-atl-red font-bold">À partir de 14h - Terrain de l'association</h2>
+<p class="text-base lg:text-2xl mb-4">Divers ateliers sont proposés tout au long de l’après midi, pour les petits et les grands. Land art, dessin, jeu des empreintes, grand jeu de construction collective.</p>
+
+<span class="frankie text-atl-red text-2xl md:text-4xl">
+    Concert
+    <a href="https://osm.org/go/0AU8Qn3Nl-?m=" target="blank">
+        <Icon data={map} class="w-4 md:w-8 h-4 md:h-8" />
+    </a>
+</span>
+<h2 class="text-base md:text-2xl text-atl-red font-bold">17h - Terrain de l'association</h2>
+<p class="text-base lg:text-2xl mb-4">Concert du groupe Šaban Shukar qui revisite les plus belles chansons de Šaban Bajramovic, Roi de la soul Tsigane, compositeur serbe d’origine Rrom très populaire dans tous les Balkans.</p>
+
+<div class="text-center flex justify-center my-16">
+    <img src={rimbaultTransparent} alt="Portrait Louis Rimbault" class="" />
 </div>
