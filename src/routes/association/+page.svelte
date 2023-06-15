@@ -7,12 +7,41 @@
 
 <svelte:head>
     <title>L'association "L'Autre terre libérée", à la rencontre de Louis Rimbault</title>
+    <!-- COMMON TAGS -->
+    <meta charset="utf-8" />
+    <title>Association "L'autre terre libérée", à la rencontre de Louis Rimbault</title>
+    <!-- Search Engine -->
+    <meta name="description" content="Présentation de l'association L'autre terre libérée à Luynes, autour de Louis Rimbault, anarchiste végétalien" />
+    <meta name="image" content={rimbaultTransparent} />
+    <!-- Schema.org for Google -->
+    <meta itemprop="name" content="Association L'autre terre libérée, à la rencontre de Louis Rimbault" />
+    <meta itemprop="description" content="Présentation de l'association L'autre terre libérée à Luynes, autour de Louis Rimbault, anarchiste végétalien" />
+    <meta itemprop="image" content={rimbaultTransparent} />
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Association L'autre terre libérée, à la rencontre de Louis Rimbault" />
+    <meta name="twitter:description" content="Présentation de l'association L'autre terre libérée à Luynes, autour de Louis Rimbault, anarchiste végétalien" />
+    <meta name="twitter:image:src" content={rimbaultTransparent} />
+    <!-- Twitter - Article -->
+    <!-- Open Graph general (Facebook, Pinterest & Google+) -->
+    <meta name="og:title" content="Association L'autre terre libérée, à la rencontre de Louis Rimbault" />
+    <meta name="og:description" content="Présentation de l'association L'autre terre libérée à Luynes, autour de Louis Rimbault, anarchiste végétalien" />
+    <meta name="og:image" content={rimbaultTransparent} />
+    <meta name="og:url" content="https://lautreterreliberee.fr/association" />
+    <meta name="og:site_name" content="L'autre terre libérée, à la rencontre de Louis Rimbault à Luynes" />
+    <meta name="og:locale" content="en_FR" />
+    <meta name="fb:admins" content="lautreterreliberee" />
+    <meta name="og:type" content="article" />
+    <!-- Open Graph - Article -->
+    <meta name="article:section" content="Culture" />
+    <meta name="article:author" content="L'autre terre libérée" />
+    <meta name="article:tag" content="histoire, anarchisme, végétalisme, rimbault, luynes" />
 </svelte:head>
 
-<h1 class="frankie text-center text-4xl md:text-6xl font-bold">L'autre Terre Libérée</h1>
+<h1 class="frankie text-center text-4xl md:text-6xl">L'autre Terre Libérée</h1>
 
 <div class="text-center flex justify-center mb-8">
-    <img src={cartePostale} alt="Carte postale Terre Libérée" class="w-96" />
+    <img src={cartePostale} alt="Carte postale Terre Libérée" style="width: 900px" />
 </div>
 
 <div class="text-center my-6">
@@ -24,14 +53,14 @@
     de cette initiative locale réside dans la volonté de créer du lien et vient questionner le sens de « faire communauté » aujourd’hui.
 </p>
 
-<h2 class="frankie text-2xl md:text-4xl text-atl-red">Terre Libérée</h2>
+<h2 class="frankie text-2xl md:text-4xl text-atl-red mb-4">Terre Libérée</h2>
 
 <p class="text-base md:text-xl mb-4">Entre 1923 et 1949 s’est déroulée à Luynes une expérience communautaire, végétalienne. Au début du 20e siècle, ils sont nombre de militants anarchistes à tenter l’aventure individuelle.</p>
 <p class="text-base md:text-xl mb-4">Ces hommes et ces femmes ne veulent pas attendre le grand soir d’une hypothétique révolution qui viendra peut-être un jour. Ils souhaitent que leurs vies changent tout de suite et maintenant. Diverses communautés vont voir le jour un peu partout en France.</p>
 <p class="text-base md:text-xl mb-4">C’est l’expérience que propose Louis Rimbault à Luynes. Il fonde Terre Libérée, une école de pratique végétarienne à qui il consacre la seconde moitié de sa vie.</p>
-<p class="text-base md:text-xl mb-4">Terre libérée et Louis Rimbault sont indissociables.</p>
+<p class="text-base md:text-xl mb-4">Terre Libérée et Louis Rimbault sont indissociables.</p>
 
-<h2 class="frankie text-2xl md:text-4xl text-atl-red">Louis Rimbault, quelques repères</h2>
+<h2 class="frankie text-2xl md:text-4xl text-atl-red mb-4">Louis Rimbault, quelques repères</h2>
 
 <img src={mugshot} alt="Mugshot Louis Rimbault" class="w-48 float-left mr-4" />
 
@@ -44,8 +73,8 @@
 <p class="text-base md:text-xl mb-4">De 1904 à 1908, il est élu conseiller municipal radical de Livry, puis devient abstentionniste. C’est par son jeune frère Marceau qui fréquente alors les causeries des cafés de Montmartre, que Rimbault devient anarchiste individualiste.</p>
 
 <p class="text-base md:text-xl mb-4">
-    En 1910-1912, il vit quelque temps à Bascon dans l’Aisne dans le «&nbsp;milieu libre&nbsp;» initié par Georges Butaud et Sophia Zaïkowska. Par la suite, il monte avec ses frères son propre « milieu libre » à Pavillon-sous-Bois, un atelier de serrurerie, avec lequel il pratique quelques
-    escroqueries à l’assurance. Fin 1912, Louis Rimbault est interpellé dans le cadre de l’af- faire des «&nbsp;bandits tragiques&nbsp;», plus connue sous le nom de «&nbsp;la bande à Bonnot&nbsp;». Après 2 ans et demi d’enfermement à la prison de la Santé puis à l’asile de Villejuif, il est acquitté
+    En 1910-1912, il vit quelque temps à Bascon dans l’Aisne dans le «&nbsp;milieu libre&nbsp;» initié par Georges Butaud et Sophia Zaïkowska. Par la suite, il monte avec ses frères son propre «&nbsp;milieu libre&nbsp;» à Pavillon-sous-Bois, un atelier de serrurerie, avec lequel il pratique quelques
+    escroqueries à l’assurance. Fin 1912, Louis Rimbault est interpellé dans le cadre de l’affaire des «&nbsp;bandits tragiques&nbsp;», plus connue sous le nom de «&nbsp;la bande à Bonnot&nbsp;». Après 2 ans et demi d’enfermement à la prison de la Santé puis à l’asile de Villejuif, il est acquitté
     en août 1914.
 </p>
 

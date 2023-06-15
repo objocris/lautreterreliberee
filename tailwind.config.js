@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       colors: {
-        'atl-blue': '#12133B',
+        'atl-black': '#2C2E35',
         'atl-red': '#CF171E'
       }
     }

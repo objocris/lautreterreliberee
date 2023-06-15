@@ -265,13 +265,15 @@ const map = {
 };
 const programmeChampLibrePdf = "/_app/immutable/assets/champ-libre-2023.9a3989b1.pdf";
 const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
-  return `<div class="img-header text-center flex justify-center mb-10"><img${add_attribute("src", afficheSansTexte, 0)} alt="Affiche Champ Libre 2023" class="w-60 max-w-full"></div>
+  return `${$$result.head += `<!-- HEAD_svelte-1q0t3rr_START -->${$$result.title = `<title>Champ Libre, programme des journées organisée par l&#39;association &quot;L&#39;autre terre libérée&quot; à Luynes</title>`, ""}<meta charset="utf-8">${$$result.title = `<title>L&#39;autre terre libérée - Champ Libre - A la rencontre de Louis Rimbault</title>`, ""}<meta name="description" content="Programme des journées Champ Libre organisées par l'association L'autre terre libérée à Luynes"><meta name="image"${add_attribute("content", afficheSansTexte, 0)}><meta itemprop="name" content="L'autre terre libérée - Champ Libre - A la rencontre de Louis Rimbault"><meta itemprop="description" content="Programme des journées Champ Libre organisées par l'association L'autre terre libérée à Luynes"><meta itemprop="image"${add_attribute("content", afficheSansTexte, 0)}><meta name="twitter:card" content="summary"><meta name="twitter:title" content="L'autre terre libérée - Champ Libre - A la rencontre de Louis Rimbault"><meta name="twitter:description" content="Programme des journées Champ Libre organisées par l'association L'autre terre libérée à Luynes"><meta name="twitter:image:src"${add_attribute("content", afficheSansTexte, 0)}><meta name="og:title" content="L'autre terre libérée - Champ Libre - A la rencontre de Louis Rimbault"><meta name="og:description" content="Programme des journées Champ Libre organisées par l'association L'autre terre libérée à Luynes"><meta name="og:image"${add_attribute("content", rimbaultTransparent, 0)}><meta name="og:url" content="https://lautreterreliberee.fr/"><meta name="og:site_name" content="L'autre terre libérée, à la rencontre de Louis Rimbault à Luynes"><meta name="og:locale" content="en_FR"><meta name="fb:admins" content="lautreterreliberee"><meta name="og:type" content="article"><meta name="article:section" content="Culture"><meta name="article:author" content="L'autre terre libérée"><meta name="article:tag" content="histoire, anarchisme, végétalisme, rimbault, luynes"><!-- HEAD_svelte-1q0t3rr_END -->`, ""}
 
-<h1 class="frankie text-2xl md:text-4xl lg:text-6xl text-center text-white bg-atl-blue p-4">Champ Libre<br>À la découverte de Terre Libérée</h1>
+<div class="img-header text-center flex justify-center mb-10"><img${add_attribute("src", afficheSansTexte, 0)} alt="Affiche Champ Libre 2023" class="w-60 max-w-full"></div>
+
+<h1 class="frankie text-2xl md:text-4xl lg:text-6xl text-center text-white bg-atl-black p-4">Champ Libre<br>À la découverte de Terre Libérée</h1>
 
 <div class="text-center my-12"><a${add_attribute("href", programmeChampLibrePdf, 0)} target="_blank" class="text-2xl">Version PDF</a></div>
 
-<span class="frankie text-atl-blue text-2xl md:text-6xl block">Mardi 27 juin 2023</span>
+<span class="frankie text-atl-black text-2xl md:text-6xl block">Mardi 27 juin 2023</span>
 
 <span class="frankie text-atl-red text-2xl md:text-4xl"><a href="https://cafeshistoriques.com/programme/la-rencontre-de-louis-rimbault-et-des-causeries-anarchistes" class="frankie">«À la rencontre de Louis Rimbault et des causeries anarchistes»</a>
     <a href="https://osm.org/go/0AU8MOGON?way=68947126" target="blank">${validate_component(Icon, "Icon").$$render(
@@ -288,7 +290,7 @@ const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
     <a href="https://rdv-histoire.com/" target="_blank">Rendez-vous de l&#39;histoire de Blois</a>, dans le cadre des <a href="https://cafeshistoriques.com/" target="_blank">cafés historiques en région Centre Val-de-Loire</a>.
 </p>
 
-<span class="frankie text-atl-blue text-2xl md:text-6xl mt-8 block">Dimanche 2 juillet 2023</span>
+<span class="frankie text-atl-black text-2xl md:text-6xl mt-8 block">Dimanche 2 juillet 2023</span>
 
 <span class="frankie text-atl-red text-2xl md:text-4xl">Balade sonore
     <a href="https://osm.org/go/0AU8MOGON?way=68947126" target="blank">${validate_component(Icon, "Icon").$$render(
@@ -380,4 +382,4 @@ const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
 });
 
 export { Page as default };
-//# sourceMappingURL=_page.svelte-aa1b62d5.js.map
+//# sourceMappingURL=_page.svelte-0e1a240b.js.map

@@ -6,17 +6,50 @@
     import programmeChampLibrePdf from "$lib/images/champ-libre-2023.pdf";
 </script>
 
+<svelte:head>
+    <title>Champ Libre, programme des journées organisée par l'association "L'autre terre libérée" à Luynes</title>
+    <!-- COMMON TAGS -->
+    <meta charset="utf-8" />
+    <title>L'autre terre libérée - Champ Libre - A la rencontre de Louis Rimbault</title>
+    <!-- Search Engine -->
+    <meta name="description" content="Programme des journées Champ Libre organisées par l'association L'autre terre libérée à Luynes" />
+    <meta name="image" content={afficheSansTexte} />
+    <!-- Schema.org for Google -->
+    <meta itemprop="name" content="L'autre terre libérée - Champ Libre - A la rencontre de Louis Rimbault" />
+    <meta itemprop="description" content="Programme des journées Champ Libre organisées par l'association L'autre terre libérée à Luynes" />
+    <meta itemprop="image" content={afficheSansTexte} />
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="L'autre terre libérée - Champ Libre - A la rencontre de Louis Rimbault" />
+    <meta name="twitter:description" content="Programme des journées Champ Libre organisées par l'association L'autre terre libérée à Luynes" />
+    <meta name="twitter:image:src" content={afficheSansTexte} />
+    <!-- Twitter - Article -->
+    <!-- Open Graph general (Facebook, Pinterest & Google+) -->
+    <meta name="og:title" content="L'autre terre libérée - Champ Libre - A la rencontre de Louis Rimbault" />
+    <meta name="og:description" content="Programme des journées Champ Libre organisées par l'association L'autre terre libérée à Luynes" />
+    <meta name="og:image" content={rimbaultTransparent} />
+    <meta name="og:url" content="https://lautreterreliberee.fr/" />
+    <meta name="og:site_name" content="L'autre terre libérée, à la rencontre de Louis Rimbault à Luynes" />
+    <meta name="og:locale" content="en_FR" />
+    <meta name="fb:admins" content="lautreterreliberee" />
+    <meta name="og:type" content="article" />
+    <!-- Open Graph - Article -->
+    <meta name="article:section" content="Culture" />
+    <meta name="article:author" content="L'autre terre libérée" />
+    <meta name="article:tag" content="histoire, anarchisme, végétalisme, rimbault, luynes" />
+</svelte:head>
+
 <div class="img-header text-center flex justify-center mb-10">
     <img src={afficheSansTexte} alt="Affiche Champ Libre 2023" class="w-60 max-w-full" />
 </div>
 
-<h1 class="frankie text-2xl md:text-4xl lg:text-6xl text-center text-white bg-atl-blue p-4">Champ Libre<br />À la découverte de Terre Libérée</h1>
+<h1 class="frankie text-2xl md:text-4xl lg:text-6xl text-center text-white bg-atl-black p-4">Champ Libre<br />À la découverte de Terre Libérée</h1>
 
 <div class="text-center my-12">
     <a href={programmeChampLibrePdf} target="_blank" class="text-2xl">Version PDF</a>
 </div>
 
-<span class="frankie text-atl-blue text-2xl md:text-6xl block">Mardi 27 juin 2023</span>
+<span class="frankie text-atl-black text-2xl md:text-6xl block">Mardi 27 juin 2023</span>
 
 <span class="frankie text-atl-red text-2xl md:text-4xl">
     <a href="https://cafeshistoriques.com/programme/la-rencontre-de-louis-rimbault-et-des-causeries-anarchistes" class="frankie">«À la rencontre de Louis Rimbault et des causeries anarchistes»</a>
@@ -30,7 +63,7 @@
     <a href="https://rdv-histoire.com/" target="_blank">Rendez-vous de l'histoire de Blois</a>, dans le cadre des <a href="https://cafeshistoriques.com/" target="_blank">cafés historiques en région Centre Val-de-Loire</a>.
 </p>
 
-<span class="frankie text-atl-blue text-2xl md:text-6xl mt-8 block">Dimanche 2 juillet 2023</span>
+<span class="frankie text-atl-black text-2xl md:text-6xl mt-8 block">Dimanche 2 juillet 2023</span>
 
 <span class="frankie text-atl-red text-2xl md:text-4xl">
     Balade sonore
