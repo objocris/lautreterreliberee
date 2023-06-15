@@ -52,12 +52,12 @@
 <span class="frankie text-atl-black text-2xl md:text-6xl block">Mardi 27 juin 2023</span>
 
 <span class="frankie text-atl-red text-2xl md:text-4xl">
-    <a href="https://cafeshistoriques.com/programme/la-rencontre-de-louis-rimbault-et-des-causeries-anarchistes" class="frankie">«À la rencontre de Louis Rimbault et des causeries anarchistes»</a>
+    <a href="https://cafeshistoriques.com/programme/la-rencontre-de-louis-rimbault-et-des-causeries-anarchistes" class="frankie" target="_blank">«À la rencontre de Louis Rimbault et des causeries anarchistes»</a>
     <a href="https://osm.org/go/0AU8MOGON?way=68947126" target="blank">
         <Icon data={map} class="w-4 md:w-8 h-4 md:h-8" />
     </a>
 </span>
-<h2 class="text-base md:text-2xl text-atl-red font-bold">19h</h2>
+<h2 class="text-base md:text-2xl text-atl-red font-bold">19h - Halle de Luynes</h2>
 <p class="text-base lg:text-2xl mb-4">
     Conférence d'<a href="https://fr.wikipedia.org/wiki/Anne_Steiner" target="_blank">Anne Steiner</a>, sociologue, spécialiste du <a href="https://fr.wikipedia.org/wiki/Anarchisme_individualiste" target="_blank">mouvement individualiste anarchiste</a>, en partenariat avec les
     <a href="https://rdv-histoire.com/" target="_blank">Rendez-vous de l'histoire de Blois</a>, dans le cadre des <a href="https://cafeshistoriques.com/" target="_blank">cafés historiques en région Centre Val-de-Loire</a>.

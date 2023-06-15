@@ -275,7 +275,7 @@ const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
 
 <span class="frankie text-atl-black text-2xl md:text-6xl block">Mardi 27 juin 2023</span>
 
-<span class="frankie text-atl-red text-2xl md:text-4xl"><a href="https://cafeshistoriques.com/programme/la-rencontre-de-louis-rimbault-et-des-causeries-anarchistes" class="frankie">«À la rencontre de Louis Rimbault et des causeries anarchistes»</a>
+<span class="frankie text-atl-red text-2xl md:text-4xl"><a href="https://cafeshistoriques.com/programme/la-rencontre-de-louis-rimbault-et-des-causeries-anarchistes" class="frankie" target="_blank">«À la rencontre de Louis Rimbault et des causeries anarchistes»</a>
     <a href="https://osm.org/go/0AU8MOGON?way=68947126" target="blank">${validate_component(Icon, "Icon").$$render(
     $$result,
     {
@@ -285,7 +285,7 @@ const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
     {},
     {}
   )}</a></span>
-<h2 class="text-base md:text-2xl text-atl-red font-bold">19h</h2>
+<h2 class="text-base md:text-2xl text-atl-red font-bold">19h - Halle de Luynes</h2>
 <p class="text-base lg:text-2xl mb-4">Conférence d&#39;<a href="https://fr.wikipedia.org/wiki/Anne_Steiner" target="_blank">Anne Steiner</a>, sociologue, spécialiste du <a href="https://fr.wikipedia.org/wiki/Anarchisme_individualiste" target="_blank">mouvement individualiste anarchiste</a>, en partenariat avec les
     <a href="https://rdv-histoire.com/" target="_blank">Rendez-vous de l&#39;histoire de Blois</a>, dans le cadre des <a href="https://cafeshistoriques.com/" target="_blank">cafés historiques en région Centre Val-de-Loire</a>.
 </p>
@@ -382,4 +382,4 @@ const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
 });
 
 export { Page as default };
-//# sourceMappingURL=_page.svelte-0e1a240b.js.map
+//# sourceMappingURL=_page.svelte-87830a27.js.map
