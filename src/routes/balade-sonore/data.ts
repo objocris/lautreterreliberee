@@ -92,15 +92,15 @@ export const ardoises: Ardoise[] = [
     },
     {
         numero: '5',
-        titre: 'Etre végétarien il y a cent ans',
+        titre: 'Être végétarien il y a cent ans',
         texteArdoise :
             [
                 'Pour Rimbault, être végétarien, en 1910, c’est un acte éminemment politique. En 1923, il lance son appel aux consciences citoyennes pour venir rejoindre la communauté luynoise. Rimbault est un exalté, un tribun, son texte est emprunt de sa verve enthousiaste et excessive si caractéristique, que nous avons malgré tout quelque peu allégée. Vous noterez l’étonnante modernité de ces mots écrits il y a cent ans.'
             ],
         texteAudio:
             [
-                'Appel de Louis Rimbault en décembre 1923, dans <i>Le Néo-Naturien</i>, journal de propagande végétarienne.',
-                'Pas un naturophile : naturien, naturocrate, végétarien, végétalien, fruitarien n’aura manqué de se réjouir de l’initiative qui consiste à créer, aux environs de Tours, la première cité végétalienne.',
+                '<i>Le narrateur</i> : Louis Rimbault devient végétarien aux environs de 1910. Pour lui, être végétarien c’est un acte éminemment politique. En décembre 1923, alors qu’il s’installe à Luynes, Louis Rimbault rédige un article dans « Le Néo Naturien », un journal de propagande végétarienne, dans lequel il lance appel à l’action des consciences naturienne, article dans lequel il développe et explique ce qu’est pour lui le végétarisme. Rimbault est un exalté, un tribun, son texte est emprunt de sa verve enthousiaste et excessive si caractéristique. On ne peut être que frappé, de l’étonnante modernité de ces mots écrits il y a cent ans.',
+                '<i>Louis Rimbault</i> : Pas un naturophile : naturien, naturocrate, végétarien, végétalien, fruitarien n’aura manqué de se réjouir de l’initiative qui consiste à créer, aux environs de Tours, la première cité végétalienne.',
                 'Après avoir renversé les bastilles et dressé mille barricades ; après avoir consenti les sacrifices des révolutions sans lendemain ; après avoir espéré dans les mots christianisme, libéralisme, socialisme, anarchisme ; après avoir remplacé les bannières blanches par des rouges et des noires. Les hommes désignés sous le vocable « matériel humain » sont l’enjeu misérable d’un ordinaire marché.',
                 'Quelques hommes clairvoyants ont cependant réagi, et, est né sous leurs efforts et l’exemple de leur vie saine, bienveillante et logique LE VÉGÉTALISME, régénérant physiquement, moralement les hommes, en libérant la terre des ses maux.',
                 'Le végétalisme, c’est une conception nouvelle de vie rationnelle, utile, libre et fraternelle.',
