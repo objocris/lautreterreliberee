@@ -52,6 +52,9 @@
     Notre association a pour objet d’exhumer l’histoire de Terre Libérée disparue de la mémoire collective. Elle a aussi pour vocation d’organiser des moments de convivialité et de promouvoir le vivre ensemble, le tout dans une démarche coopérative et respectueuse de l’environnement. L’essence même
     de cette initiative locale réside dans la volonté de créer du lien et vient questionner le sens de « faire communauté » aujourd’hui.
 </p>
+<p class="text-base md:text-xl mb-4">
+    <a href="https://www.lanouvellerepublique.fr/indre-et-loire/commune/luynes/a-luynes-une-experience-anarchiste-et-vegetalienne-revisitee" target="_blank">Article paru dans la Nouvelle République du Centre</a>
+</p>
 
 <h2 class="frankie text-2xl md:text-4xl text-atl-red mb-4">Terre Libérée</h2>
 
