@@ -111,7 +111,7 @@ export const ardoises: Ardoise[] = [
                 'Repousser toute nourriture animale et tous produits tirés de l’animal ; se refuser à consommer tout ce qui a été industrialisé et devient cause de servitude humaine et animale, pour vivre harmonieusement en la Nature, voilà ce que propose et fait le végétalien.',
                 'Le végétalisme, c’est la NON-COOPÉRATION à toutes les entreprises de spoliation, à tous les facteurs de domination et de servitude. Il donne à l’humanité un moyen initial propre à libérer les hommes. Le végétalisme, c’est la « Terre Libérée » des cultures malfaisantes, parasitaires qui la couvrent dans sa plus grande étendue. Le végétalisme restituera aux hommes, enfin libres, les espaces immenses consacrés à l’élevage des animaux sacrifiés au cannibalisme.',
                 'Le végétalisme c’est le retour à la « Terre Libérée » de tout ce qui entrave l’essor de la vie, industrialise la science domestique la conscience et s’oppose au libre jeu des lois naturelles.',
-                'Heureux hommes ! Ceux qui collaboreront et vivrons dans la cité idéale d’où seront bannies la souffrance inutile et la servitude des êtres sensibles.',
+                'Heureux hommes ! Ceux qui collaboreront et vivront dans la cité idéale d’où seront bannies la souffrance inutile et la servitude des êtres sensibles.',
                 'Heureux temps ! Où les hommes libérés des entraves morales, sociales et économiques,  travailleront à la réalisation d’un rêve bien humain : vivre dans la perfection de soi-même avec le désir d’initier d’autres hommes au bon sens, à l’harmonie, à la beauté !',
                 'Louis Rimbault.'
             ]
