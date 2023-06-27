@@ -1,9 +1,11 @@
 import { c as create_ssr_component, b as add_attribute } from './index3-bcf1d9eb.js';
+import { l as labelRenaissance } from './label-renaissance-2023-80a447f6.js';
 
 const logoSmall = "/_app/immutable/assets/logo-small.bc4e5765.jpg";
 const Layout = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   return `<div class="container p-4 pt-10"><div class="inner">${slots.default ? slots.default({}) : ``}</div>
-    <footer class="mb-6"><div class="footer text-center"><img${add_attribute("src", logoSmall, 0)} alt="Logo de l'association L'autre terre libérée à Luynes"></div>
+    <footer class="mb-6"><div class="footer text-center"><img${add_attribute("src", logoSmall, 0)} alt="Logo de l'association L'autre terre libérée à Luynes">
+            <a href="https://www.centre-valdeloire.fr/lactualite-de-la-region-centre-valdeloire/lancement-des-nouvelles-renaissances-2023" target="_blank"><img${add_attribute("src", labelRenaissance, 0)} alt="Label Renaissance(s) 2023"></a></div>
         <div class="text-center"><a href="/" class="mr-2 ml-2 text-sm">Accueil</a>
             <a href="/association" class="mr-2 ml-2 text-sm">L&#39;association</a>
             <a href="/balade-sonore/1" class="mr-2 ml-2 text-sm">Balade sonore</a>
@@ -12,4 +14,4 @@ const Layout = create_ssr_component(($$result, $$props, $$bindings, slots) => {
 });
 
 export { Layout as default };
-//# sourceMappingURL=_layout.svelte-32bbd943.js.map
+//# sourceMappingURL=_layout.svelte-56bebbfa.js.map

@@ -3,6 +3,7 @@
     import cartePostale from "$lib/images/carte-postale.png";
     import mugshot from "$lib/images/mugshot.png";
     import presentationAssociationPdf from "$lib/images/l-autre-terre-liberee.pdf";
+    import labelRenaissance from "$lib/images/label-renaissance-2023.jpg";
 </script>
 
 <svelte:head>
@@ -55,6 +56,15 @@
 <p class="text-base md:text-xl mb-4">
     <a href="https://www.lanouvellerepublique.fr/indre-et-loire/commune/luynes/a-luynes-une-experience-anarchiste-et-vegetalienne-revisitee" target="_blank">Article paru dans la Nouvelle République du Centre</a>
 </p>
+<p class="text-base md:text-xl mb-4">
+    Notre association a obtenu le label <a href="https://www.centre-valdeloire.fr/lactualite-de-la-region-centre-valdeloire/lancement-des-nouvelles-renaissances-2023" target="_blank">Nouvelle Renaissance 2023</a> de la région Centre-Val de Loire.
+</p>
+
+<div class="flex justify-center">
+    <a class="max-w-xs" href="https://www.centre-valdeloire.fr/lactualite-de-la-region-centre-valdeloire/lancement-des-nouvelles-renaissances-2023" target="_blank">
+        <img src={labelRenaissance} alt="Label Renaissance(s) 2023" />
+    </a>
+</div>
 
 <h2 class="frankie text-2xl md:text-4xl text-atl-red mb-4">Terre Libérée</h2>
 

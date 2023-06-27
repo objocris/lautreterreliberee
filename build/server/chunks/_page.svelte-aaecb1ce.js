@@ -1,5 +1,6 @@
 import { c as create_ssr_component, b as add_attribute } from './index3-bcf1d9eb.js';
 import { r as rimbaultTransparent } from './rimbault-transparent-ca888b84.js';
+import { l as labelRenaissance } from './label-renaissance-2023-80a447f6.js';
 
 const cartePostale = "/_app/immutable/assets/carte-postale.6fcd83ab.png";
 const mugshot = "/_app/immutable/assets/mugshot.497cb4fb.png";
@@ -17,6 +18,10 @@ const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
     de cette initiative locale réside dans la volonté de créer du lien et vient questionner le sens de « faire communauté » aujourd’hui.
 </p>
 <p class="text-base md:text-xl mb-4"><a href="https://www.lanouvellerepublique.fr/indre-et-loire/commune/luynes/a-luynes-une-experience-anarchiste-et-vegetalienne-revisitee" target="_blank">Article paru dans la Nouvelle République du Centre</a></p>
+<p class="text-base md:text-xl mb-4">Notre association a obtenu le label <a href="https://www.centre-valdeloire.fr/lactualite-de-la-region-centre-valdeloire/lancement-des-nouvelles-renaissances-2023" target="_blank">Nouvelle Renaissance 2023</a> de la région Centre-Val de Loire.
+</p>
+
+<div class="flex justify-center"><a class="max-w-xs" href="https://www.centre-valdeloire.fr/lactualite-de-la-region-centre-valdeloire/lancement-des-nouvelles-renaissances-2023" target="_blank"><img${add_attribute("src", labelRenaissance, 0)} alt="Label Renaissance(s) 2023"></a></div>
 
 <h2 class="frankie text-2xl md:text-4xl text-atl-red mb-4">Terre Libérée</h2>
 
@@ -53,4 +58,4 @@ const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
 });
 
 export { Page as default };
-//# sourceMappingURL=_page.svelte-137b084a.js.map
+//# sourceMappingURL=_page.svelte-aaecb1ce.js.map

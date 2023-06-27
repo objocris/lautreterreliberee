@@ -263,7 +263,7 @@ const map = {
     ]
   }
 };
-const programmeChampLibrePdf = "/_app/immutable/assets/champ-libre-2023.9a3989b1.pdf";
+const programmeChampLibrePdf = "/_app/immutable/assets/champ-libre-2023.f0693c9f.pdf";
 const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   return `${$$result.head += `<!-- HEAD_svelte-1q0t3rr_START -->${$$result.title = `<title>Champ Libre, programme des journées organisée par l&#39;association &quot;L&#39;autre terre libérée&quot; à Luynes</title>`, ""}<meta charset="utf-8">${$$result.title = `<title>L&#39;autre terre libérée - Champ Libre - A la rencontre de Louis Rimbault</title>`, ""}<meta name="description" content="Programme des journées Champ Libre organisées par l'association L'autre terre libérée à Luynes"><meta name="image"${add_attribute("content", afficheSansTexte, 0)}><meta itemprop="name" content="L'autre terre libérée - Champ Libre - A la rencontre de Louis Rimbault"><meta itemprop="description" content="Programme des journées Champ Libre organisées par l'association L'autre terre libérée à Luynes"><meta itemprop="image"${add_attribute("content", afficheSansTexte, 0)}><meta name="twitter:card" content="summary"><meta name="twitter:title" content="L'autre terre libérée - Champ Libre - A la rencontre de Louis Rimbault"><meta name="twitter:description" content="Programme des journées Champ Libre organisées par l'association L'autre terre libérée à Luynes"><meta name="twitter:image:src"${add_attribute("content", afficheSansTexte, 0)}><meta name="og:title" content="L'autre terre libérée - Champ Libre - A la rencontre de Louis Rimbault"><meta name="og:description" content="Programme des journées Champ Libre organisées par l'association L'autre terre libérée à Luynes"><meta name="og:image"${add_attribute("content", rimbaultTransparent, 0)}><meta name="og:url" content="https://lautreterreliberee.fr/"><meta name="og:site_name" content="L'autre terre libérée, à la rencontre de Louis Rimbault à Luynes"><meta name="og:locale" content="en_FR"><meta name="fb:admins" content="lautreterreliberee"><meta name="og:type" content="article"><meta name="article:section" content="Culture"><meta name="article:author" content="L'autre terre libérée"><meta name="article:tag" content="histoire, anarchisme, végétalisme, rimbault, luynes"><!-- HEAD_svelte-1q0t3rr_END -->`, ""}
 
@@ -383,4 +383,4 @@ const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
 });
 
 export { Page as default };
-//# sourceMappingURL=_page.svelte-d301d6eb.js.map
+//# sourceMappingURL=_page.svelte-68ebc7cb.js.map
