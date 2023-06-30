@@ -37,7 +37,7 @@
     <div class="text-center mt-8 italic">
         <p>Moyens techniques : <a href="https://masaoproductions.fr/" target="_blank">MASAO Productions</a></p>
         <p>Voix narrateur : Christophe Gaillard</p>
-        <p>Voix Louis Rimbault : Jean Barat</p>
+        <p>Voix Louis Rimbault : <a href="http://www.jean-barat.com/" target="_blank">Jean Barat</a></p>
         <p>Voix Nadaud : Marie-Désirée Martins</p>
         <p>Musique : Florian Motteau</p>
         <p>Stagiaires enregistrement sons : Albane Gaillard, Olive Motteau-Martins</p>
