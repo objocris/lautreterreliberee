@@ -28,8 +28,15 @@ const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
         ${each(data.ardoise.texteAudio, (paragraph) => {
     return `<p class="mb-3"><!-- HTML_TAG_START -->${paragraph}<!-- HTML_TAG_END --></p>`;
   })}</div>
+
+    <div class="text-center mt-8 italic"><p>Moyens techniques : <a href="https://masaoproductions.fr/" target="_blank">MASAO Productions</a></p>
+        <p>Voix narrateur : Christophe Gaillard</p>
+        <p>Voix Louis Rimbault : Jean Barat</p>
+        <p>Voix Nadaud : Marie-Désirée Martins</p>
+        <p>Musique : Florian Motteau</p>
+        <p>Stagiaires enregistrement sons : Albane Gaillard, Olive Motteau-Martins</p></div>
 </div>`;
 });
 
 export { Page as default };
-//# sourceMappingURL=_page.svelte-f04e2949.js.map
+//# sourceMappingURL=_page.svelte-18773bdf.js.map
