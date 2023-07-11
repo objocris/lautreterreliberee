@@ -1,4 +1,5 @@
 <script>
+    import carte from "$lib/images/carte.pdf";
     export let data;
     $: audioPath = `/audio/${data.ardoise.numero}.mp3`;
 </script>
@@ -22,12 +23,18 @@
         {/if}
     </div>
 
-    <div class="texteArdoise text-lg lg:text-2xl mb-6">
+    <div class="text-center mb-4">
+        <a href={carte} target="_blank" class="frankie text-2xl mb-6">
+            Carte
+        </a>
+    </div>
+
+    <div class="text-lg lg:text-2xl mb-6">
         {#each data.ardoise.texteArdoise as paragraph}
             <p class="mb-2">{@html paragraph}</p>
         {/each}
     </div>
-    <div class="texteAudio text-base lg:text-xl">
+    <div class="text-base lg:text-xl">
         <h5 class="frankie text-2xl mb-6">Transcription</h5>
         {#each data.ardoise.texteAudio as paragraph}
             <p class="mb-3">{@html paragraph}</p>
@@ -58,11 +65,6 @@
 
             &.previous {
                 transform: rotate(135deg);
-            }
-
-            &.disabled {
-                opacity: 0.5;
-                cursor: not-allowed;
             }
         }
     }

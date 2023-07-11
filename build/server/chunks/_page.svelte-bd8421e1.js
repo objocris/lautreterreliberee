@@ -1,4 +1,5 @@
 import { c as create_ssr_component, b as add_attribute, v as validate_component, f as compute_rest_props, h as each, i as spread, j as escape_object, e as escape, k as escape_attribute_value, l as globals } from './index3-bcf1d9eb.js';
+import { c as carte } from './carte-b7f3948e.js';
 import { r as rimbaultTransparent } from './rimbault-transparent-ca888b84.js';
 
 const afficheSansTexte = "/_app/immutable/assets/affiche-sanstexte.277287d8.png";
@@ -304,7 +305,7 @@ const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
     {}
   )}</a></span>
 <h2 class="text-base md:text-2xl text-atl-red font-bold">10h &gt; 12h - Départ de la halle de Luynes - <a href="/balade-sonore/1">Podcasts</a></h2>
-<p class="text-base lg:text-2xl mb-4">Promenade d’environ 2h, parsemée de <a href="/balade-sonore/1">podcasts</a> pour découvrir l’histoire de Louis Rimbault et de son école de pratique végétalienne Terre Libérée. Cette balade sonore proposée par l’association L’autre Terre Libérée vous raconte cette expérience qui a eu lieu à Luynes
+<p class="text-base lg:text-2xl mb-4"><a${add_attribute("href", carte, 0)} target="_blank">Promenade d’environ 2h</a>, parsemée de <a href="/balade-sonore/1">podcasts</a> pour découvrir l’histoire de Louis Rimbault et de son école de pratique végétalienne Terre Libérée. Cette balade sonore proposée par l’association L’autre Terre Libérée vous raconte cette expérience qui a eu lieu à Luynes
     entre 1923 et 1949, et qui a disparu des mémoires collectives. Tout au long du parcours, des ardoises informatives vous invitent à scanner des QR Codes pour écouter des petites pastilles audio tout en cheminant jusqu’au terrain de l’association.
 </p>
 <p class="font-bold italic text-base lg:text-2xl">Informations pratiques :</p>
@@ -383,4 +384,4 @@ const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
 });
 
 export { Page as default };
-//# sourceMappingURL=_page.svelte-68ebc7cb.js.map
+//# sourceMappingURL=_page.svelte-bd8421e1.js.map
