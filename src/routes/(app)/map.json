@@ -1,787 +1,787 @@
 {
-    "type": "umap",
-    "uri": "https://umap.openstreetmap.fr/fr/map/balade-sonore-a-la-rencontre-de-louis-rimbault_939821#15/47.3890/0.5410",
-    "properties": {
-      "easing": false,
-      "starControl": true,
-      "tilelayersControl": true,
-      "measureControl": true,
-      "embedControl": true,
-      "editinosmControl": true,
-      "fullscreenControl": true,
-      "locateControl": true,
-      "searchControl": true,
-      "datalayersControl": true,
-      "zoomControl": true,
-      "permanentCreditBackground": true,
-      "slideshow": {},
-      "captionMenus": true,
-      "captionBar": false,
-      "limitBounds": {},
-      "overlay": {},
-      "tilelayer": {
-        "minZoom": 0,
-        "maxZoom": 20,
-        "attribution": "map data © [[http://osm.org/copyright|OpenStreetMap contributors]] under ODbL ",
-        "url_template": "//{s}.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png",
-        "name": "OSM-Fr",
-        "tms": false
-      },
-      "licence": "",
-      "description": "Balade parsemée de podcasts, à la rencontre de Louis Rimbault, anarchiste individualiste ayant vécu à Luynes entre 1923 et 1949, fondateur de la communauté végétalienne \"Terre Libérée\".",
-      "name": "Balade sonore, à la rencontre de Louis Rimbault",
-      "onLoadPanel": "none",
-      "displayPopupFooter": false,
-      "miniMap": false,
-      "moreControl": true,
-      "scaleControl": true,
-      "scrollWheelZoom": true,
-      "zoom": 15
+  "type": "umap",
+  "uri": "https://umap.openstreetmap.fr/fr/map/balade-sonore-a-la-rencontre-de-louis-rimbault_939821#15/47.3890/0.5410",
+  "properties": {
+    "easing": false,
+    "starControl": true,
+    "tilelayersControl": true,
+    "measureControl": true,
+    "embedControl": true,
+    "editinosmControl": true,
+    "fullscreenControl": true,
+    "locateControl": true,
+    "searchControl": true,
+    "datalayersControl": true,
+    "zoomControl": true,
+    "permanentCreditBackground": true,
+    "slideshow": {},
+    "captionMenus": true,
+    "captionBar": false,
+    "limitBounds": {},
+    "overlay": {},
+    "tilelayer": {
+      "minZoom": 0,
+      "maxZoom": 20,
+      "attribution": "map data © [[http://osm.org/copyright|OpenStreetMap contributors]] under ODbL ",
+      "url_template": "//{s}.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png",
+      "name": "OSM-Fr",
+      "tms": false
     },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        0.5409908294677735,
-        47.38903808501314
-      ]
-    },
-    "layers": [
-      {
-        "type": "FeatureCollection",
-        "features": [],
-        "_umap_options": {
-          "displayOnLoad": true,
-          "browsable": true,
-          "name": "Calque 1",
-          "id": 2878925
-        }
-      },
-      {
-        "type": "FeatureCollection",
-        "features": [
-          {
-            "type": "Feature",
-            "properties": {},
-            "geometry": {
-              "type": "LineString",
-              "coordinates": [
-                [
-                  0.554415,
-                  47.385619
-                ],
-                [
-                  0.554295,
-                  47.385731
-                ],
-                [
-                  0.553471,
-                  47.385566
-                ],
-                [
-                  0.553133,
-                  47.385757
-                ],
-                [
-                  0.552248,
-                  47.385214
-                ],
-                [
-                  0.552007,
-                  47.385097
-                ],
-                [
-                  0.55165,
-                  47.384934
-                ],
-                [
-                  0.551457,
-                  47.384863
-                ],
-                [
-                  0.551266,
-                  47.384841
-                ],
-                [
-                  0.551135,
-                  47.384841
-                ],
-                [
-                  0.550985,
-                  47.384876
-                ],
-                [
-                  0.550824,
-                  47.384916
-                ],
-                [
-                  0.550765,
-                  47.385072
-                ],
-                [
-                  0.551199,
-                  47.385257
-                ],
-                [
-                  0.551162,
-                  47.385286
-                ],
-                [
-                  0.550674,
-                  47.385076
-                ],
-                [
-                  0.550743,
-                  47.384898
-                ],
-                [
-                  0.549917,
-                  47.384672
-                ]
-              ]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "_umap_options": {
-                "iconClass": "Drop",
-                "iconOpacity": "0.6",
-                "color": "Black"
-              },
-              "name": "Ardoise 1",
-              "description": "[[https://lautreterreliberee.fr/balade-sonore/1|A la rencontre de Louis Rimbault]]\n\nCe premier podcast vous invite à partir à la rencontre de Louis. Comme vous aujourd’hui, cette histoire nous l’avons découverte au hasard d’une promenade dans Luynes. Nous sommes tombés sur ce premier indice, point de départ de notre enquête, là où nous allons vous emmener."
-            },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [
-                0.554348,
-                47.385608
-              ]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "_umap_options": {
-                "iconClass": "Drop",
-                "iconOpacity": "0.6",
-                "color": "Black",
-                "iconUrl": "/uploads/pictogram/monument-24_1.png"
-              },
-              "name": "Ardoise 2",
-              "description": "[[https://lautreterreliberee.fr/balade-sonore/2|L'épitaphe, le début de l'enquête]]\n\nDe cette épitaphe pour le moins énigmatique, nous commençons notre enquête. Louis Rimbault a été inscrit au carnet B vers 1911-1912. Le carnet B est un fichier établi par la Sûreté Nationale recensant les anarchistes et antimilitaristes considérés comme dangereux. Rimbault faisait donc l’objet d’un contrôle régulier qui nous fournit de riches informations sur son parcours."
-            },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [
-                0.551124,
-                47.385116
-              ]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "_umap_options": {
-                "iconClass": "Drop",
-                "iconOpacity": "0.6",
-                "color": "Black"
-              },
-              "name": "Ardoise 3",
-              "description": "[[https://lautreterreliberee.fr/balade-sonore/3|Louis Rimbault s’installe à Luynes]]\n\n1923, Louis Rimbault est à Luynes, il vient d’acheter une propriété pour y installer son projet d’école végétarienne. Dans le journal Le Néo-Naturien, Louis Rimbault décrit avec enthousiasme le paysage qui l’accueille. Vous allez écouter la description d’un paysage luynois de 1923 en contemplant un paysage de 2023."
-            },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [
-                0.5448,
-                47.38391
-              ]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "_umap_options": {
-                "iconClass": "Drop",
-                "iconOpacity": "0.6",
-                "color": "Black"
-              },
-              "description": "[[https://lautreterreliberee.fr/balade-sonore/4|Les témoignages vivants]]\n\nLouis Rimbault est mort en 1949. C’est un peu trop loin pour trouver des témoignages directs. Pour autant, certains ici se souviennent de quelques commentaires que racontaient les Luynois ayant croisé son chemin.",
-              "name": "Ardoise 4"
-            },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [
-                0.539553,
-                47.380888
-              ]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "_umap_options": {
-                "iconClass": "Drop",
-                "iconOpacity": "0.6",
-                "color": "Black"
-              },
-              "name": "Ardoise 5",
-              "description": "[[https://lautreterreliberee.fr/balade-sonore/5|Être végétarien il y a cent ans]]\n\nPour Rimbault, être végétarien, en 1910, c’est un acte éminemment politique. En 1923, il lance son appel aux consciences citoyennes pour venir rejoindre la communauté luynoise. Rimbault est un exalté, un tribun, son texte est emprunt de sa verve enthousiaste et excessive si caractéristique, que nous avons malgré tout quelque peu allégée. Vous noterez l’étonnante modernité de ces mots écrits il y a cent ans."
-            },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [
-                0.530391,
-                47.384375
-              ]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "_umap_options": {
-                "iconClass": "Drop",
-                "color": "Black",
-                "iconOpacity": "0.6"
-              },
-              "name": "Ardoise 6",
-              "description": "[[https://lautreterreliberee.fr/balade-sonore/6|La salade de Rimbault, la Basconnaise]]\n\nLouis Rimbault participe à plusieurs expériences de milieux libres, notamment à Bascon dans l’Aisne, auprès de Georges Butaud, anarchiste et végétalien né en 1868. Rimbault y invente une recette d’infinie variété végétale : la Basconnaise."
-            },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [
-                0.525541,
-                47.388239
-              ]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "_umap_options": {
-                "color": "Black",
-                "iconClass": "Drop",
-                "iconOpacity": "0.6"
-              },
-              "name": "Ardoise 7",
-              "description": "[[https://lautreterreliberee.fr/balade-sonore/7|La lutte contre les fléaux]]\n\nToute sa vie, Louis Rimbault mène une lutte acharnée contre l’alcool et le tabac. Il faut replacer dans le contexte d’une époque différente de la nôtre ces combats, contre une consommation de vin, largement encouragée par la publicité, qui crée des ravages dans la population du début du 20e siècle et qui, du point de vue de nombre d’anarchistes, contribue à l’aliénation des masses. Il a écrit nombre d’articles à ce sujet, dans Le Néo-naturien, dont voici des extraits."
-            },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [
-                0.528674,
-                47.391057
-              ]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "_umap_options": {
-                "color": "Black",
-                "iconClass": "Drop",
-                "iconOpacity": "0.6"
-              },
-              "name": "Ardoise 8",
-              "description": "[[https://lautreterreliberee.fr/balade-sonore/8|Une visite à « Terre Libérée »]]\n\nEn 1924, un “camarade” du Libertaire, un hebdomadaire fondé en 1895 par Louise Michel et Sébastien Faure, rend visite à Terre Libérée. Cet article rend la visite très vivante, vous découvrez la colonie comme si vous y étiez."
-            },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [
-                0.53112,
-                47.394311
-              ]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "_umap_options": {
-                "color": "FireBrick",
-                "iconClass": "Drop",
-                "iconUrl": "/uploads/pictogram/park2-24_1.png",
-                "iconOpacity": "0.6"
-              },
-              "name": "Terrain de l'association \"L'autre Terre Libérée\""
-            },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [
-                0.535197,
-                47.397739
-              ]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {},
-            "geometry": {
-              "type": "LineString",
-              "coordinates": [
-                [
-                  0.549917,
-                  47.384672
-                ],
-                [
-                  0.549424,
-                  47.384495
-                ],
-                [
-                  0.547342,
-                  47.383961
-                ],
-                [
-                  0.544918,
-                  47.383899
-                ],
-                [
-                  0.5448,
-                  47.383873
-                ],
-                [
-                  0.544783,
-                  47.383565
-                ],
-                [
-                  0.5448,
-                  47.383379
-                ],
-                [
-                  0.544885,
-                  47.383147
-                ],
-                [
-                  0.544998,
-                  47.382976
-                ],
-                [
-                  0.544966,
-                  47.382871
-                ],
-                [
-                  0.544124,
-                  47.3825
-                ],
-                [
-                  0.543861,
-                  47.382471
-                ],
-                [
-                  0.543566,
-                  47.38245
-                ],
-                [
-                  0.543367,
-                  47.382391
-                ],
-                [
-                  0.54275,
-                  47.381919
-                ],
-                [
-                  0.542734,
-                  47.381676
-                ],
-                [
-                  0.541044,
-                  47.381015
-                ],
-                [
-                  0.54061,
-                  47.380899
-                ],
-                [
-                  0.539998,
-                  47.380822
-                ],
-                [
-                  0.538754,
-                  47.380989
-                ],
-                [
-                  0.538319,
-                  47.381117
-                ],
-                [
-                  0.537681,
-                  47.381367
-                ],
-                [
-                  0.537263,
-                  47.381483
-                ],
-                [
-                  0.537214,
-                  47.381527
-                ],
-                [
-                  0.536919,
-                  47.381581
-                ],
-                [
-                  0.536613,
-                  47.381571
-                ],
-                [
-                  0.536351,
-                  47.381512
-                ],
-                [
-                  0.534532,
-                  47.380728
-                ],
-                [
-                  0.533996,
-                  47.381142
-                ],
-                [
-                  0.53391,
-                  47.381222
-                ],
-                [
-                  0.533438,
-                  47.382065
-                ],
-                [
-                  0.533196,
-                  47.38254
-                ],
-                [
-                  0.532655,
-                  47.383143
-                ],
-                [
-                  0.532553,
-                  47.383201
-                ],
-                [
-                  0.531898,
-                  47.38335
-                ],
-                [
-                  0.531667,
-                  47.383441
-                ],
-                [
-                  0.53045,
-                  47.384342
-                ],
-                [
-                  0.529484,
-                  47.385054
-                ],
-                [
-                  0.52905,
-                  47.385373
-                ],
-                [
-                  0.528948,
-                  47.385501
-                ],
-                [
-                  0.528068,
-                  47.386031
-                ],
-                [
-                  0.52795,
-                  47.386027
-                ],
-                [
-                  0.527778,
-                  47.386067
-                ],
-                [
-                  0.527601,
-                  47.386176
-                ],
-                [
-                  0.527553,
-                  47.386231
-                ],
-                [
-                  0.527419,
-                  47.386256
-                ],
-                [
-                  0.527242,
-                  47.386234
-                ],
-                [
-                  0.526941,
-                  47.386064
-                ],
-                [
-                  0.526791,
-                  47.385915
-                ],
-                [
-                  0.526641,
-                  47.385798
-                ],
-                [
-                  0.526078,
-                  47.385628
-                ]
-              ]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {},
-            "geometry": {
-              "type": "LineString",
-              "coordinates": [
-                [
-                  0.526099,
-                  47.385624
-                ],
-                [
-                  0.52552,
-                  47.385944
-                ],
-                [
-                  0.524983,
-                  47.386597
-                ],
-                [
-                  0.524747,
-                  47.387222
-                ],
-                [
-                  0.525413,
-                  47.388137
-                ],
-                [
-                  0.526056,
-                  47.388777
-                ],
-                [
-                  0.526443,
-                  47.389547
-                ],
-                [
-                  0.526679,
-                  47.390258
-                ],
-                [
-                  0.526721,
-                  47.39052
-                ],
-                [
-                  0.526614,
-                  47.390723
-                ],
-                [
-                  0.52677,
-                  47.390763
-                ],
-                [
-                  0.527043,
-                  47.390865
-                ],
-                [
-                  0.527269,
-                  47.390934
-                ],
-                [
-                  0.52765,
-                  47.390923
-                ],
-                [
-                  0.528154,
-                  47.390912
-                ],
-                [
-                  0.528465,
-                  47.390941
-                ],
-                [
-                  0.528771,
-                  47.391021
-                ],
-                [
-                  0.528669,
-                  47.391453
-                ],
-                [
-                  0.528599,
-                  47.391751
-                ],
-                [
-                  0.528588,
-                  47.392002
-                ],
-                [
-                  0.528535,
-                  47.392252
-                ],
-                [
-                  0.528492,
-                  47.392401
-                ],
-                [
-                  0.528401,
-                  47.392626
-                ],
-                [
-                  0.528299,
-                  47.392837
-                ],
-                [
-                  0.527548,
-                  47.393563
-                ],
-                [
-                  0.527306,
-                  47.39385
-                ],
-                [
-                  0.526958,
-                  47.394308
-                ],
-                [
-                  0.526641,
-                  47.394711
-                ],
-                [
-                  0.526577,
-                  47.39482
-                ],
-                [
-                  0.526603,
-                  47.394882
-                ],
-                [
-                  0.526668,
-                  47.394951
-                ],
-                [
-                  0.527027,
-                  47.395056
-                ],
-                [
-                  0.527526,
-                  47.395008
-                ],
-                [
-                  0.529066,
-                  47.394758
-                ],
-                [
-                  0.530219,
-                  47.394493
-                ],
-                [
-                  0.531083,
-                  47.39426
-                ]
-              ]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {},
-            "geometry": {
-              "type": "LineString",
-              "coordinates": [
-                [
-                  0.531083,
-                  47.394275
-                ],
-                [
-                  0.531228,
-                  47.394329
-                ],
-                [
-                  0.531271,
-                  47.394475
-                ],
-                [
-                  0.531271,
-                  47.394711
-                ],
-                [
-                  0.531828,
-                  47.39482
-                ],
-                [
-                  0.532204,
-                  47.394958
-                ],
-                [
-                  0.532553,
-                  47.395154
-                ],
-                [
-                  0.533202,
-                  47.395553
-                ],
-                [
-                  0.533454,
-                  47.395677
-                ],
-                [
-                  0.533781,
-                  47.395764
-                ],
-                [
-                  0.534189,
-                  47.395822
-                ],
-                [
-                  0.535036,
-                  47.395934
-                ],
-                [
-                  0.535551,
-                  47.395985
-                ],
-                [
-                  0.535583,
-                  47.396367
-                ],
-                [
-                  0.535567,
-                  47.396606
-                ],
-                [
-                  0.535482,
-                  47.396882
-                ],
-                [
-                  0.535412,
-                  47.397093
-                ],
-                [
-                  0.535219,
-                  47.397441
-                ],
-                [
-                  0.535069,
-                  47.39767
-                ],
-                [
-                  0.534875,
-                  47.397899
-                ],
-                [
-                  0.534945,
-                  47.397943
-                ],
-                [
-                  0.535262,
-                  47.397659
-                ]
-              ]
-            }
-          }
-        ],
-        "_umap_options": {
-          "displayOnLoad": true,
-          "browsable": true,
-          "name": "Calque 1",
-          "id": 2878926
-        }
-      }
+    "licence": "",
+    "description": "Balade parsemée de podcasts, à la rencontre de Louis Rimbault, anarchiste individualiste ayant vécu à Luynes entre 1923 et 1949, fondateur de la communauté végétalienne \"Terre Libérée\".",
+    "name": "Balade sonore, à la rencontre de Louis Rimbault",
+    "onLoadPanel": "none",
+    "displayPopupFooter": false,
+    "miniMap": false,
+    "moreControl": true,
+    "scaleControl": true,
+    "scrollWheelZoom": true,
+    "zoom": 15
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.5409908294677735,
+      47.38903808501314
     ]
-  }
+  },
+  "layers": [
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "displayOnLoad": true,
+        "browsable": true,
+        "name": "Calque 1",
+        "id": 2878925
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                0.554415,
+                47.385619
+              ],
+              [
+                0.554295,
+                47.385731
+              ],
+              [
+                0.553471,
+                47.385566
+              ],
+              [
+                0.553133,
+                47.385757
+              ],
+              [
+                0.552248,
+                47.385214
+              ],
+              [
+                0.552007,
+                47.385097
+              ],
+              [
+                0.55165,
+                47.384934
+              ],
+              [
+                0.551457,
+                47.384863
+              ],
+              [
+                0.551266,
+                47.384841
+              ],
+              [
+                0.551135,
+                47.384841
+              ],
+              [
+                0.550985,
+                47.384876
+              ],
+              [
+                0.550824,
+                47.384916
+              ],
+              [
+                0.550765,
+                47.385072
+              ],
+              [
+                0.551199,
+                47.385257
+              ],
+              [
+                0.551162,
+                47.385286
+              ],
+              [
+                0.550674,
+                47.385076
+              ],
+              [
+                0.550743,
+                47.384898
+              ],
+              [
+                0.549917,
+                47.384672
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Drop",
+              "iconOpacity": "0.6",
+              "color": "Black"
+            },
+            "name": "Ardoise 1",
+            "description": "[[https://lautreterreliberee.fr/balade-sonore/1|A la rencontre de Louis Rimbault]]\n\nCe premier podcast vous invite à partir à la rencontre de Louis. Comme vous aujourd’hui, cette histoire nous l’avons découverte au hasard d’une promenade dans Luynes. Nous sommes tombés sur ce premier indice, point de départ de notre enquête, là où nous allons vous emmener."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              0.554348,
+              47.385608
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Drop",
+              "iconOpacity": "0.6",
+              "color": "Black",
+              "iconUrl": "/uploads/pictogram/monument-24_1.png"
+            },
+            "name": "Ardoise 2",
+            "description": "[[https://lautreterreliberee.fr/balade-sonore/2|L'épitaphe, le début de l'enquête]]\n\nDe cette épitaphe pour le moins énigmatique, nous commençons notre enquête. Louis Rimbault a été inscrit au carnet B vers 1911-1912. Le carnet B est un fichier établi par la Sûreté Nationale recensant les anarchistes et antimilitaristes considérés comme dangereux. Rimbault faisait donc l’objet d’un contrôle régulier qui nous fournit de riches informations sur son parcours."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              0.551124,
+              47.385116
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Drop",
+              "iconOpacity": "0.6",
+              "color": "Black"
+            },
+            "name": "Ardoise 3",
+            "description": "[[https://lautreterreliberee.fr/balade-sonore/3|Louis Rimbault s’installe à Luynes]]\n\n1923, Louis Rimbault est à Luynes, il vient d’acheter une propriété pour y installer son projet d’école végétarienne. Dans le journal Le Néo-Naturien, Louis Rimbault décrit avec enthousiasme le paysage qui l’accueille. Vous allez écouter la description d’un paysage luynois de 1923 en contemplant un paysage de 2023."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              0.5448,
+              47.38391
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Drop",
+              "iconOpacity": "0.6",
+              "color": "Black"
+            },
+            "description": "[[https://lautreterreliberee.fr/balade-sonore/4|Les témoignages vivants]]\n\nLouis Rimbault est mort en 1949. C’est un peu trop loin pour trouver des témoignages directs. Pour autant, certains ici se souviennent de quelques commentaires que racontaient les Luynois ayant croisé son chemin.",
+            "name": "Ardoise 4"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              0.539553,
+              47.380888
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Drop",
+              "iconOpacity": "0.6",
+              "color": "Black"
+            },
+            "name": "Ardoise 5",
+            "description": "[[https://lautreterreliberee.fr/balade-sonore/5|Être végétarien il y a cent ans]]\n\nPour Rimbault, être végétarien, en 1910, c’est un acte éminemment politique. En 1923, il lance son appel aux consciences citoyennes pour venir rejoindre la communauté luynoise. Rimbault est un exalté, un tribun, son texte est emprunt de sa verve enthousiaste et excessive si caractéristique, que nous avons malgré tout quelque peu allégée. Vous noterez l’étonnante modernité de ces mots écrits il y a cent ans."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              0.530391,
+              47.384375
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Drop",
+              "color": "Black",
+              "iconOpacity": "0.6"
+            },
+            "name": "Ardoise 6",
+            "description": "[[https://lautreterreliberee.fr/balade-sonore/6|La salade de Rimbault, la Basconnaise]]\n\nLouis Rimbault participe à plusieurs expériences de milieux libres, notamment à Bascon dans l’Aisne, auprès de Georges Butaud, anarchiste et végétalien né en 1868. Rimbault y invente une recette d’infinie variété végétale : la Basconnaise."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              0.525541,
+              47.388239
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "Black",
+              "iconClass": "Drop",
+              "iconOpacity": "0.6"
+            },
+            "name": "Ardoise 7",
+            "description": "[[https://lautreterreliberee.fr/balade-sonore/7|La lutte contre les fléaux]]\n\nToute sa vie, Louis Rimbault mène une lutte acharnée contre l’alcool et le tabac. Il faut replacer dans le contexte d’une époque différente de la nôtre ces combats, contre une consommation de vin, largement encouragée par la publicité, qui crée des ravages dans la population du début du 20e siècle et qui, du point de vue de nombre d’anarchistes, contribue à l’aliénation des masses. Il a écrit nombre d’articles à ce sujet, dans Le Néo-naturien, dont voici des extraits."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              0.528674,
+              47.391057
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "Black",
+              "iconClass": "Drop",
+              "iconOpacity": "0.6"
+            },
+            "name": "Ardoise 8",
+            "description": "[[https://lautreterreliberee.fr/balade-sonore/8|Une visite à « Terre Libérée »]]\n\nEn 1924, un “camarade” du Libertaire, un hebdomadaire fondé en 1895 par Louise Michel et Sébastien Faure, rend visite à Terre Libérée. Cet article rend la visite très vivante, vous découvrez la colonie comme si vous y étiez."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              0.53112,
+              47.394311
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "FireBrick",
+              "iconClass": "Drop",
+              "iconUrl": "/uploads/pictogram/park2-24_1.png",
+              "iconOpacity": "0.6"
+            },
+            "name": "Terrain de l'association \"L'autre Terre Libérée\""
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              0.535197,
+              47.397739
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                0.549917,
+                47.384672
+              ],
+              [
+                0.549424,
+                47.384495
+              ],
+              [
+                0.547342,
+                47.383961
+              ],
+              [
+                0.544918,
+                47.383899
+              ],
+              [
+                0.5448,
+                47.383873
+              ],
+              [
+                0.544783,
+                47.383565
+              ],
+              [
+                0.5448,
+                47.383379
+              ],
+              [
+                0.544885,
+                47.383147
+              ],
+              [
+                0.544998,
+                47.382976
+              ],
+              [
+                0.544966,
+                47.382871
+              ],
+              [
+                0.544124,
+                47.3825
+              ],
+              [
+                0.543861,
+                47.382471
+              ],
+              [
+                0.543566,
+                47.38245
+              ],
+              [
+                0.543367,
+                47.382391
+              ],
+              [
+                0.54275,
+                47.381919
+              ],
+              [
+                0.542734,
+                47.381676
+              ],
+              [
+                0.541044,
+                47.381015
+              ],
+              [
+                0.54061,
+                47.380899
+              ],
+              [
+                0.539998,
+                47.380822
+              ],
+              [
+                0.538754,
+                47.380989
+              ],
+              [
+                0.538319,
+                47.381117
+              ],
+              [
+                0.537681,
+                47.381367
+              ],
+              [
+                0.537263,
+                47.381483
+              ],
+              [
+                0.537214,
+                47.381527
+              ],
+              [
+                0.536919,
+                47.381581
+              ],
+              [
+                0.536613,
+                47.381571
+              ],
+              [
+                0.536351,
+                47.381512
+              ],
+              [
+                0.534532,
+                47.380728
+              ],
+              [
+                0.533996,
+                47.381142
+              ],
+              [
+                0.53391,
+                47.381222
+              ],
+              [
+                0.533438,
+                47.382065
+              ],
+              [
+                0.533196,
+                47.38254
+              ],
+              [
+                0.532655,
+                47.383143
+              ],
+              [
+                0.532553,
+                47.383201
+              ],
+              [
+                0.531898,
+                47.38335
+              ],
+              [
+                0.531667,
+                47.383441
+              ],
+              [
+                0.53045,
+                47.384342
+              ],
+              [
+                0.529484,
+                47.385054
+              ],
+              [
+                0.52905,
+                47.385373
+              ],
+              [
+                0.528948,
+                47.385501
+              ],
+              [
+                0.528068,
+                47.386031
+              ],
+              [
+                0.52795,
+                47.386027
+              ],
+              [
+                0.527778,
+                47.386067
+              ],
+              [
+                0.527601,
+                47.386176
+              ],
+              [
+                0.527553,
+                47.386231
+              ],
+              [
+                0.527419,
+                47.386256
+              ],
+              [
+                0.527242,
+                47.386234
+              ],
+              [
+                0.526941,
+                47.386064
+              ],
+              [
+                0.526791,
+                47.385915
+              ],
+              [
+                0.526641,
+                47.385798
+              ],
+              [
+                0.526078,
+                47.385628
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                0.526099,
+                47.385624
+              ],
+              [
+                0.52552,
+                47.385944
+              ],
+              [
+                0.524983,
+                47.386597
+              ],
+              [
+                0.524747,
+                47.387222
+              ],
+              [
+                0.525413,
+                47.388137
+              ],
+              [
+                0.526056,
+                47.388777
+              ],
+              [
+                0.526443,
+                47.389547
+              ],
+              [
+                0.526679,
+                47.390258
+              ],
+              [
+                0.526721,
+                47.39052
+              ],
+              [
+                0.526614,
+                47.390723
+              ],
+              [
+                0.52677,
+                47.390763
+              ],
+              [
+                0.527043,
+                47.390865
+              ],
+              [
+                0.527269,
+                47.390934
+              ],
+              [
+                0.52765,
+                47.390923
+              ],
+              [
+                0.528154,
+                47.390912
+              ],
+              [
+                0.528465,
+                47.390941
+              ],
+              [
+                0.528771,
+                47.391021
+              ],
+              [
+                0.528669,
+                47.391453
+              ],
+              [
+                0.528599,
+                47.391751
+              ],
+              [
+                0.528588,
+                47.392002
+              ],
+              [
+                0.528535,
+                47.392252
+              ],
+              [
+                0.528492,
+                47.392401
+              ],
+              [
+                0.528401,
+                47.392626
+              ],
+              [
+                0.528299,
+                47.392837
+              ],
+              [
+                0.527548,
+                47.393563
+              ],
+              [
+                0.527306,
+                47.39385
+              ],
+              [
+                0.526958,
+                47.394308
+              ],
+              [
+                0.526641,
+                47.394711
+              ],
+              [
+                0.526577,
+                47.39482
+              ],
+              [
+                0.526603,
+                47.394882
+              ],
+              [
+                0.526668,
+                47.394951
+              ],
+              [
+                0.527027,
+                47.395056
+              ],
+              [
+                0.527526,
+                47.395008
+              ],
+              [
+                0.529066,
+                47.394758
+              ],
+              [
+                0.530219,
+                47.394493
+              ],
+              [
+                0.531083,
+                47.39426
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                0.531083,
+                47.394275
+              ],
+              [
+                0.531228,
+                47.394329
+              ],
+              [
+                0.531271,
+                47.394475
+              ],
+              [
+                0.531271,
+                47.394711
+              ],
+              [
+                0.531828,
+                47.39482
+              ],
+              [
+                0.532204,
+                47.394958
+              ],
+              [
+                0.532553,
+                47.395154
+              ],
+              [
+                0.533202,
+                47.395553
+              ],
+              [
+                0.533454,
+                47.395677
+              ],
+              [
+                0.533781,
+                47.395764
+              ],
+              [
+                0.534189,
+                47.395822
+              ],
+              [
+                0.535036,
+                47.395934
+              ],
+              [
+                0.535551,
+                47.395985
+              ],
+              [
+                0.535583,
+                47.396367
+              ],
+              [
+                0.535567,
+                47.396606
+              ],
+              [
+                0.535482,
+                47.396882
+              ],
+              [
+                0.535412,
+                47.397093
+              ],
+              [
+                0.535219,
+                47.397441
+              ],
+              [
+                0.535069,
+                47.39767
+              ],
+              [
+                0.534875,
+                47.397899
+              ],
+              [
+                0.534945,
+                47.397943
+              ],
+              [
+                0.535262,
+                47.397659
+              ]
+            ]
+          }
+        }
+      ],
+      "_umap_options": {
+        "displayOnLoad": true,
+        "browsable": true,
+        "name": "Calque 1",
+        "id": 2878926
+      }
+    }
+  ]
+}

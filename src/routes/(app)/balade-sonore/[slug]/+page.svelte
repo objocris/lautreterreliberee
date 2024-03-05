@@ -11,14 +11,14 @@
     <h5 class="frankie text-2xl mt-6">Ardoise {data.ardoise.numero}</h5>
     <h1 class="frankie text-4xl mb-6">{data.ardoise.titre}</h1>
 
-    <audio controls src={audioPath} class="w-full mb-6" />
+    <audio controls src={audioPath} class="w-full mb-6"/>
 
     <div class="balade-nav flex justify-between frankie text-4xl mt-8 mb-8 ml-3 mr-3">
         {#if data.previous}
-            <a href={`/balade-sonore/${data.previous.numero}`} class="previous" title="Ardoise précédente" />
+            <a href={`/balade-sonore/${data.previous.numero}`} class="previous" title="Ardoise précédente"/>
         {/if}
         {#if data.next}
-            <a href={`/balade-sonore/${data.next.numero}`} class="next ml-auto" title="Ardoise suivante" />
+            <a href={`/balade-sonore/${data.next.numero}`} class="next ml-auto" title="Ardoise suivante"/>
         {/if}
     </div>
 
@@ -51,20 +51,20 @@
 </div>
 
 <style lang="scss">
-    .balade-nav {
-        display: flex;
-        align-items: center;
+  .balade-nav {
+    display: flex;
+    align-items: center;
 
-        a {
-            border-right: 10px solid #12133b;
-            border-bottom: 10px solid #12133b;
-            width: 30px;
-            height: 30px;
-            transform: rotate(-45deg);
+    a {
+      border-right: 10px solid #12133b;
+      border-bottom: 10px solid #12133b;
+      width: 30px;
+      height: 30px;
+      transform: rotate(-45deg);
 
-            &.previous {
-                transform: rotate(135deg);
-            }
-        }
+      &.previous {
+        transform: rotate(135deg);
+      }
     }
+  }
 </style>

@@ -8,13 +8,13 @@
 
 <div class="container p-4 pt-10">
     <div class="inner">
-        <slot />
+        <slot/>
     </div>
     <footer class="mb-6">
         <div class="footer text-center">
-            <img src={logoSmall} alt="Logo de l'association L'autre terre libérée à Luynes" />
+            <img src={logoSmall} alt="Logo de l'association L'autre terre libérée à Luynes"/>
             <a href="https://www.centre-valdeloire.fr/lactualite-de-la-region-centre-valdeloire/lancement-des-nouvelles-renaissances-2023" target="_blank">
-                <img src={labelRenaissance} alt="Label Renaissance(s) 2023" />
+                <img src={labelRenaissance} alt="Label Renaissance(s) 2023"/>
             </a>
         </div>
         <div class="text-center">

@@ -1,4 +1,4 @@
-<script language="ts">
+<script>
     import rimbaultTransparent from "$lib/images/rimbault-transparent.png";
 </script>
 
@@ -7,7 +7,7 @@
 </svelte:head>
 
 <div class="flex justify-center">
-    <img src={rimbaultTransparent} alt="Portrait de Rimbault" />
+    <img src={rimbaultTransparent} alt="Portrait de Rimbault"/>
 </div>
 <h1 class="text-center frankie">Mentions légales</h1>
 

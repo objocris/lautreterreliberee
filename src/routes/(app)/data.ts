@@ -2,6 +2,7 @@ export interface Coordonnees {
     lat: number;
     lng: number
 }
+
 export interface Ardoise {
     numero: string;
     titre: string;
@@ -14,7 +15,7 @@ export const ardoises: Ardoise[] = [
     {
         numero: '1',
         titre: 'A la rencontre de Louis Rimbault',
-        texteArdoise :
+        texteArdoise:
             [
                 'Ce premier podcast vous invite à partir à la rencontre de Louis. Comme vous aujourd’hui, cette histoire nous l’avons découverte au hasard d’une promenade dans Luynes. Nous sommes tombés sur ce premier indice, point de départ de notre enquête, là où nous allons vous emmener.'
             ],
@@ -27,12 +28,12 @@ export const ardoises: Ardoise[] = [
                 'Et à Luynes, il se trouve que nous en avons une comme cela, une qui a disparu des mémoires. Une histoire dont le premier indice se trouve dans le cimetière, dans sa partie ancienne, près de l’if.',
                 'C’est là-bas que nous avons rencontré Louis pour la première fois, et c’est là-bas que nous vous invitons également à le rencontrer pour la première fois. A lire l’épitaphe sur sa tombe.'
             ],
-        coordonnees: { lat: 47.385607737282, lng: 0.554348230361939 },
+        coordonnees: {lat: 47.385607737282, lng: 0.554348230361939},
     },
     {
         numero: '2',
         titre: 'L\'épitaphe, le début de l\'enquête',
-        texteArdoise :
+        texteArdoise:
             [
                 'De cette épitaphe pour le moins énigmatique, nous commençons notre enquête. Louis Rimbault a été inscrit au carnet B vers 1911-1912. Le carnet B est un fichier établi par la Sûreté Nationale recensant les anarchistes et antimilitaristes considérés comme dangereux. Rimbault faisait donc l’objet d’un contrôle régulier qui nous fournit de riches informations sur son parcours.'
             ],
@@ -59,12 +60,12 @@ export const ardoises: Ardoise[] = [
                 'Je suis aisé que le nommé Rimbault Louis Edouard, né le 9 avril 1877 à Tours inscrit au carnet B de la Seine (3e group), s’est installé dans la colonie végétalienne de Luynes au lieu dit « Terre Libérée » Indre et Loire.',
                 'J’ai l’honneur de vous faire connaitre que le 28 décembre 1926, j’ai rayé cet individu au carnet B de la Seine et que j’ai transféré son dossier à Monsieur le Préfet d’Indre et Loire.'
             ],
-        coordonnees: { lat: 47.3851155939125, lng: 0.551124215126038 }
+        coordonnees: {lat: 47.3851155939125, lng: 0.551124215126038}
     },
     {
         numero: '4',
         titre: 'Les témoignages vivants',
-        texteArdoise :
+        texteArdoise:
             [
                 'Louis Rimbault est mort en 1949. C’est un peu trop loin pour trouver des témoignages directs. Pour autant, certains ici se souviennent de quelques  commentaires que racontaient les Luynois ayant croisé son chemin.'
             ],
@@ -84,12 +85,12 @@ export const ardoises: Ardoise[] = [
                 'Et les bourgeois de Tours venaient en Tram, donc venaient le samedi puis ils repartaient le dimanche soir. Ils passaient le week end ici et donc il y avait un cortège devant 25 ou 30 personnes qui montaient et puis qui redescendaient… Alors ça intriguait les gens, qu’est ce qui se passe là-bas ? Qu’est ce que c’est que ça ?',
                 '<i>Bernard M</i> : Après la guerre, oui, ça s’est calmé. Après la guerre ben il n’a pas vécu longtemps puisqu’il est mort en 49.'
             ],
-        coordonnees: { lat: 47.3808876933334, lng: 0.539553165435791 },
+        coordonnees: {lat: 47.3808876933334, lng: 0.539553165435791},
     },
     {
         numero: '3',
         titre: 'Louis Rimbault s’installe à Luynes',
-        texteArdoise :
+        texteArdoise:
             [
                 '1923, Louis Rimbault est à Luynes, il vient d’acheter une propriété pour y installer son projet d’école végétarienne. Dans le journal <i>Le Néo-Naturien</i>, Louis Rimbault décrit avec enthousiasme le paysage qui l’accueille. Vous allez écouter la description d’un paysage luynois de 1923 en contemplant un paysage de 2023.'
             ],
@@ -101,12 +102,12 @@ export const ardoises: Ardoise[] = [
                 'La pierre de béton et de blocage, le cailloutis et la pierre propre à la construction peuvent être tirés très facilement du sol de la Cité. Luynes possède des ruines historiques imposantes, vestiges d’un grand aqueduc romain, ainsi qu’un château fort ancien attirant le touriste étranger. Nombreux sont les amateurs de merveilleux paysages qui fréquentent Luynes et ses environs. Luynes est également le rendez-vous des peintres paysagistes et des poètes qui y composèrent quelques œuvres célèbres.',
                 'Une cité, construite sur une des parties les plus élevées de ce pays, harmonieusement accidentée, est habitée par des artisans lapidaires, associés dans leurs entreprises. Le voisinage est composé de gens laborieux, sobres et avenants.'
             ],
-        coordonnees: { lat: 47.3839097324347, lng: 0.544799566268921 },
+        coordonnees: {lat: 47.3839097324347, lng: 0.544799566268921},
     },
     {
         numero: '5',
         titre: 'Être végétarien il y a cent ans',
-        texteArdoise :
+        texteArdoise:
             [
                 'Pour Rimbault, être végétarien, en 1910, c’est un acte éminemment politique. En 1923, il lance son appel aux consciences citoyennes pour venir rejoindre la communauté luynoise. Rimbault est un exalté, un tribun, son texte est emprunt de sa verve enthousiaste et excessive si caractéristique, que nous avons malgré tout quelque peu allégée. Vous noterez l’étonnante modernité de ces mots écrits il y a cent ans.'
             ],
@@ -124,12 +125,12 @@ export const ardoises: Ardoise[] = [
                 'Heureux temps ! Où les hommes libérés des entraves morales, sociales et économiques,  travailleront à la réalisation d’un rêve bien humain : vivre dans la perfection de soi-même avec le désir d’initier d’autres hommes au bon sens, à l’harmonie, à la beauté !',
                 'Louis Rimbault.'
             ],
-        coordonnees: { lat: 47.385607737282, lng: 0.554348230361939 },
+        coordonnees: {lat: 47.385607737282, lng: 0.554348230361939},
     },
     {
         numero: '6',
         titre: 'La salade de Rimbault, la Basconnaise',
-        texteArdoise :
+        texteArdoise:
             [
                 'Louis Rimbault participe à plusieurs expériences de milieux libres, notamment à Bascon dans l’Aisne, auprès de Georges Butaud, anarchiste et végétalien né en 1868. Rimbault y invente une recette d’infinie variété végétale : la Basconnaise.'
             ],
@@ -153,12 +154,12 @@ export const ardoises: Ardoise[] = [
                 '<i>Louis Rimbault</i> : Un argument opposé à l’idée de la basconnaise et de la cuisine d’infinie variété végétale c’est le temps qu’il faut donner à la préparation des mets. Et nous répondrons à cela, que l’argument ne porte que pour ceux qui n’ont pas de temps, soit qu’ils le gâchent ou qu’ils l’offrent stupidement à la rapacité de ceux qui les dupent et les exploitent.',
                 'Louis Rimbault.'
             ],
-        coordonnees: { lat: 47.385607737282, lng: 0.554348230361939 },
+        coordonnees: {lat: 47.385607737282, lng: 0.554348230361939},
     },
     {
         numero: '7',
         titre: 'La lutte contre les fléaux',
-        texteArdoise :
+        texteArdoise:
             [
                 'Toute sa vie, Louis Rimbault mène une lutte acharnée contre l’alcool et le tabac. Il faut replacer dans le contexte d’une époque différente de la nôtre ces combats, contre une consommation de vin, largement encouragée par la publicité, qui crée des ravages dans la population du début du 20e siècle et qui, du point de vue de nombre d’anarchistes, contribue à l’aliénation des masses. Il a écrit nombre d’articles à ce sujet, dans Le Néo-naturien, dont voici des extraits.'
             ],
@@ -174,12 +175,12 @@ export const ardoises: Ardoise[] = [
                 '<i>Le narrateur</i> : A Luynes, à « Terre Libérée », Louis Rimbault invente le terme de Naturarchisme donc il vous donne ici la définition.',
                 '<i>Louis Rimbault</i> : Le « naturarchisme » (de gouvernement de la nature auquel gouvernement s’ajoute celle de la conscience d’homme, volontairement libéré des vices sociaux et humains, ne demandant, au compte de leur humanitaire existence, que ce que leurs compétences utilitaires leur assure près du sol enfin respecté). Le « naturarchisme » n’en est plus seulement qu’aux idées de bien faire, mais aux moyens, termes, définis et rapides, de les réaliser individuellement et exemplairement. Le naturarchiste ce n’est pas “la révolution qui vient”… mais celle qui tient !'
             ],
-        coordonnees: { lat: 47.385607737282, lng: 0.554348230361939 },
+        coordonnees: {lat: 47.385607737282, lng: 0.554348230361939},
     },
     {
         numero: '8',
         titre: 'Une visite à « Terre Libérée »',
-        texteArdoise :
+        texteArdoise:
             [
                 'En 1924, un “camarade” du Libertaire, un hebdomadaire fondé en 1895 par Louise Michel et Sébastien Faure, rend visite à Terre Libérée. Cet article rend la visite très vivante, vous découvrez la colonie comme si vous y étiez.'
             ],
@@ -197,6 +198,6 @@ export const ardoises: Ardoise[] = [
                 'Lorsque la révolution aura aboli le capitalisme, l’exploitation de l’homme par l’homme, l’autorité, l’État et ses succédanés, une floraison de petites communautés, de colonies anarchistes libres surgiront sur toute la terre, à l’exemple de « Terre Libérée », mais le confort moderne n’en sera pas exclu : mécanique, électricité, bibliothèque, enseignement, conférence, etc., élèveront le moral et la conscience des êtres libres qui vivront dans la douce nature des champs.',
                 'Un camarade instituteur et une camarade institutrice sont là pour donner un enseignement pratique. Il ne nous reste plus qu’à dire courage à ces braves, tant de tentatives ont échoué, que celle-ci ou d’autres doivent réussir par la logique des choses.'
             ],
-        coordonnees: { lat: 47.385607737282, lng: 0.554348230361939 },
+        coordonnees: {lat: 47.385607737282, lng: 0.554348230361939},
     }
 ].sort((a, b) => a.numero.localeCompare(b.numero));
