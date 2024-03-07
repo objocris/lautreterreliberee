@@ -1,3 +1,7 @@
+<script>
+    import Entry from "./Entry.svelte";
+</script>
+
 <svelte:head>
     <title>Bibliographie — L'autre terre libérée</title>
 </svelte:head>
@@ -33,27 +37,17 @@
 <h2 class="text-center frankie my-8">Le mouvement anarchiste</h2>
 
 <ul>
-    <li>
-        <p class="text-lg"><span
-                class="italic font-bold">Les Anarchistes. Dictionnaire biographique du mouvement libertaire francophone</span>,
-            [Maitron], coll., editions de l’Atelier, 2014</p>
-        <p class="my-2 py-2 px-4 bg-atl-black text-white">
-            «Cinq cents biographies, dont soixante sont illustrées, ont été retenues pour le dictionnaire
+    <Entry title="Les Anarchistes. Dictionnaire biographique du mouvement libertaire francophone"
+           edition="[Maitron], coll., editions de l’Atelier, 2014" extract="
+           «Cinq cents biographies, dont soixante sont illustrées, ont été retenues pour le dictionnaire
             papier, avec le souci de respecter la diversité du mouvement libertaire. Ces vies exigeantes,
-            intenses, "joyeuses" disait Léo Ferre, parfois tragiques, témoignent des différentes périodes,
+            intenses, «joyeuses» disait Léo Ferre, parfois tragiques, témoignent des différentes périodes,
             milieux et formes de l'engagement libertaire : les anarchistes les plus célèbres (Proudhon, Louise
             Michel) y côtoient des parcours plus modestes ; artistes et chanteurs (Pissarro, Ferré, Brassens,
             Cross) se mêlent aux théoriciens (Jean Grave, Sébastien Faure) ; illégalistes et propagandistes par
             le fait (Bonnot, Ravachol) cohabitent avec les figures fondatrices du syndicalisme révolutionnaire
-            (Fernand Pelloutier, Pierre Monatte).»
-        </p>
-    </li>
-    <li>
-        <p class="text-lg"><a href="https://www.youtube.com/@MinutesRouges" target="_blank">Minutes rouges</a>, <a
-                href="https://youtu.be/GVxJfZDcZcA"
-                target="_blank">
-            <span class="italic font-bold">ANARCHISME INDIVIDUALISTE</span></a>, [2022]</p>
-    </li>
+            (Fernand Pelloutier, Pierre Monatte).»"/>
+    <Entry author="Minutes rouges" authorLink="https://www.youtube.com/@MinutesRouges" title="ANARCHISME INDIVIDUALISTE" titleLink="https://youtu.be/GVxJfZDcZcA" edition="2022"/>
     <li>
         <p class="text-lg">Emile ARMAND, <a
                 href="https://fr.theanarchistlibrary.org/library/emile-armand-petit-manuel-anarchiste-individualiste"
@@ -479,10 +473,8 @@ XIX° siècle</span>, Les Presses du Reel, 2010</p>
             faisant d’eux « des victimes qui se laissent nourrir du sang d’autres victimes.»
         </p>
     </li>
-    <li>
-        <p class="text-lg">Romeo BONDON, <span class="italic font-bold">Le bestiaire libertaire d’Elisée Reclus</span>, Atelier de creation
-            libertaire, 2020</p>
-    </li>
+    <Entry author="Romeo BONDON" title="Le bestiaire libertaire d’Elisée Reclus" edition="Atelier de creation libertaire, 2020"
+           imageName="romeo-bondon.jpeg"/>
     <li>
         <p class="text-lg">Georges BUTAUD, <span class="italic font-bold">Le végétalisme</span>, publication du Végétalien, 1930</p>
     </li>
@@ -540,23 +532,35 @@ XIX° siècle</span>, Les Presses du Reel, 2010</p>
 </ul>
 
 <h2 class="text-center frankie my-8">Les «milieux libres»</h2>
-
 <ul>
-    <li>
-        <p class="text-lg">Michel ANTONY, <span class="italic font-bold">Les communautés utopiques sont-elles toujours condamnées à
-disparaître ?</span>, Cahiers d’histoire. Revue d’histoire critique, 133 | 2016, 19-42</p>
-    </li>
-    <li>
-        <p class="text-lg">Michel ANTHONY, <span class="italic font-bold">
-            <a href="https://laboratoireurbanismeinsurrectionnel.blogspot.com/2012/03/"
-               target="_blank">Communes Libertaire et Anarchiste en France</a></span>,
-            Ahimsa, 2010</p>
-    </li>
-    <li>
-        <p class="text-lg">E. ARMAND, <span class="italic font-bold">Les tentatives de communisme pratique</span>, La Revue Communiste &
-            L'Ère Nouvelle, 1904</p>
-    </li>
-    <li>
-        <p class="text-lg">E. ARMAND, <span class="italic font-bold">L’Ère nouvelle</span>, décembre 1905</p>
-    </li>
+    <Entry author="Michel ANTONY" title="Les communautés utopiques sont-elles toujours condamnées à disparaître ?"
+           edition="Cahiers d’histoire. Revue d’histoire critique, 133 | 2016, 19-42"/>
+    <Entry author="Michel ANTHONY" title="Communes Libertaire et Anarchiste en France"
+           titleLink="https://laboratoireurbanismeinsurrectionnel.blogspot.com/2012/03/"/>
+    <Entry author="E. ARMAND" title="Les tentatives de communisme pratique" edition="La Revue Communiste & L'Ère Nouvelle, 1904"/>
+    <Entry author="E. ARMAND" title="L’Ère nouvelle" edition="décembre 1905"/>
+    <Entry author="Céline BEAUDET" title="Les milieux libres. Vivre en anarchiste à la belle époque en France"
+           edition="Les editions libertaires, 2006" extract="
+           «De la fin des années 1890 au milieu des années 1930, des anarchistes créent des milieux libres et des
+            colonies, communautés de vie et parfois de travail, renouant ainsi avec les réalisations
+            associationnistes des premiers socialistes, cela non sans s'en distinguer. Présentés dès la fin du XIXe
+            siècle comme un moyen d'agir au sein de la société bourgeoise et contre elle, les milieux libres des
+            années 1900 sont conçus comme un moyen de révolte et d'éducation, formant une parenthèse au sein
+            de ces décennies où les colonies anarchistes sont surtout la recherche d'une libération individuelle et
+            immédiate.»"/>
+    <Entry author="Georges BUTAUD" title="Qu’est-ce que Bascon ?" edition="L’Hygie, juin-juillet-aout 1923"/>
+    <Entry author="Jean CHESNEAUX" title="Critique sociale et themes anarchistes chez Jules Verne"
+           edition="Le Mouvement social, n° 56, Juillet-septembre 1966, pp. 35-63"/>
+    <Entry title="La colonie anarchiste d’Aiglemont" titleLink="https://www.aiglemont.fr/la-colonie-anarchiste/"/>
+    <Entry author="Ronald CREAGH" title="Utopies américaines. Expériences libertaires du XIXe siècle à nos jours" edition="Agone, 2009" extract="
+            «Notre témoin principal, A.J. Macdonald, qui a visité un nombre considérable de communautés,
+            déclare que, malgré l’absence de dirigeants à cette assemblée, il n’a jamais rien vu d’aussi ordonné ;
+            l’émulation incite chacun à se porter volontaire pour les actions qui lui semblent nécessaires au
+            bien de tous. Une disposition générale à la non-violence tend à désamorcer les attitudes trop
+            explosives.
+            Qu’une tâche extraordinaire ou un événement inattendu se présentent, réclamant une décision, et
+            les personnes qui se sentent concernées se réunissent pour en discuter ; la durée de la palabre est
+            parfois disproportionnée par rapport à la besogne, mais qu’un fait soudain exige une réaction
+            immédiate, que par exemple le vent renverse un énorme tas de foin, et les volontaires accourent.»"/>
+    <Entry author="Nicolas DEBON" title="L'essai" edition="Dargaud, 2015" imageName="essai.jpeg" imageAlt="L'essai - Nicolas Debon"/>
 </ul>
