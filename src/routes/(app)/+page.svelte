@@ -44,7 +44,7 @@
 
 <span class="frankie text-atl-black text-2xl md:text-6xl block">Jeudi 25 avril 2024</span>
 <span class="frankie text-atl-red text-2xl md:text-4xl">
-    <a href="https://editionslibertalia.com/catalogue/coeditions/trop-jeunes-pour-mourir" class="frankie" target="_blank">«Lutte de classes après les tranchées»</a>
+    <a href="https://editionslibertalia.com/catalogue/coeditions/trop-jeunes-pour-mourir" class="frankie" target="_blank">«Louis Raimbault 1919 : la grève des métallos et la révolution»</a>
 </span>
 <h2 class="text-base md:text-2xl text-atl-red font-bold">19h - Halle de Luynes</h2>
 <p class="text-base lg:text-2xl mb-4">
