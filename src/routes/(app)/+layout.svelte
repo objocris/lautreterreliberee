@@ -21,8 +21,8 @@
             <a href="/" class="mr-2 ml-2 text-sm">Accueil</a>
             <a href="/association" class="mr-2 ml-2 text-sm">L'association</a>
             <a href="/balade-sonore" class="mr-2 ml-2 text-sm">Balade sonore</a>
-            <a href="/balade-sonore" class="mr-2 ml-2 text-sm">Balade sonore</a>
             <a href="/bibliographie" class="mr-2 ml-2 text-sm">Bibliographie</a>
+            <a href="https://www.facebook.com/lautreterreliberee/" target="_blank" class="mr-2 ml-2 text-sm">Facebook</a>
             <a href="/mentions-legales" class="mr-2 ml-2 text-sm">Mentions légales</a>
         </div>
     </footer>
