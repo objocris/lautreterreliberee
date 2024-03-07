@@ -30,7 +30,7 @@
     biographique du mouvement ouvrier.
 </p>
 
-<h2 class="text-center frankie my-4">Le mouvement anarchiste</h2>
+<h2 class="text-center frankie my-8">Le mouvement anarchiste</h2>
 
 <ul>
     <li>
@@ -302,6 +302,10 @@
         <p class="text-lg">Victor SERGE, <span class="italic font-bold">Le Rétif. Articles parus dans “l’anarchie” 1909-1912</span>, Monnier, 1989</p>
     </li>
     <li>
+        <p class="text-lg">Victor SERGE, <a href="https://www.marxists.org/francais/serge/works/1938/01/serge_19380100.htm" target="_blank">
+            <span class="italic font-bold">Réflexions sur l’anarchisme</span></a>, Acratie, 2014</p>
+    </li>
+    <li>
         <p class="text-lg">Anne STEINER, <a href="https://www.refractions.plusloin.org/IMG/pdf/2403_1_.pdf" target="_blank">
             <span class="italic font-bold">De l'emancipation des femmes dans les milieux individualistes à la Belle Epoque</span></a>, Réfractions,
             n°24, mai 2010, pp. 19-30</p>
@@ -315,5 +319,244 @@
         <p class="text-lg">Anne STEINER, <a href="https://www.article11.info/?Anne-Steiner-Pour-les-en-dehors-l#a_titre" target="_blank">
             <span class="italic font-bold">Pour les en-dehors, l’emancipation individuelle n’est pas seulement le moyen de parvenir à un monde
                 meilleur, elle est à elle-même sa propre fin</span></a>, Article 11, 9 novembre 2011</p>
+    </li>
+    <li>
+        <p class="text-lg">La Voz de la Mujer, <span class="italic font-bold">Ni dieu ni patron ni mari</span>, [1896-1897], Nada, 2021</p>
+        <p class="my-2 py-2 px-4 bg-atl-black text-white">
+            «Nous avons décidé de faire entendre notre voix dans le concert social et d'exiger notre part de
+            plaisirs au banquet de la vie. Et comme nous ne voulons dépendre de personne, brandissons nous-
+            mêmes l'étendard rouge et partons au combat... sans dieu ni patron ni mari.»
+        </p>
+    </li>
+</ul>
+
+<h2 class="text-center frankie my-8">Les socialismes utopiques</h2>
+
+<ul>
+    <li>
+        <p class="text-lg">Nathalie BREMAND, <span class="italic font-bold">Les socialismes et l’enfance. Expérimentation et utopie (1830-1870)</span>,
+            P.U.R., 2008</p>
+        <p class="my-2 py-2 px-4 bg-atl-black text-white">
+            «Les socialistes français de la période 1830-1870 représentaient l’enfant comme un être innocent
+            et pur, victime de la société de l’époque. Ils plaçaient en lui un immense espoir car il incarnait à leurs
+            yeux la génération à venir. Dans leurs discours théoriques sur la société idéale, ils avaient tendance
+            à accorder à l’enfant un statut particulier, en considérant l’enfance comme une période structurée
+            en de multiples catégories d’âge spécifiques et en lui attribuant une place individualisée dans
+            l’espace privé et public. [...] Par la diffusion de leurs idées et par leurs pratiques d’expérimentation
+            sociale, les socialistes « utopiques » ont participé au changement des attitudes à l’égard des enfants
+            qui se manifesta tout au long du XIXe siècle, et ont contribué dans une certaine mesure à l’évolution
+            des mentalités vers une conception moderne du statut de l’enfant dans la société.»
+        </p>
+    </li>
+    <li>
+        <p class="text-lg">Nathalie BREMAND, <a href="https://journals.openedition.org/chrhc/3659" target="_blank">
+            <span class="italic font-bold">Socialistes utopiques ”Les mal nommés”</span></a>, Cahiers d’histoire. Revue d’histoire critique, 124 |
+            2014, 13-24</p>
+    </li>
+    <li>
+        <p class="text-lg">Jean CHESNEAUX, <span class="italic font-bold">Jules Verne et la tradition du socialisme utopique</span>, L'Homme et la
+            société, n°4, 1967. pp. 223-232</p>
+    </li>
+    <li>
+        <p class="text-lg">Diana COOPER-RICHET et Jacqueline PLUET-DESPATIN, <span class="italic font-bold">L’exercice du bonheur ou comment Victor
+            Coissac cultiva l'utopie entre les deux guerres dans sa communauté de l'Intégrale</span>, Champ Vallon, 1985</p>
+    </li>
+    <li>
+        <p class="text-lg">Clara DEALBERTO et Fabrice ARGOUNES, <span class="italic font-bold">Cartes des utopies : ailleurs est ici</span>,
+            Libération, 26 avril 2019</p>
+    </li>
+    <li>
+        <p class="text-lg">Bernard DESMARS, <span class="italic font-bold">Militants de l'utopie ? Les fouriéristes dans la seconde moitié du
+XIX° siècle</span>, Les Presses du Reel, 2010</p>
+    </li>
+    <li>
+        <p class="text-lg">Jacques DROZ (dir.), <a href="https://gallica.bnf.fr/ark:/12148/bpt6k48039030/f8.item" target="_blank">
+            <span class="italic font-bold">Histoire générale du socialisme, tome 1, Des origines à 1875 et tome 2, De 1875 à 1918</span></a>,
+            Paris, PUF, 1972</p>
+        <p class="my-2 py-2 px-4 bg-atl-black text-white">
+            «C’est presque uniquement à travers des utopies que le socialisme s’exprimera pendant plusieurs
+            siècles. Platon, Thomas More, Campanella, Morelly représenteront de petites communautés, où la loi
+            juste a été établie une fois pour toutes pour le bonheur de tous, et appliquée par des sages. L’on
+            pourra reconnaître dans ces œuvres innombrables, quoique avec certaines nuances, des traits
+            communs, qui sont le besoin de symétrie et d’uniformité, un fétichisme de l’éducation qui va de pair
+            avec la méfiance pour la nature humaine, un dirigisme tatillon au service d’une doctrine collectiviste
+            et autarcique, un goût marqué pour l’ascétisme qui sacrifie le bonheur de la vie en commun, la foi
+            humaniste dans l’homme régénéré, un certain « fixisme » qui nie la réalité du changement, un «institutionnalisme» s’exprime en un petit
+            nombre de lois claires et brèves, un prosélytisme chez celui
+            qui bénéficie des lois de la cité idéale.
+            Après avoir fait l’exposé des désordres sociaux et des iniquités révoltantes constatées, les auteurs de
+            ces utopies imaginent la cité où cette plaie aurait disparu, où même elle deviendrait impossible. D’où
+            sans doute une certaine «monotonie» des utopies, qui provient de la monotonie même du cri de
+            révolte chez les hommes.»
+        </p>
+    </li>
+    <li>
+        <p class="text-lg">Friedrich ENGELS, <a href="https://www.marxists.org/francais/marx/80-utopi/utopie.pdf" target="_blank">
+            <span class="italic font-bold">Socialisme utopique et socialisme scientifique</span></a>,
+            [1880], Aden, 2005 et Editions sociales, 1950, 2021</p>
+    </li>
+    <li>
+        <p class="text-lg">Friedrich ENGELS et Karl MARX, <span class="italic font-bold">Les Utopiques</span>, Maspero, 1976</p>
+    </li>
+    <li>
+        <p class="text-lg">Friedrich ENGELS, <span class="italic font-bold">Description de colonies communistes surgies ces derniers temps et
+            encore existantes</span>, <span class="italic">Deutsches Bürgerbuch für 1845</span>, in Friedrich ENGELS et Karl MARX, <span
+                class="italic">Utopisme & communauté d’avenir</span>, Maspero, 1976</p>
+        <p class="my-2 py-2 px-4 bg-atl-black text-white">
+            «En somme, nous voyons que la communauté des biens n’est pas du tout une impossibilité, mais au
+            contraire que toutes ses expériences ont parfaitement réussi. Nous voyons aussi que les gens qui
+            habitent en communauté vivent mieux en travaillant moins, qu’ils ont plus de loisir pour développer
+            leur esprit, et sont des hommes meilleurs et plus moraux que leurs voisins qui ont conservé la
+            propriété.»
+        </p>
+    </li>
+    <li>
+        <p class="text-lg">François FOURN, <span class="italic font-bold">Etienne Cabet ou le temps de l’utopie</span>, Vendemiaire, 2014</p>
+    </li>
+    <li>
+        <p class="text-lg">Ludovic FROBERT, <span
+                class="italic font-bold">Quelques lignes d’utopie. Pierre Leroux et la communauté des «imprimeux»</span>, (Boussac,1844-1848), Agone,
+            2023</p>
+    </li>
+    <li>
+        <p class="text-lg">Thierry PAQUOT, <span class="italic font-bold">Utopies et utopistes</span>, La Decouverte, 2007</p>
+        <p class="my-2 py-2 px-4 bg-atl-black text-white">
+            «L'utopie n'est pas une anticipation, mais un présent qui mise sur le bonheur, l'équité, l'abondance
+            et le respect de chacun. Thierry Paquot explore diverses utopies écrites ou expérimentées qui se sont
+            succédé depuis le XVIe siècle, en privilégiant certains thèmes : le travail et les loisirs, l'éducation, la
+            famille et les relations amoureuses, la ville et l'architecture. L'utopie s'enrichit au XIXe siècle de
+            l'uchronie, puis de la science-fiction, pour proposer de nouvelles alternatives à la "société de
+            consommation".»
+        </p>
+    </li>
+    <li>
+        <p class="text-lg">Jean-Christian PETITFILS, <span class="italic font-bold">Les communautés utopistes au XIXe siècle</span>, Paris, Pluriel,
+            2011</p>
+    </li>
+    <li>
+        <p class="text-lg">Michele RIOT-SARCEY, <span class="italic font-bold">Le Réel de l’utopie : essai sur le politique au XIXe siècle</span>,
+            Paris, Albin Michel, 1998</p>
+    </li>
+    <li>
+        <p class="text-lg">Jacqueline RUSS, <span class="italic font-bold">Le Socialisme utopique français</span>, Paris, Bordas, 1988</p>
+    </li>
+    <li>
+        <p class="text-lg">Jean SERVIER, <span class="italic font-bold">Histoire de l’utopie (1967)</span>, Paris, Gallimard, 1991</p>
+    </li>
+    <li>
+        <p class="text-lg"><a href="https://www.youtube.com/@MinutesRouges" target="_blank">Minutes rouges</a>, <a
+                href="https://youtu.be/Hzquf8ZB3gs"
+                target="_blank">
+            <span class="italic font-bold">SOCIALISME UTOPIQUE</span></a>, [2022]</p>
+    </li>
+</ul>
+
+<h2 class="text-center frankie my-8">«Nature», pratiques alimentaires et cause animale</h2>
+
+<ul>
+    <li>
+        <p class="text-lg">Arnaud BAUBEROT, <span class="italic font-bold">Histoire du naturisme. Le mythe du retour à la nature</span>, P.U.R., 2004
+        </p>
+    </li>
+    <li>
+        <p class="text-lg">Arnaud BAUBEROT, <span class="italic font-bold">
+            <a href="https://www.cairn.info/revue-mil-neuf-cent-2013-1-page-117.htm" target="_blank">Les Naturiens libertaires ou le retour à
+                l’anarchisme préhistorique</a></span>, Mil neuf cent. Revue d'histoire intellectuelle, 2013/1 (n° 31), 117-136</p>
+    </li>
+    <li>
+        <p class="text-lg">Arnaud BAUBEROT, <span class="italic font-bold">
+            Aux sources de l'écologisme anarchiste : Louis Rimbault et les communautes végétaliennes en France dans la première moitié du XXe siecle
+        </span>, Le Mouvement social, n° 246, janvier-mars 2014
+        </p>
+        <p class="my-2 py-2 px-4 bg-atl-black text-white">
+            «La recherche des implications pratiques de cette morale naturelle conduit une partie des
+            individualistes à s’intéresser aux recommandations formulées à la même époque par des médecins
+            naturistes et dont les thèses sont activement relayées par la Société végétarienne de France. Le
+            groupe de militants qui se rassemblent autour de Libertad et de son hebdomadaire L’Anarchie, fondé
+            en 1905, dénonce ainsi l’alcool et le tabac comme des instruments d’aliénation auxquels se plie, de
+            façon grégaire, le monde ouvrier. Il en va de même pour la consommation de viande, que Libertad
+            désigne comme l’aliment qui nourrit les muscles des travailleurs et permet leur asservissement,
+            faisant d’eux « des victimes qui se laissent nourrir du sang d’autres victimes.»
+        </p>
+    </li>
+    <li>
+        <p class="text-lg">Romeo BONDON, <span class="italic font-bold">Le bestiaire libertaire d’Elisée Reclus</span>, Atelier de creation
+            libertaire, 2020</p>
+    </li>
+    <li>
+        <p class="text-lg">Georges BUTAUD, <span class="italic font-bold">Le végétalisme</span>, publication du Végétalien, 1930</p>
+    </li>
+    <li>
+        <p class="text-lg"><span class="italic font-bold">Cause animale, luttes sociales</span>, [Textes de C. Gide, M. Huot, L. Michel, O. Mirbeau,
+            E.
+            Reclus, L. Rimbault, Severine, L. Tolstoï, G. Butaud, S. Zaïkowska, E. Coeuderoy, H.
+            S. Salt], le passager clandestin, 2021</p>
+    </li>
+    <li>
+        <p class="text-lg">Paul GUILIBERT, <span class="italic font-bold">Exploiter les vivants. Une écologie politique du travail</span>, editions
+            Amsterdam, 2023</p>
+        <p class="my-2 py-2 px-4 bg-atl-black text-white">
+            «Selon une ritournelle de la politique contemporaine, « l’écologie commence à la maison » : nous
+            serions, en tant qu’individus, les sujets de la transition environnementale. Les pauvres, rétifs au
+            changement, sont traités en barbares à civiliser ou en climato-négationnistes à combattre. A
+            contrario, les citadins éduqués, éclairés et capables de changer de vie, apparaissent comme les seuls
+            agents de la nécessaire transformation des modes de vie et de production. Le scénario de la rupture
+            populaire avec l’écologie et le récit d’une écologie réservée aux riches se renforcent mutuellement.»
+        </p>
+    </li>
+    <li>
+        <p class="text-lg">JELM, <span class="italic font-bold">Hygiène et anarchisme</span>, l’anarchie, n°133, 24 octobre 1907</p>
+    </li>
+    <li>
+        <p class="text-lg">Marjolaine JOLICOEUR,
+            <span class="italic font-bold">
+                <a href="https://liberationanimale.com/2010/05/13/histoiredes-vegetaliens-anarchistes/" target="_blank">Des végétaliens
+                    anarchistes</a></span>, Ahimsa, 2010</p>
+    </li>
+    <li>
+        <p class="text-lg">Patrick PIDUTTI, <span class="italic font-bold">Michel Bakounine penseur de l’écologie</span>, Le Monde libertaire, n°205,
+            octobre 1974</p>
+    </li>
+    <li>
+        <p class="text-lg">Elisée RECLUS, <span class="italic font-bold">Libre nature</span>, Heros-Limite, 2022</p>
+    </li>
+    <li>
+        <p class="text-lg">Elisée RECLUS, <span class="italic font-bold">Du sentiment de la nature dans les sociétés modernes</span>, [1866],
+            Bartillat, 2019</p>
+    </li>
+    <li>
+        <p class="text-lg">Elisée RECLUS, <span class="italic font-bold">A propos du végétarisme</span>, [1901], Mazeto Square, 2016</p>
+        <p class="my-2 py-2 px-4 bg-atl-black text-white">
+            «Au début du texte, le géographe revient clairement sur le souvenir d’enfance qui déterminera son
+            choix : «Je me rappelle distinctement l’horreur du sang verse.» Le choc de voir des animaux
+            abattus par des bouchers le bouleverse et Reclus dès lors se convertira aux orientations
+            végétariennes. Reclus n’est pas le premier intellectuel à revoir son régime alimentaire. D’autres
+            avant lui avaient exprimé des tendances dans ce sens : Voltaire, Rousseau, Linné, Lamartine,
+            Michelet... De toute sa vie, Reclus n’avala pas un morceau de viande ou de poisson. Il s’alimentait de
+            fruits, de légumes et de biscuits. Ses arguments en faveur d’un tel régime relèvent de raisons
+            personnelles.»
+        </p>
+    </li>
+</ul>
+
+<h2 class="text-center frankie my-8">Les «milieux libres»</h2>
+
+<ul>
+    <li>
+        <p class="text-lg">Michel ANTONY, <span class="italic font-bold">Les communautés utopiques sont-elles toujours condamnées à
+disparaître ?</span>, Cahiers d’histoire. Revue d’histoire critique, 133 | 2016, 19-42</p>
+    </li>
+    <li>
+        <p class="text-lg">Michel ANTHONY, <span class="italic font-bold">
+            <a href="https://laboratoireurbanismeinsurrectionnel.blogspot.com/2012/03/"
+               target="_blank">Communes Libertaire et Anarchiste en France</a></span>,
+            Ahimsa, 2010</p>
+    </li>
+    <li>
+        <p class="text-lg">E. ARMAND, <span class="italic font-bold">Les tentatives de communisme pratique</span>, La Revue Communiste &
+            L'Ère Nouvelle, 1904</p>
+    </li>
+    <li>
+        <p class="text-lg">E. ARMAND, <span class="italic font-bold">L’Ère nouvelle</span>, décembre 1905</p>
     </li>
 </ul>
