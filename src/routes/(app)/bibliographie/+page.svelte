@@ -39,7 +39,7 @@
 <ul>
     <Entry title="Les Anarchistes. Dictionnaire biographique du mouvement libertaire francophone"
            edition="[Maitron], coll., editions de l’Atelier, 2014" extract="
-           «Cinq cents biographies, dont soixante sont illustrées, ont été retenues pour le dictionnaire
+            «Cinq cents biographies, dont soixante sont illustrées, ont été retenues pour le dictionnaire
             papier, avec le souci de respecter la diversité du mouvement libertaire. Ces vies exigeantes,
             intenses, «joyeuses» disait Léo Ferre, parfois tragiques, témoignent des différentes périodes,
             milieux et formes de l'engagement libertaire : les anarchistes les plus célèbres (Proudhon, Louise
@@ -48,156 +48,55 @@
             le fait (Bonnot, Ravachol) cohabitent avec les figures fondatrices du syndicalisme révolutionnaire
             (Fernand Pelloutier, Pierre Monatte).»"/>
     <Entry author="Minutes rouges" authorLink="https://www.youtube.com/@MinutesRouges" title="ANARCHISME INDIVIDUALISTE" titleLink="https://youtu.be/GVxJfZDcZcA" edition="2022"/>
-    <li>
-        <p class="text-lg">Emile ARMAND, <a
-                href="https://fr.theanarchistlibrary.org/library/emile-armand-petit-manuel-anarchiste-individualiste"
-                target="_blank"><span class="italic font-bold">Petit Manuel anarchiste individualiste</span></a>
-            [1911-1924-1925], Nada, 2021
-        </p>
-    </li>
-    <li>
-        <p class="text-lg">Michel BAKOUNINE, <a href="https://www.marxists.org/francais/general/bakounine/works/1865/00/bakounine-cat.htm"
-                                                target="_blank"><span class="italic font-bold">Catéchisme révolutionnaire</span></a> [1866],
-            L’Herne, 2009
-        </p>
-    </li>
-    <li>
-        <p class="text-lg">Michel BAKOUNINE, <a
-                href="https://fr.theanarchistlibrary.org/library/michel-bakounine-theorie-generale-de-la-revolution"
-                target="_blank"><span class="italic font-bold">Théorie générale de la révolution</span></a>
-            [1867-1873], textes, Les Nuits Rouges, 2001</p>
-    </li>
-    <li>
-        <p class="text-lg">Michel BAKOUNINE, <a href="https://www.exosens.fr/audio/txt/dieu-et-letat.pdf" target="_blank"><span
-                class="italic font-bold">Dieu et l’Etat</span></a> [1882], Mille et une nuits, 2000</p>
-    </li>
-    <li>
-        <p class="text-lg">Michel BAKOUNINE, <span class="italic font-bold">Le Devoir sacré de la Révolte</span>, lettres et textes, Les Nuits
-            Rouges,
-            2004
-        </p>
-    </li>
-    <li>
-        <p class="text-lg">Michel BAKOUNINE, <span class="italic font-bold">Ecrits libertaires</span>, Le Temps des Cerises, 1997</p>
-    </li>
-    <li>
-        <p class="text-lg"><a href="https://www.youtube.com/@MinutesRouges" target="_blank">Minutes rouges</a>, <a
-                href="https://youtu.be/HkVfX9GXQqk"
-                target="_blank">
-            <span class="italic font-bold">BAKOUNINE</span></a>, [2020]</p>
-    </li>
-    <li>
-        <p class="text-lg">Normand BAILLARGEON, <span class="italic font-bold">L’anarchisme</span>, QSJ ?, 2024</p>
-    </li>
-    <li>
-        <p class="text-lg">Anselme BELLEGARRIGUE, <a
-                href="https://mirror.anarhija.net/fr.theanarchistlibrary.org/mirror/a/ab/anselme-bellegarrigue-manifeste-de-l-anarchie.pdf"
-                target="_blank"><span
-                class="italic font-bold">Manifeste de l’anarchie</span></a> [1850], Lux, 2011</p>
-    </li>
-    <li>
-        <p class="text-lg">Guillaume DAVRANCHE, <span class="italic font-bold">Dix questions sur l’anarchisme</span>, Libertalia, 2020</p>
-    </li>
-    <li>
-        <p class="text-lg">
-            <a href="https://militants-anarchistes.info/" target="_blank">
-                <span class="italic font-bold">Dictionnaire international des militants anarchistes</span>
-            </a>
-            [1850], Lux, 2011
-        </p>
-    </li>
-    <li>
-        <p class="text-lg">Voltairine de CLEYRE, <span class="italic font-bold">Ecrits d’une insoumise</span>, Lux, 2018</p>
-    </li>
-    <li>
-        <p class="text-lg">Voltairine de CLEYRE, <span class="italic font-bold">Y a-t-il plus fier et libre que nous ? Textes et poèmes anarcho-féministes</span>,
-            [1893-1914], Payot & Rivages, 2023</p>
-    </li>
-    <li>
-        <p class="text-lg">Marianne ENCKEL, <span class="italic font-bold">Une petite histoire de l’anarchisme</span>, Nada, 2023</p>
-    </li>
-    <li>
-        <p class="text-lg">Sébastien FAURE, <a href="https://fr.theanarchistlibrary.org/library/sebastien-faure-l-encyclopedie-anarchiste"
-                                               target="_blank"><span class="italic font-bold">Encyclopédie anarchiste</span></a> [1934], 2893 pages
-        </p>
-    </li>
-    <li>
-        <p class="text-lg">Mario FERRENTO (alias Renzo Novatore), <a
-                href="https://attaque.noblogs.org/post/2018/01/16/lindividualisme-anarchiste-dans-la-revolution-sociale/"
-                target="_blank">
-            <span class="italic font-bold">L’individualisme anarchiste dans la Revolution Sociale</span></a> extrait de Il Libertario, n°738
-            et 739 du 6 et 13 novembre 1919</p>
-    </li>
-    <li>
-        <p class="text-lg">Emma GOLDMAN, <span class="italic font-bold">L’Anarchisme</span>, Nada, 2021</p>
-    </li>
-    <li>
-        <p class="text-lg">Manuel GONZALEZ PRADA, <span class="italic font-bold">De l’utilité des rebelles</span>, [1904-1918], Nada, 2022</p>
-    </li>
-    <li>
-        <p class="text-lg">Guillaume GOUTTE, <span class="italic font-bold">Anarchisme et alpinisme</span>, Nada, 2024</p>
-    </li>
-    <li>
-        <p class="text-lg">David GRAEBER, <span class="italic font-bold">Pour une anthropologie anarchiste</span>, Lux, 2018</p>
-    </li>
-    <li>
-        <p class="text-lg">Jean GRAVE, <a
-                href="https://fr.theanarchistlibrary.org/library/grave-jean-ce-que-nous-voulons.pdf"
-                target="_blank">
-            <span class="italic font-bold">Ce que nous voulons et autres textes anarchistes</span></a> [1898-1914], Mille et
-            une nuits, 2012</p>
-    </li>
-    <li>
-        <p class="text-lg">Daniel GUERIN, <span class="italic font-bold">L’Anarchisme : de la doctrine à l’action</span>, Gallimard, 1965</p>
-    </li>
-    <li>
-        <p class="text-lg">Daniel GUERIN, <span class="italic font-bold">Ni Dieu ni maître. Anthologie de l’anarchisme</span>, Maspero, 1970
-        </p>
-    </li>
-    <li>
-        <p class="text-lg">Pierre KROPOTKINE, <span class="italic font-bold">Paroles d’un révolté</span>, [1885], Flammarion, 1978</p>
-    </li>
-    <li>
-        <p class="text-lg">Pierre KROPOTKINE, <span class="italic font-bold"><a
-                href="https://funambule.org/lectures/anarchisme/kropotkine%20-%20la%20morale%20anarchiste.pdf"
-                target="_blank">La Morale anarchiste</a></span>, [1889], plusieurs reeditions dont Mille
-            et une nuits, 2004</p>
-    </li>
-    <li>
-        <p class="text-lg">Pierre KROPOTKINE, <span class="italic font-bold"><a
-                href="https://fr.wikisource.org/wiki/M%C3%A9moires_d%E2%80%99un_r%C3%A9volutionnaire/Texte_entier"
-                target="_blank">Mémoires d’un révolutionnaire</a></span>, Scala, 1898</p>
-    </li>
-    <li>
-        <p class="text-lg">Pierre KROPOTKINE, <span class="italic font-bold"><a
-                href="http://data0.eklablog.com/ae-editions/perso/bibliotheque%20-%20pdf/kropotkine%20-%20l-entraide.pdf"
-                target="_blank">L’Entraide, un facteur d’évolution</a></span>, [1902], Aden, 2009</p>
-    </li>
-    <li>
-        <p class="text-lg">Pierre KROPOTKINE, <span class="italic font-bold">Aux jeunes gens</span>, Les Temps Nouveaux, n° 31 – 1904</p>
-        <p class="my-2 py-2 px-4 bg-atl-black text-white">
+    <Entry author="Emile ARMAND" title="Petit Manuel anarchiste individualiste" titleLink="https://fr.theanarchistlibrary.org/library/emile-armand-petit-manuel-anarchiste-individualiste"
+           edition="[1911-1924-1925], Nada, 2021"/>
+    <Entry author="Michel BAKOUNINE" title="Catéchisme révolutionnaire" titleLink="https://www.marxists.org/francais/general/bakounine/works/1865/00/bakounine-cat.htm"
+           edition="[1866], L’Herne, 2009"/>
+    <Entry author="Michel BAKOUNINE" title="Théorie générale de la révolution" titleLink="https://fr.theanarchistlibrary.org/library/michel-bakounine-theorie-generale-de-la-revolution"
+           edition="[1867-1873], textes, Les Nuits Rouges, 2001"/>
+    <Entry author="Michel BAKOUNINE" title="Dieu et l’Etat" titleLink="https://www.exosens.fr/audio/txt/dieu-et-letat.pdf" edition="[1882], Mille et une nuits, 2000"/>
+    <Entry author="Michel BAKOUNINE" title="Le Devoir sacré de la Révolte" edition="lettres et textes, Les Nuits Rouges, 2004"/>
+    <Entry author="Michel BAKOUNINE" title="Ecrits libertaires" edition="Le Temps des Cerises, 1997"/>
+    <Entry author="Minutes rouges" authorLink="https://www.youtube.com/@MinutesRouges" title="BAKOUNINE" titleLink="https://youtu.be/HkVfX9GXQqk" edition="2020"/>
+    <Entry author="Normand BAILLARGEON" title="L’anarchisme" edition="QSJ ?, 2024"/>
+    <Entry author="Anselme BELLEGARRIGUE" title="Manifeste de l’anarchie"
+           titleLink="https://mirror.anarhija.net/fr.theanarchistlibrary.org/mirror/a/ab/anselme-bellegarrigue-manifeste-de-l-anarchie.pdf" edition="[1850], Lux, 2011"/>
+    <Entry author="Guillaume DAVRANCHE" title="Dix questions sur l’anarchisme" edition="Libertalia, 2020"/>
+    <Entry title="Dictionnaire international des militants anarchistes" titleLink="https://militants-anarchistes.info/" edition="[1850], Lux, 2011"/>
+    <Entry author="Voltairine de CLEYRE" title="Ecrits d’une insoumise" edition="Lux, 2018"/>
+    <Entry author="Voltairine de CLEYRE" title="Y a-t-il plus fier et libre que nous ? Textes et poèmes anarcho-féministes" edition="[1893-1914], Payot & Rivages, 2023"/>
+    <Entry author="Marianne ENCKEL" title="Une petite histoire de l’anarchisme" edition="Nada, 2023"/>
+    <Entry author="Sébastien FAURE" title="Encyclopédie anarchiste" titleLink="https://fr.theanarchistlibrary.org/library/sebastien-faure-l-encyclopedie-anarchiste" edition="[1934], 2893 pages"/>
+    <Entry author="Mario FERRENTO (alias Renzo Novatore)" title="L’individualisme anarchiste dans la Revolution Sociale"
+           titleLink="https://attaque.noblogs.org/post/2018/01/16/lindividualisme-anarchiste-dans-la-revolution-sociale/"
+           edition="extrait de Il Libertario, n°738 et 739 du 6 et 13 novembre 1919"/>
+    <Entry author="Emma GOLDMAN" title="L’Anarchisme" edition="Nada, 2021"/>
+    <Entry author="Manuel GONZALEZ PRADA" title="De l’utilité des rebelles" edition="[1904-1918], Nada, 2022"/>
+    <Entry author="Guillaume GOUTTE" title="Anarchisme et alpinisme" edition="Nada, 2024"/>
+    <Entry author="David GRAEBER" title="Pour une anthropologie anarchiste" edition="Lux, 2018"/>
+    <Entry author="Jean GRAVE" title="Ce que nous voulons et autres textes anarchistes" titleLink="https://fr.theanarchistlibrary.org/library/grave-jean-ce-que-nous-voulons.pdf"
+           edition="[1898-1914], Mille et une nuits, 2012"/>
+    <Entry author="Daniel GUERIN" title="L’Anarchisme : de la doctrine à l’action" edition="Gallimard, 1965"/>
+    <Entry author="Daniel GUERIN" title="Ni Dieu ni maître. Anthologie de l’anarchisme" edition="Maspero, 1970"/>
+    <Entry author="Pierre KROPOTKINE" title="Paroles d’un révolté" edition="[1885], Flammarion, 1978"/>
+    <Entry author="Pierre KROPOTKINE" title="La Morale anarchiste" titleLink="https://funambule.org/lectures/anarchisme/kropotkine%20-%20la%20morale%20anarchiste.pdf"
+           edition="[1889], plusieurs reeditions dont Mille et une nuits, 2004"/>
+    <Entry author="Pierre KROPOTKINE" title="Mémoires d’un révolutionnaire" titleLink="https://fr.wikisource.org/wiki/M%C3%A9moires_d%E2%80%99un_r%C3%A9volutionnaire/Texte_entier"
+           edition="Scala, 1898"/>
+    <Entry author="Pierre KROPOTKINE" title="L’Entraide, un facteur d’évolution" titleLink="http://data0.eklablog.com/ae-editions/perso/bibliotheque%20-%20pdf/kropotkine%20-%20l-entraide.pdf"
+           edition="[1902], Aden, 2009"/>
+    <Entry author="Pierre KROPOTKINE" title="Aux jeunes gens" edition="[1902], Aden, 2009" extract="
             «Demanderez-vous qu'on jette dans les cachots ces tisserands qui, dans un moment d'exaspération,
             ont mis le feu à la fabrique ? qu'on envoie aux pontons cet homme qui a tiré sur un assassin couronné
             ? qu'on fusille ce peuple insurgé qui plante sur les barricades le drapeau de l'avenir ? [...] ... ou bien
             vous ferez taire votre conscience et deviendrez un coquin, ou bien vous romprez avec la tradition et
             viendrez travailler avec nous à l'abolition de toutes les injustices : économiques, politiques,
-            sociales.»
-        </p>
-    </li>
-    <li>
-        <p class="text-lg">Pierre KROPOTKINE, <span class="italic font-bold"><a
-                href="https://pandor.u-bourgogne.fr/archives-en-ligne/functions/ead/detached/BMP/brb3550.pdf"
-                target="_blank">L’esprit de revolte</a></span>, Les Temps Nouveaux, n° 42 – 1914</p>
-    </li>
-    <li>
-        <p class="text-lg">Arthur LEHNING, <span class="italic font-bold">Bakounine et les autres</span>, Les Nuits Rouges, 2013</p>
-    </li>
-    <li>
-        <p class="text-lg">Jules LERMINA, <span class="italic font-bold"><a
-                href="https://gallica.bnf.fr/ark:/12148/bpt6k61740m.pdf"
-                target="_blank">L'ABC du libertaire</a></span>, publications periodiques de la Colonie
-            communiste d'Aiglemont, [n°1, fevrier 1906], Mille et une nuits, 2004</p>
-    </li>
+            sociales.»"/>
+    <Entry author="Pierre KROPOTKINE" title="L’esprit de revolte" titleLink="https://pandor.u-bourgogne.fr/archives-en-ligne/functions/ead/detached/BMP/brb3550.pdf"
+           edition="Les Temps Nouveaux, n° 42 – 1914"/>
+    <Entry author="Arthur LEHNING" title="Bakounine et les autres" edition="Les Nuits Rouges, 2013"/>
+    <Entry author="Jules LERMINA" title="L'ABC du libertaire" titleLink="https://gallica.bnf.fr/ark:/12148/bpt6k61740m.pdf"
+           edition="publications periodiques de la Colonie communiste d'Aiglemont, [n°1, fevrier 1906], Mille et une nuits, 2004"/>
     <li>
         <p class="text-lg">Jean MAITRON, <span class="italic font-bold">Ravachol et les anarchistes</span>, Julliard, 1964</p>
     </li>
@@ -325,7 +224,6 @@
 </ul>
 
 <h2 class="text-center frankie my-8">Les socialismes utopiques</h2>
-
 <ul>
     <li>
         <p class="text-lg">Nathalie BREMAND, <span class="italic font-bold">Les socialismes et l’enfance. Expérimentation et utopie (1830-1870)</span>,
