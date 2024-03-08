@@ -35,7 +35,6 @@
 </p>
 
 <h2 class="text-center frankie my-8">Le mouvement anarchiste</h2>
-
 <ul>
     <Entry title="Les Anarchistes. Dictionnaire biographique du mouvement libertaire francophone"
            edition="[Maitron], coll., editions de l’Atelier, 2014" extract="
@@ -58,7 +57,7 @@
     <Entry author="Michel BAKOUNINE" title="Le Devoir sacré de la Révolte" edition="lettres et textes, Les Nuits Rouges, 2004"/>
     <Entry author="Michel BAKOUNINE" title="Ecrits libertaires" edition="Le Temps des Cerises, 1997"/>
     <Entry author="Minutes rouges" authorLink="https://www.youtube.com/@MinutesRouges" title="BAKOUNINE" titleLink="https://youtu.be/HkVfX9GXQqk" edition="2020"/>
-    <Entry author="Normand BAILLARGEON" title="L’anarchisme" edition="QSJ ?, 2024"/>
+    <Entry author="Normand BAILLARGEON" title="L’anarchisme" edition="QSJ ?, 2024" imageName="baillargeon.jpeg"/>
     <Entry author="Anselme BELLEGARRIGUE" title="Manifeste de l’anarchie"
            titleLink="https://mirror.anarhija.net/fr.theanarchistlibrary.org/mirror/a/ab/anselme-bellegarrigue-manifeste-de-l-anarchie.pdf" edition="[1850], Lux, 2011"/>
     <Entry author="Guillaume DAVRANCHE" title="Dix questions sur l’anarchisme" edition="Libertalia, 2020"/>
@@ -77,7 +76,7 @@
     <Entry author="Jean GRAVE" title="Ce que nous voulons et autres textes anarchistes" titleLink="https://fr.theanarchistlibrary.org/library/grave-jean-ce-que-nous-voulons.pdf"
            edition="[1898-1914], Mille et une nuits, 2012"/>
     <Entry author="Daniel GUERIN" title="L’Anarchisme : de la doctrine à l’action" edition="Gallimard, 1965"/>
-    <Entry author="Daniel GUERIN" title="Ni Dieu ni maître. Anthologie de l’anarchisme" edition="Maspero, 1970"/>
+    <Entry author="Daniel GUERIN" title="Ni Dieu ni maître. Anthologie de l’anarchisme" edition="Maspero, 1970" imageName="guerin.jpeg"/>
     <Entry author="Pierre KROPOTKINE" title="Paroles d’un révolté" edition="[1885], Flammarion, 1978"/>
     <Entry author="Pierre KROPOTKINE" title="La Morale anarchiste" titleLink="https://funambule.org/lectures/anarchisme/kropotkine%20-%20la%20morale%20anarchiste.pdf"
            edition="[1889], plusieurs reeditions dont Mille et une nuits, 2004"/>
@@ -97,138 +96,61 @@
     <Entry author="Arthur LEHNING" title="Bakounine et les autres" edition="Les Nuits Rouges, 2013"/>
     <Entry author="Jules LERMINA" title="L'ABC du libertaire" titleLink="https://gallica.bnf.fr/ark:/12148/bpt6k61740m.pdf"
            edition="publications periodiques de la Colonie communiste d'Aiglemont, [n°1, fevrier 1906], Mille et une nuits, 2004"/>
-    <li>
-        <p class="text-lg">Jean MAITRON, <span class="italic font-bold">Ravachol et les anarchistes</span>, Julliard, 1964</p>
-    </li>
-    <li>
-        <p class="text-lg">Jean MAITRON, <span class="italic font-bold">Histoire du mouvement anarchiste en France</span>, 2 t., Maspero, 1975
-        </p>
-    </li>
-    <li>
-        <p class="text-lg">Errico MALATESTA, <span class="italic font-bold">Conversations sur l’anarchie</span>, Nada, 2024</p>
-        <p class="my-2 py-2 px-4 bg-atl-black text-white">
+    <Entry author="Jean MAITRON" title="Ravachol et les anarchistes" edition="Julliard, 1964"/>
+    <Entry author="Jean MAITRON" title="Histoire du mouvement anarchiste en France" edition="2 t., Maspero, 1975" imageName="maitron.jpeg"/>
+    <Entry author="Errico MALATESTA" title="Conversations sur l’anarchie" edition="Nada, 2024" extract="
             «Mais, dis-moi, qu'est-ce donc que l'anarchie ? - Anarchie signifie sans gouvernement. Le gouvernement ne
             sert qu'à défendre les bourgeois, et quand il s'agit de nos intérêts, le mieux est de nous en occuper nous-mêmes. Du reste, ce que nous
             voulons réaliser, c'est la mise en commun du sol, des matières premières, des
-            instruments de travail, des logements et de toutes les richesses existantes.»
-        </p>
-    </li>
-    <li>
-        <p class="text-lg">Lucy PARSONS, <span class="italic font-bold">Travailler dans ces conditions ? Jamais ! Sur le capitalisme, les femmes et
-            l’anarchisme</span>, Payot & Rivages, 2024</p>
-    </li>
-    <li>
-        <p class="text-lg">Fernand PELLOUTIER, <span class="italic font-bold">Aux anarchistes</span>, [1895-1899], Nada, 2023</p>
-        <p class="my-2 py-2 px-4 bg-atl-black text-white">
+            instruments de travail, des logements et de toutes les richesses existantes.»"/>
+    <Entry author="Lucy PARSONS" title="Travailler dans ces conditions ? Jamais ! Sur le capitalisme, les femmes et l’anarchisme" edition="Payot & Rivages, 2024"/>
+    <Entry author="Fernand PELLOUTIER" title="Aux anarchistes" edition="[1895-1899], Nada, 2023" extract="
             «Nous sommes des révoltés de toutes les heures, des hommes vraiment sans dieu, sans maître et sans patrie,
             les ennemis irréconciliables de tout despotisme, moral ou matériel, individuel ou collectif, c’est-à-dire des
-            lois et des dictatures (y compris celle du prolétariat), et les amants passionnés de la culture de soi-même.»
-        </p>
-    </li>
-    <li>
-        <p class="text-lg">Pierre-Joseph PROUDHON, <span class="italic font-bold"><a
-                href="http://classiques.uqac.ca/classiques/Proudhon/la_propriete/La_propriete.pdf"
-                target="_blank">Qu’est-ce que la propriété ?</a></span>, [1840], Garnier
-            Flammarion, 1966 et Le Livre de poche, 2009</p>
-    </li>
-    <li>
-        <p class="text-lg">PROUDHON, BAKOUNINE, KROPOTKINE, <span class="italic font-bold">La révolution libertaire</span>, Le Temps des
-            Cerises, 2008
-        </p>
-    </li>
-    <li>
-        <p class="text-lg"><a href="https://www.youtube.com/@MinutesRouges" target="_blank">Minutes rouges</a>, <a
-                href="https://youtu.be/Lf7AdLPAiN8"
-                target="_blank">
-            <span class="italic font-bold">PROUDHON, précurseur encombrant</span></a>, [2019]</p>
-    </li>
-    <li>
-        <p class="text-lg">Tancrède RAMONET, <span class="italic font-bold">Ni Dieu ni Maître. Une histoire de l’anarchisme. L’intégrale
-            1840-2012</span>, (4h06), Arte editions, 2013
-        </p>
-    </li>
-    <li>
-        <p class="text-lg">Elisée RECLUS, <span class="italic font-bold"><a href="https://gallica.bnf.fr/ark:/12148/bpt6k81778q" target="_blank">L’Anarchie</a></span>,
-            [1895-1896-1902], Nada, 2021</p>
-        <p class="my-2 py-2 px-4 bg-atl-black text-white">
-            «C’est la lutte contre tout pouvoir officiel qui nous distingue essentiellement ; chaque individualité
-            nous paraît être le centre de l’univers, et chacune a les mêmes droits à son développement intégral,
-            sans intervention d’un pouvoir qui la dirige, la morigène ou la châtie.»
-        </p>
-    </li>
-    <li>
-        <p class="text-lg">Elisée RECLUS, <span class="italic font-bold">L’évolution, la révolution et l’idéal anarchique</span>, [1897], Lux, 2019
-        </p>
-    </li>
-    <li>
-        <p class="text-lg">Elisée RECLUS, <a href="https://gallica.bnf.fr/ark:/12148/bpt6k818649.r=Elis%C3%A9e%20Reclus?rk=214593;2" target="_blank">
-            <span class="italic font-bold">L’Homme et la nature suivi d’A mon frère le paysan</span></a>, [1864 et 1899],
-            La Part Commune, 2022</p>
-    </li>
-    <li>
-        <p class="text-lg">Elisée RECLUS, <span class="italic font-bold">Les Grands Textes</span>, Flammarion, 2014</p>
-    </li>
-    <li>
-        <p class="text-lg">Elisée et Elie RECLUS, <span class="italic font-bold">L’homme des bois</span>, [1876-1894], Heros-Limite, 2012</p>
-        <p class="my-2 py-2 px-4 bg-atl-black text-white">
+            lois et des dictatures (y compris celle du prolétariat), et les amants passionnés de la culture de soi-même.»"/>
+    <Entry author="Pierre-Joseph PROUDHON" title="Qu’est-ce que la propriété ?" titleLink="http://classiques.uqac.ca/classiques/Proudhon/la_propriete/La_propriete.pdf"
+           edition="[1840], Garnier Flammarion, 1966 et Le Livre de poche, 2009"/>
+    <Entry author="PROUDHON, BAKOUNINE, KROPOTKINE" title="La révolution libertaire" edition="Le Temps des Cerises, 2008"/>
+    <Entry author="Minutes rouges" authorLink="https://www.youtube.com/@MinutesRouges" title="PROUDHON, précurseur encombrant" titleLink="https://youtu.be/Lf7AdLPAiN8" edition="2019"/>
+    <Entry author="Tancrède RAMONET" title="Ni Dieu ni Maître. Une histoire de l’anarchisme. L’intégrale 1840-2012" edition="(4h06), Arte editions, 2013"/>
+    <Entry author="Elisée RECLUS" title="L’Anarchie" titleLink="https://gallica.bnf.fr/ark:/12148/bpt6k81778q" edition="[1895-1896-1902], Nada, 2021" extract="
+            «Nous sommes des révoltés de toutes les heures, des hommes vraiment sans dieu, sans maître et sans patrie,
+            les ennemis irréconciliables de tout despotisme, moral ou matériel, individuel ou collectif, c’est-à-dire des
+            lois et des dictatures (y compris celle du prolétariat), et les amants passionnés de la culture de soi-même.»"/>
+    <Entry author="Elisée RECLUS" title="L’évolution, la révolution et l’idéal anarchique" edition="[1897], Lux, 2019"/>
+    <Entry author="Elisée RECLUS" title="L’Homme et la nature suivi d’A mon frère le paysan" titleLink="https://gallica.bnf.fr/ark:/12148/bpt6k818649.r=Elis%C3%A9e%20Reclus?rk=214593;2"
+           edition="[1864 et 1899], La Part Commune, 2022"/>
+    <Entry author="Elisée RECLUS" title="Les Grands Textes" edition="Flammarion, 2014" imageName="reclus.jpeg"/>
+    <Entry author="Elisée et Elie RECLUS" title="L’homme des bois" titleLink="https://gallica.bnf.fr/ark:/12148/bpt6k81778q" edition="[1876-1894], Heros-Limite, 2012" extract="
             «L’attention qu’Élisée Reclus porte aux Indiens dans la Nouvelle Géographie Universelle (1876-
             1894), relève d’une démarche incluant pour la première fois, dans des ouvrages géographiques, la
             critique des crimes coloniaux, de la Conquista jusqu’aux Empires européens de la fin du XIXe siècle.
             Les Indiens intéressent Reclus à la fois comme population indigène et en tant que victimes des
             persécutions et du racisme des prétendus civilisateurs blancs. Le géographe est fasciné par leur
             manière de vivre qui lui fournira, non pas des modèles, mais une source pour sa conception idéale de
-            la société qu’il développera dans des écrits plus proprement anarchistes.»
-        </p>
-    </li>
-    <li>
-        <p class="text-lg">Clara SCHILDKNECHT, <span class="italic font-bold">Hardi, compagnons ! Masculinités et virilité anarchistes à la Belle
-            Epoque</span>, Libertalia, 2023</p>
-    </li>
-    <li>
-        <p class="text-lg">Victor SERGE, <a href="https://www.revue-refractions.net/fr/n46/anarchives/serge" target="_blank">
-            <span class="italic font-bold">L’expérience communiste</span></a>, Le Communiste, n° 11, 18 avril 1908</p>
-    </li>
-    <li>
-        <p class="text-lg">Victor SERGE, <span class="italic font-bold">Mémoires d’un révolutionnaire (1901-1941)</span>, Seuil, 1951 et Lux, 2010</p>
-    </li>
-    <li>
-        <p class="text-lg">Victor SERGE, <span class="italic font-bold">Le Rétif. Articles parus dans “l’anarchie” 1909-1912</span>, Monnier, 1989</p>
-    </li>
-    <li>
-        <p class="text-lg">Victor SERGE, <a href="https://www.marxists.org/francais/serge/works/1938/01/serge_19380100.htm" target="_blank">
-            <span class="italic font-bold">Réflexions sur l’anarchisme</span></a>, Acratie, 2014</p>
-    </li>
-    <li>
-        <p class="text-lg">Anne STEINER, <a href="https://www.refractions.plusloin.org/IMG/pdf/2403_1_.pdf" target="_blank">
-            <span class="italic font-bold">De l'emancipation des femmes dans les milieux individualistes à la Belle Epoque</span></a>, Réfractions,
-            n°24, mai 2010, pp. 19-30</p>
-    </li>
-    <li>
-        <p class="text-lg">Anne STEINER, <a href="https://journals.openedition.org/amnis/1057" target="_blank">
-            <span class="italic font-bold">Les militantes anarchistes individualistes : des femmes libres à la Belle Epoque</span></a>, Amnis, 8 |
-            2008</p>
-    </li>
-    <li>
-        <p class="text-lg">Anne STEINER, <a href="https://www.article11.info/?Anne-Steiner-Pour-les-en-dehors-l#a_titre" target="_blank">
-            <span class="italic font-bold">Pour les en-dehors, l’emancipation individuelle n’est pas seulement le moyen de parvenir à un monde
-                meilleur, elle est à elle-même sa propre fin</span></a>, Article 11, 9 novembre 2011</p>
-    </li>
-    <li>
-        <p class="text-lg">La Voz de la Mujer, <span class="italic font-bold">Ni dieu ni patron ni mari</span>, [1896-1897], Nada, 2021</p>
-        <p class="my-2 py-2 px-4 bg-atl-black text-white">
+            la société qu’il développera dans des écrits plus proprement anarchistes.»"/>
+    <Entry author="Clara SCHILDKNECHT" title="Hardi, compagnons ! Masculinités et virilité anarchistes à la Belle Epoque" edition="Libertalia, 2023"/>
+    <Entry author="Victor SERGE" title="L’expérience communiste" titleLink="https://www.revue-refractions.net/fr/n46/anarchives/serge" edition="Le Communiste, n° 11, 18 avril 1908"/>
+    <Entry author="Victor SERGE" title="Mémoires d’un révolutionnaire (1901-1941)" edition="Seuil, 1951 et Lux, 2010"/>
+    <Entry author="Victor SERGE" title="Le Rétif. Articles parus dans “l’anarchie” 1909-1912" edition="Monnier, 1989"/>
+    <Entry author="Victor SERGE" title="Réflexions sur l’anarchisme" titleLink="https://www.marxists.org/francais/serge/works/1938/01/serge_19380100.htm" edition="Acratie, 2014"/>
+    <Entry author="Anne STEINER" title="De l'émancipation des femmes dans les milieux individualistes à la Belle Epoque" titleLink="https://www.refractions.plusloin.org/IMG/pdf/2403_1_.pdf" edition="Réfractions,
+            n°24, mai 2010, pp. 19-30"/>
+    <Entry author="Anne STEINER" title="Les militantes anarchistes individualistes : des femmes libres à la Belle Epoque" titleLink="https://journals.openedition.org/amnis/1057"
+           edition="Amnis, 8 | 2008"/>
+    <Entry author="Anne STEINER" title="Pour les en-dehors, l’emancipation individuelle n’est pas seulement le moyen de parvenir à un monde meilleur, elle est à elle-même sa propre fin"
+           titleLink="https://www.article11.info/?Anne-Steiner-Pour-les-en-dehors-l#a_titre"
+           edition="Article 11, 9 novembre 2011"/>
+    <Entry author="La Voz de la Mujer" title="Ni dieu ni patron ni mari" titleLink="https://gallica.bnf.fr/ark:/12148/bpt6k81778q" edition="[1896-1897], Nada, 2021" extract="
             «Nous avons décidé de faire entendre notre voix dans le concert social et d'exiger notre part de
             plaisirs au banquet de la vie. Et comme nous ne voulons dépendre de personne, brandissons nous-
-            mêmes l'étendard rouge et partons au combat... sans dieu ni patron ni mari.»
-        </p>
-    </li>
+            mêmes l'étendard rouge et partons au combat... sans dieu ni patron ni mari.»"/>
+    <Entry author="George WOODCOCK" title="L’anarchisme. Une histoire des idées et mouvements libertaires" edition="Lux, 2019"/>
 </ul>
 
 <h2 class="text-center frankie my-8">Les socialismes utopiques</h2>
 <ul>
-    <li>
-        <p class="text-lg">Nathalie BREMAND, <span class="italic font-bold">Les socialismes et l’enfance. Expérimentation et utopie (1830-1870)</span>,
-            P.U.R., 2008</p>
-        <p class="my-2 py-2 px-4 bg-atl-black text-white">
+    <Entry author="Nathalie BREMAND" title="Les socialismes et l’enfance. Expérimentation et utopie (1830-1870)" edition="P.U.R., 2008" extract="
             «Les socialistes français de la période 1830-1870 représentaient l’enfant comme un être innocent
             et pur, victime de la société de l’époque. Ils plaçaient en lui un immense espoir car il incarnait à leurs
             yeux la génération à venir. Dans leurs discours théoriques sur la société idéale, ils avaient tendance
@@ -237,35 +159,16 @@
             l’espace privé et public. [...] Par la diffusion de leurs idées et par leurs pratiques d’expérimentation
             sociale, les socialistes « utopiques » ont participé au changement des attitudes à l’égard des enfants
             qui se manifesta tout au long du XIXe siècle, et ont contribué dans une certaine mesure à l’évolution
-            des mentalités vers une conception moderne du statut de l’enfant dans la société.»
-        </p>
-    </li>
-    <li>
-        <p class="text-lg">Nathalie BREMAND, <a href="https://journals.openedition.org/chrhc/3659" target="_blank">
-            <span class="italic font-bold">Socialistes utopiques ”Les mal nommés”</span></a>, Cahiers d’histoire. Revue d’histoire critique, 124 |
-            2014, 13-24</p>
-    </li>
-    <li>
-        <p class="text-lg">Jean CHESNEAUX, <span class="italic font-bold">Jules Verne et la tradition du socialisme utopique</span>, L'Homme et la
-            société, n°4, 1967. pp. 223-232</p>
-    </li>
-    <li>
-        <p class="text-lg">Diana COOPER-RICHET et Jacqueline PLUET-DESPATIN, <span class="italic font-bold">L’exercice du bonheur ou comment Victor
-            Coissac cultiva l'utopie entre les deux guerres dans sa communauté de l'Intégrale</span>, Champ Vallon, 1985</p>
-    </li>
-    <li>
-        <p class="text-lg">Clara DEALBERTO et Fabrice ARGOUNES, <span class="italic font-bold">Cartes des utopies : ailleurs est ici</span>,
-            Libération, 26 avril 2019</p>
-    </li>
-    <li>
-        <p class="text-lg">Bernard DESMARS, <span class="italic font-bold">Militants de l'utopie ? Les fouriéristes dans la seconde moitié du
-XIX° siècle</span>, Les Presses du Reel, 2010</p>
-    </li>
-    <li>
-        <p class="text-lg">Jacques DROZ (dir.), <a href="https://gallica.bnf.fr/ark:/12148/bpt6k48039030/f8.item" target="_blank">
-            <span class="italic font-bold">Histoire générale du socialisme, tome 1, Des origines à 1875 et tome 2, De 1875 à 1918</span></a>,
-            Paris, PUF, 1972</p>
-        <p class="my-2 py-2 px-4 bg-atl-black text-white">
+            des mentalités vers une conception moderne du statut de l’enfant dans la société.»"/>
+    <Entry author="Nathalie BREMAND" titleLink="https://journals.openedition.org/chrhc/3659" title="Socialistes utopiques ”Les mal nommés”"
+           edition="Cahiers d’histoire. Revue d’histoire critique, 124 | 2014, 13-24"/>
+    <Entry author="Jean CHESNEAUX" title="Jules Verne et la tradition du socialisme utopique" edition="L'Homme et la société, n°4, 1967. pp. 223-232"/>
+    <Entry author="Diana COOPER-RICHET et Jacqueline PLUET-DESPATIN" title="L’exercice du bonheur ou comment Victor Coissac cultiva l'utopie entre les deux guerres dans sa communauté de l'Intégrale"
+           edition="Champ Vallon, 1985"/>
+    <Entry author="Clara DEALBERTO et Fabrice ARGOUNES" title="Cartes des utopies : ailleurs est ici" edition="Libération, 26 avril 2019"/>
+    <Entry author="Bernard DESMARS" title="Militants de l'utopie ? Les fouriéristes dans la seconde moitié du XIX° siècle" edition="Les Presses du Reel, 2010"/>
+    <Entry author="Jacques DROZ (dir.)" title="Histoire générale du socialisme, tome 1, Des origines à 1875 et tome 2, De 1875 à 1918"
+           titleLink="https://gallica.bnf.fr/ark:/12148/bpt6k48039030/f8.item" edition="Paris, PUF, 1972" extract="
             «C’est presque uniquement à travers des utopies que le socialisme s’exprimera pendant plusieurs
             siècles. Platon, Thomas More, Campanella, Morelly représenteront de petites communautés, où la loi
             juste a été établie une fois pour toutes pour le bonheur de tous, et appliquée par des sages. L’on
@@ -279,88 +182,41 @@ XIX° siècle</span>, Les Presses du Reel, 2010</p>
             Après avoir fait l’exposé des désordres sociaux et des iniquités révoltantes constatées, les auteurs de
             ces utopies imaginent la cité où cette plaie aurait disparu, où même elle deviendrait impossible. D’où
             sans doute une certaine «monotonie» des utopies, qui provient de la monotonie même du cri de
-            révolte chez les hommes.»
-        </p>
-    </li>
-    <li>
-        <p class="text-lg">Friedrich ENGELS, <a href="https://www.marxists.org/francais/marx/80-utopi/utopie.pdf" target="_blank">
-            <span class="italic font-bold">Socialisme utopique et socialisme scientifique</span></a>,
-            [1880], Aden, 2005 et Editions sociales, 1950, 2021</p>
-    </li>
-    <li>
-        <p class="text-lg">Friedrich ENGELS et Karl MARX, <span class="italic font-bold">Les Utopiques</span>, Maspero, 1976</p>
-    </li>
-    <li>
-        <p class="text-lg">Friedrich ENGELS, <span class="italic font-bold">Description de colonies communistes surgies ces derniers temps et
-            encore existantes</span>, <span class="italic">Deutsches Bürgerbuch für 1845</span>, in Friedrich ENGELS et Karl MARX, <span
-                class="italic">Utopisme & communauté d’avenir</span>, Maspero, 1976</p>
-        <p class="my-2 py-2 px-4 bg-atl-black text-white">
+            révolte chez les hommes.»"/>
+    <Entry author="Friedrich ENGELS" title="Socialisme utopique et socialisme scientifique" titleLink="https://www.marxists.org/francais/marx/80-utopi/utopie.pdf"
+           edition="[1880], Aden, 2005 et Editions sociales, 1950, 2021"/>
+    <Entry author="Friedrich ENGELS et Karl MARX" title="Les Utopiques" edition="Maspero, 1976"/>
+    <Entry author="Friedrich ENGELS" title="Description de colonies communistes surgies ces derniers temps et
+            encore existantes, Deutsches Bürgerbuch für 1845" edition="in Friedrich ENGELS et Karl MARX Utopisme & communauté d’avenir, Maspero, 1976" extract="
             «En somme, nous voyons que la communauté des biens n’est pas du tout une impossibilité, mais au
             contraire que toutes ses expériences ont parfaitement réussi. Nous voyons aussi que les gens qui
             habitent en communauté vivent mieux en travaillant moins, qu’ils ont plus de loisir pour développer
             leur esprit, et sont des hommes meilleurs et plus moraux que leurs voisins qui ont conservé la
-            propriété.»
-        </p>
-    </li>
-    <li>
-        <p class="text-lg">François FOURN, <span class="italic font-bold">Etienne Cabet ou le temps de l’utopie</span>, Vendemiaire, 2014</p>
-    </li>
-    <li>
-        <p class="text-lg">Ludovic FROBERT, <span
-                class="italic font-bold">Quelques lignes d’utopie. Pierre Leroux et la communauté des «imprimeux»</span>, (Boussac,1844-1848), Agone,
-            2023</p>
-    </li>
-    <li>
-        <p class="text-lg">Thierry PAQUOT, <span class="italic font-bold">Utopies et utopistes</span>, La Decouverte, 2007</p>
-        <p class="my-2 py-2 px-4 bg-atl-black text-white">
+            propriété.»"/>
+    <Entry author="François FOURN" title="Etienne Cabet ou le temps de l’utopie" edition="Vendemiaire, 2014"/>
+
+    <Entry author="Ludovic FROBERT" title="Quelques lignes d’utopie. Pierre Leroux et la communauté des «imprimeux»" edition="(Boussac,1844-1848), Agone, 2023" imageName="frobert.jpeg"/>
+    <Entry author="Thierry PAQUOT" title="Utopies et utopistes" edition="La Découverte, 2007" extract="
             «L'utopie n'est pas une anticipation, mais un présent qui mise sur le bonheur, l'équité, l'abondance
             et le respect de chacun. Thierry Paquot explore diverses utopies écrites ou expérimentées qui se sont
             succédé depuis le XVIe siècle, en privilégiant certains thèmes : le travail et les loisirs, l'éducation, la
             famille et les relations amoureuses, la ville et l'architecture. L'utopie s'enrichit au XIXe siècle de
-            l'uchronie, puis de la science-fiction, pour proposer de nouvelles alternatives à la "société de
-            consommation".»
-        </p>
-    </li>
-    <li>
-        <p class="text-lg">Jean-Christian PETITFILS, <span class="italic font-bold">Les communautés utopistes au XIXe siècle</span>, Paris, Pluriel,
-            2011</p>
-    </li>
-    <li>
-        <p class="text-lg">Michele RIOT-SARCEY, <span class="italic font-bold">Le Réel de l’utopie : essai sur le politique au XIXe siècle</span>,
-            Paris, Albin Michel, 1998</p>
-    </li>
-    <li>
-        <p class="text-lg">Jacqueline RUSS, <span class="italic font-bold">Le Socialisme utopique français</span>, Paris, Bordas, 1988</p>
-    </li>
-    <li>
-        <p class="text-lg">Jean SERVIER, <span class="italic font-bold">Histoire de l’utopie (1967)</span>, Paris, Gallimard, 1991</p>
-    </li>
-    <li>
-        <p class="text-lg"><a href="https://www.youtube.com/@MinutesRouges" target="_blank">Minutes rouges</a>, <a
-                href="https://youtu.be/Hzquf8ZB3gs"
-                target="_blank">
-            <span class="italic font-bold">SOCIALISME UTOPIQUE</span></a>, [2022]</p>
-    </li>
+            l'uchronie, puis de la science-fiction, pour proposer de nouvelles alternatives à la 'société de
+            consommation'.»"/>
+    <Entry author="Jean-Christian PETITFILS" title="Les communautés utopistes au XIXe siècle" edition="Paris, Pluriel, 2011"/>
+    <Entry author="Michele RIOT-SARCEY" title="Le Réel de l’utopie : essai sur le politique au XIXe siècle" edition="Paris, Albin Michel, 1998"/>
+    <Entry author="Jacqueline RUSS" title="Le Socialisme utopique français" edition="Paris, Bordas, 1988"/>
+    <Entry author="Jean SERVIER" title="Histoire de l’utopie (1967)" edition="Paris, Gallimard, 1991"/>
+    <Entry author="Minutes rouges" authorLink="https://www.youtube.com/@MinutesRouges" title="SOCIALISME UTOPIQUE" titleLink="https://youtu.be/Hzquf8ZB3gs" edition="2022"/>
 </ul>
 
 <h2 class="text-center frankie my-8">«Nature», pratiques alimentaires et cause animale</h2>
-
 <ul>
-    <li>
-        <p class="text-lg">Arnaud BAUBEROT, <span class="italic font-bold">Histoire du naturisme. Le mythe du retour à la nature</span>, P.U.R., 2004
-        </p>
-    </li>
-    <li>
-        <p class="text-lg">Arnaud BAUBEROT, <span class="italic font-bold">
-            <a href="https://www.cairn.info/revue-mil-neuf-cent-2013-1-page-117.htm" target="_blank">Les Naturiens libertaires ou le retour à
-                l’anarchisme préhistorique</a></span>, Mil neuf cent. Revue d'histoire intellectuelle, 2013/1 (n° 31), 117-136</p>
-    </li>
-    <li>
-        <p class="text-lg">Arnaud BAUBEROT, <span class="italic font-bold">
-            Aux sources de l'écologisme anarchiste : Louis Rimbault et les communautes végétaliennes en France dans la première moitié du XXe siecle
-        </span>, Le Mouvement social, n° 246, janvier-mars 2014
-        </p>
-        <p class="my-2 py-2 px-4 bg-atl-black text-white">
+    <Entry author="Arnaud BAUBEROT" title="Histoire du naturisme. Le mythe du retour à la nature" edition="P.U.R., 2004"/>
+    <Entry author="Arnaud BAUBEROT" title="Les Naturiens libertaires ou le retour à l’anarchisme préhistorique" titleLink="https://www.cairn.info/revue-mil-neuf-cent-2013-1-page-117.htm"
+           edition="Mil neuf cent. Revue d'histoire intellectuelle, 2013/1 (n° 31), 117-136"/>
+    <Entry author="Arnaud BAUBEROT" title="Aux sources de l'écologisme anarchiste : Louis Rimbault et les communautes végétaliennes en France dans la première moitié du XXe siecle"
+           edition="Le Mouvement social, n° 246, janvier-mars 2014" extract="
             «La recherche des implications pratiques de cette morale naturelle conduit une partie des
             individualistes à s’intéresser aux recommandations formulées à la même époque par des médecins
             naturistes et dont les thèses sont activement relayées par la Société végétarienne de France. Le
@@ -368,55 +224,24 @@ XIX° siècle</span>, Les Presses du Reel, 2010</p>
             en 1905, dénonce ainsi l’alcool et le tabac comme des instruments d’aliénation auxquels se plie, de
             façon grégaire, le monde ouvrier. Il en va de même pour la consommation de viande, que Libertad
             désigne comme l’aliment qui nourrit les muscles des travailleurs et permet leur asservissement,
-            faisant d’eux « des victimes qui se laissent nourrir du sang d’autres victimes.»
-        </p>
-    </li>
-    <Entry author="Romeo BONDON" title="Le bestiaire libertaire d’Elisée Reclus" edition="Atelier de creation libertaire, 2020"
-           imageName="romeo-bondon.jpeg"/>
-    <li>
-        <p class="text-lg">Georges BUTAUD, <span class="italic font-bold">Le végétalisme</span>, publication du Végétalien, 1930</p>
-    </li>
-    <li>
-        <p class="text-lg"><span class="italic font-bold">Cause animale, luttes sociales</span>, [Textes de C. Gide, M. Huot, L. Michel, O. Mirbeau,
-            E.
-            Reclus, L. Rimbault, Severine, L. Tolstoï, G. Butaud, S. Zaïkowska, E. Coeuderoy, H.
-            S. Salt], le passager clandestin, 2021</p>
-    </li>
-    <li>
-        <p class="text-lg">Paul GUILIBERT, <span class="italic font-bold">Exploiter les vivants. Une écologie politique du travail</span>, editions
-            Amsterdam, 2023</p>
-        <p class="my-2 py-2 px-4 bg-atl-black text-white">
+            faisant d’eux « des victimes qui se laissent nourrir du sang d’autres victimes.»"/>
+    <Entry author="Romeo BONDON" title="Le bestiaire libertaire d’Elisée Reclus" edition="Atelier de creation libertaire, 2020" imageName="romeo-bondon.jpeg"/>
+    <Entry author="Georges BUTAUD" title="Le végétalisme" edition="publication du Végétalien, 1930"/>
+    <Entry title="Cause animale, luttes sociales"
+           edition="[Textes de C. Gide, M. Huot, L. Michel, O. Mirbeau, E. Reclus, L. Rimbault, Severine, L. Tolstoï, G. Butaud, S. Zaïkowska, E. Coeuderoy, H.S. Salt], le passager clandestin, 2021"/>
+    <Entry author="Paul GUILIBERT" title="Exploiter les vivants. Une écologie politique du travail" edition="editions Amsterdam, 2023" extract="
             «Selon une ritournelle de la politique contemporaine, « l’écologie commence à la maison » : nous
             serions, en tant qu’individus, les sujets de la transition environnementale. Les pauvres, rétifs au
             changement, sont traités en barbares à civiliser ou en climato-négationnistes à combattre. A
             contrario, les citadins éduqués, éclairés et capables de changer de vie, apparaissent comme les seuls
             agents de la nécessaire transformation des modes de vie et de production. Le scénario de la rupture
-            populaire avec l’écologie et le récit d’une écologie réservée aux riches se renforcent mutuellement.»
-        </p>
-    </li>
-    <li>
-        <p class="text-lg">JELM, <span class="italic font-bold">Hygiène et anarchisme</span>, l’anarchie, n°133, 24 octobre 1907</p>
-    </li>
-    <li>
-        <p class="text-lg">Marjolaine JOLICOEUR,
-            <span class="italic font-bold">
-                <a href="https://liberationanimale.com/2010/05/13/histoiredes-vegetaliens-anarchistes/" target="_blank">Des végétaliens
-                    anarchistes</a></span>, Ahimsa, 2010</p>
-    </li>
-    <li>
-        <p class="text-lg">Patrick PIDUTTI, <span class="italic font-bold">Michel Bakounine penseur de l’écologie</span>, Le Monde libertaire, n°205,
-            octobre 1974</p>
-    </li>
-    <li>
-        <p class="text-lg">Elisée RECLUS, <span class="italic font-bold">Libre nature</span>, Heros-Limite, 2022</p>
-    </li>
-    <li>
-        <p class="text-lg">Elisée RECLUS, <span class="italic font-bold">Du sentiment de la nature dans les sociétés modernes</span>, [1866],
-            Bartillat, 2019</p>
-    </li>
-    <li>
-        <p class="text-lg">Elisée RECLUS, <span class="italic font-bold">A propos du végétarisme</span>, [1901], Mazeto Square, 2016</p>
-        <p class="my-2 py-2 px-4 bg-atl-black text-white">
+            populaire avec l’écologie et le récit d’une écologie réservée aux riches se renforcent mutuellement.»"/>
+    <Entry author="JELM" title="Hygiène et anarchisme" edition="l’anarchie, n°133, 24 octobre 1907"/>
+    <Entry author="Marjolaine JOLICOEUR" title="Des végétaliens anarchistes" titleLink="https://liberationanimale.com/2010/05/13/histoiredes-vegetaliens-anarchistes/" edition="Ahimsa, 2010"/>
+    <Entry author="Patrick PIDUTTI" title="Michel Bakounine penseur de l’écologie" edition="Le Monde libertaire, n°205, octobre 1974"/>
+    <Entry author="Elisée RECLUS" title="Libre nature" edition="Heros-Limite, 2022"/>
+    <Entry author="Elisée RECLUS" title="Du sentiment de la nature dans les sociétés modernes" edition="[1866], Bartillat, 2019"/>
+    <Entry author="Elisée RECLUS" title="A propos du végétarisme" edition="[1901], Mazeto Square, 2016" extract="
             «Au début du texte, le géographe revient clairement sur le souvenir d’enfance qui déterminera son
             choix : «Je me rappelle distinctement l’horreur du sang verse.» Le choc de voir des animaux
             abattus par des bouchers le bouleverse et Reclus dès lors se convertira aux orientations
@@ -424,9 +249,7 @@ XIX° siècle</span>, Les Presses du Reel, 2010</p>
             avant lui avaient exprimé des tendances dans ce sens : Voltaire, Rousseau, Linné, Lamartine,
             Michelet... De toute sa vie, Reclus n’avala pas un morceau de viande ou de poisson. Il s’alimentait de
             fruits, de légumes et de biscuits. Ses arguments en faveur d’un tel régime relèvent de raisons
-            personnelles.»
-        </p>
-    </li>
+            personnelles.»"/>
 </ul>
 
 <h2 class="text-center frankie my-8">Les «milieux libres»</h2>
@@ -461,4 +284,10 @@ XIX° siècle</span>, Les Presses du Reel, 2010</p>
             parfois disproportionnée par rapport à la besogne, mais qu’un fait soudain exige une réaction
             immédiate, que par exemple le vent renverse un énorme tas de foin, et les volontaires accourent.»"/>
     <Entry author="Nicolas DEBON" title="L'essai" edition="Dargaud, 2015" imageName="essai.jpeg" imageAlt="L'essai - Nicolas Debon"/>
+    <Entry author="Isabelle FELICI" title="La Cecilia. Histoire d’une communauté anarchiste et de son fondateur Giovanni Rossi" edition="Atelier de creation libertaire, 2002."/>
+    <Entry author="Guillaume GOUTTE" title="Aménager la societe capitaliste. Critique libertaire d'un citoyennisme alternatif qui voudrait nous voir co gérer notre domination et notre exploitation"
+           edition="Le Monde libertaire, n°1610, 28/10 et 04/11/2010."/>
+    <Entry author="Fortune HENRY" title="Communisme experimental, choix d’elements" edition="Le Libertaire, n°45, 13 septembre 1903."/>
+    <Entry author="Fortune HENRY" title="Communisme expérimental (Préliminaires)" edition="edition de la Colonie communiste d’Aiglemont (Ardennes), 1905."/>
+    <Entry author="HOBOLO-SHALAZZ" title="Louis RIMBAULT et « Terre liberee » 1923-1949. Ecole de pratique végétalienne et de retour a la terre »" edition="Les brochures de l’En Dehors, 2006"/>
 </ul>
