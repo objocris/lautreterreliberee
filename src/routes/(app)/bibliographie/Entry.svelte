@@ -31,5 +31,5 @@
         {#if edition}{edition}{/if}
     </p>
     {#if extract}<p class="text-sm my-2 py-2 px-4 bg-atl-black text-white">{extract}</p>{/if}
-    {#if imageName}<div class="flex justify-center my-4"><img class="max-h-96" src="{imagePath}" alt="{imageAlt}"/></div>{/if}
+    {#if imageName}<div class="flex justify-center my-4"><img class="max-h-96 border-4 border-atl-black" src="{imagePath}" alt="{imageAlt}"/></div>{/if}
 </li>

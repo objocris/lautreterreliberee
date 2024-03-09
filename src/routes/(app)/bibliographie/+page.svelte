@@ -25,7 +25,7 @@
     La bibliographie sur les questions liées à «Terre libérée» est assez conséquente (notamment concernant
     l’anarchisme). Nous avons choisi plusieurs entrées dans lesquelles ont été privilégiés les ouvrages fondamentaux,
     les articles essentiels et les travaux les plus récents. Bibliographie évolutive, elle sera complétée au fur et à mesure
-    de l’avancée des recherches. Nous avons, lorsque cela était possible, indique les liens permettant à toutes et tous
+    de l’avancée des recherches. Nous avons, lorsque cela était possible, indiqué les liens permettant à toutes et tous
     d’accéder aux références citées. On se permettra de signaler le travail pionnier de l’historien <a
         href="https://fr.wikipedia.org/wiki/Jean_Maitron" target="_blank">Jean Maitron</a> (1910-1987), créateur du Centre d’Histoire du
     Syndicalisme en 1966 (devenu le <a target="_blank" href="https://histoire-sociale.cnrs.fr/">Centre
@@ -34,7 +34,15 @@
     biographique du mouvement ouvrier.
 </p>
 
-<h2 class="text-center frankie my-8">Le mouvement anarchiste</h2>
+<div class="menu-bibliographie">
+    <a href="#le-mouvement-anarchiste">Le mouvement anarchiste</a>
+    <a href="#les-socialismes-utopiques">Les socialismes utopiques</a>
+    <a href="#nature-pratiques-alimentaires-et-cause-animale">«Nature», pratiques alimentaires et cause animale</a>
+    <a href="#les-milieux-libres">Les «milieux libres»</a>
+    <a href="#publications-de-louis-rimbault">Publications de Louis Rimbault</a>
+</div>
+
+<h2 class="text-center frankie my-8" id="le-mouvement-anarchiste">Le mouvement anarchiste</h2>
 <ul>
     <Entry title="Les Anarchistes. Dictionnaire biographique du mouvement libertaire francophone"
            edition="[Maitron], coll., editions de l’Atelier, 2014" extract="
@@ -148,7 +156,7 @@
     <Entry author="George WOODCOCK" title="L’anarchisme. Une histoire des idées et mouvements libertaires" edition="Lux, 2019"/>
 </ul>
 
-<h2 class="text-center frankie my-8">Les socialismes utopiques</h2>
+<h2 class="text-center frankie my-8" id="les-socialismes-utopiques">Les socialismes utopiques</h2>
 <ul>
     <Entry author="Nathalie BREMAND" title="Les socialismes et l’enfance. Expérimentation et utopie (1830-1870)" edition="P.U.R., 2008" extract="
             «Les socialistes français de la période 1830-1870 représentaient l’enfant comme un être innocent
@@ -210,7 +218,7 @@
     <Entry author="Minutes rouges" authorLink="https://www.youtube.com/@MinutesRouges" title="SOCIALISME UTOPIQUE" titleLink="https://youtu.be/Hzquf8ZB3gs" edition="2022"/>
 </ul>
 
-<h2 class="text-center frankie my-8">«Nature», pratiques alimentaires et cause animale</h2>
+<h2 class="text-center frankie my-8" id="nature-pratiques-alimentaires-et-cause-animale">«Nature», pratiques alimentaires et cause animale</h2>
 <ul>
     <Entry author="Arnaud BAUBEROT" title="Histoire du naturisme. Le mythe du retour à la nature" edition="P.U.R., 2004"/>
     <Entry author="Arnaud BAUBEROT" title="Les Naturiens libertaires ou le retour à l’anarchisme préhistorique" titleLink="https://www.cairn.info/revue-mil-neuf-cent-2013-1-page-117.htm"
@@ -252,7 +260,7 @@
             personnelles.»"/>
 </ul>
 
-<h2 class="text-center frankie my-8">Les «milieux libres»</h2>
+<h2 class="text-center frankie my-8" id="les-milieux-libres">Les «milieux libres»</h2>
 <ul>
     <Entry author="Michel ANTONY" title="Les communautés utopiques sont-elles toujours condamnées à disparaître ?"
            edition="Cahiers d’histoire. Revue d’histoire critique, 133 | 2016, 19-42"/>
@@ -290,4 +298,97 @@
     <Entry author="Fortune HENRY" title="Communisme experimental, choix d’elements" edition="Le Libertaire, n°45, 13 septembre 1903."/>
     <Entry author="Fortune HENRY" title="Communisme expérimental (Préliminaires)" edition="edition de la Colonie communiste d’Aiglemont (Ardennes), 1905."/>
     <Entry author="HOBOLO-SHALAZZ" title="Louis RIMBAULT et « Terre liberee » 1923-1949. Ecole de pratique végétalienne et de retour a la terre »" edition="Les brochures de l’En Dehors, 2006"/>
+    <Entry author="Tony LEGENDRE"
+           title="Expériences de vie Communautaire anarchiste en France. Le milieu libre de Vaux (Asine) 1902-1907 et la colonie naturiste et végétalienne de Bason (Asine) 1902-1951"
+           edition="Les editions libertaires, 2021" imageName="legendre.jpeg"/>
+    <Entry author="Donatien LEROY" title="Terre Liberee, une cite veg’anarchiste" edition="Battements de Loire, 2015"
+           titleLink="https://archive.wikiwix.com/cache/index2.php?url=http%3A%2F%2Fbattements-de-loire.com"/>
+    <Entry edition="Le Libertaire, 29 novembre 1902" title="A propos d’une colonie libertaire"/>
+    <Entry author="André LORULOT" title="Une expérience communiste. La colonie libertaire de Saint Germain" edition="Colonie Communiste de Saint Germain en Laye, 1908"/>
+    <Entry author="Anna MAHE" title="Les amis libres" edition="l’anarchie, n° 118, 11 juillet 1907"/>
+    <Entry author="Rirette MAITREJEAN" title="Souvenirs d’anarchie" edition="La Digitale, 1997"/>
+    <Entry title="Le Milieu libre n’est plus" edition="La Vie anarchiste, n°7, 5 mars 1912"/>
+    <Entry author="Arlette MILLARD" title="Une colonie anarchiste à Saint-Germain-en-Laye, 1906-1908 ou
+        Une expérience communiste, la colonie libertaire de Saint-Germain" edition="2009" extract="
+        «Dans sa lettre, Lorulot explique qu’il veut intensifier la diffusion des idées anarchistes par l’outil de
+        propagande qu’est l’imprimerie installée dans un des bâtiments de la ferme. Les colons pourront
+        ainsi éditer eux-mêmes à moindre frais des quantités considérables de brochures, livrets, papillons
+        (c’est ainsi qu’ils nomment les tracts). L’existence matérielle sera assurée par la culture et l’élevage.
+        Quand ces deux activités fonctionneront, il ouvrira, peut-être au printemps prochain, une école
+        anarchiste où sera donné un enseignement scientifique et rationnel.»"/>
+    <Entry author="Dominique PETIT" title="Fortuné Henry et la colonie libertaire d’Aiglemont. De la propagande pour Ravachol au syndicalisme révolutionnaire"
+           edition="Terres ardennaises/Noir & Rouge, 2023"/>
+    <Entry author="Han RYNER" title="As-tu vu Bascon ?" edition="Le Journal du Peuple, 28 aout 1922"/>
+    <Entry author="Anne STEINER" title="Les En-Dehors. Anarchistes individualistes et illégalistes à la « Belle Époque »" edition="l’échappée, 2019" imageName="steiner.jpeg"/>
+    <Entry author="Anne STEINER" title="Vivre l’anarchie ici et maintenant : milieux libres et colonies libertaires a la Belle Epoque »"
+           edition="Cahiers d’histoire. Revue d’histoire critique, 133 | 2016, 43-58"/>
+    <Entry author="Anne STEINER" title="Les milieux libres en images" edition="Cahiers d’histoire. Revue d’histoire critique, 133 | 2016, 59-63"/>
+    <Entry author="Auguste TROUSSET" title="L’Aurore" edition="Le Néo-Naturien, n° 15, decembre 23-janvier 24"/>
+    <Entry title="Vivre l'anarchie. Expériences communautaires et réalisations alternatives antiautoritaires" edition="Actes du colloque de Ligoure, mai 2009, Lyon, ACL, 2010"
+           imageName="vivre-anarchie.jpeg"/>
+    <Entry author="Damian F. WHITE et Gideon KOSSOFF" title="Anarchisme, libertarisme et environnementalisme : la pensee anti-autoritaire et la quete de societes auto-organisees"
+           edition="Écologie & politique, 2011/1 (n°41), pages 145 à 171"/>
+    <Entry author="Henri ZISLY" title="Pour la colonie" edition="Le Libertaire, décembre 1902"/>
 </ul>
+
+<h2 class="text-center frankie my-8" id="publications-de-louis-rimbault">Publications de Louis Rimbault</h2>
+<h3 class="frankie my-8 text-3xl">«Terre libérée»</h3>
+<ul>
+    <Entry title="Le problème de la viande" edition="Le Néo-Naturien, n°9, décembre-janvier 1923"/>
+    <Entry title="Coopérative : «La Terre Libérée»" edition="Le Néo-Naturien, n° 14, octobre-novembre 1923"/>
+    <Entry title="Extrait des dispositions générales sur le fonctionnement de la Cité Végétalienne «Terre Libérée»" edition="Le Néo-Naturien, n° 15, décembre 23-janvier 1924"/>
+    <Entry title="Libération économique" edition="Le Néo-Naturien, n° 16, février 1924" imageName="neonaturien.jpeg"/>
+    <Entry title="L’action de «Terre Libérée»" edition="Le Néo-Naturien, n° 19, juillet-août 1924"/>
+    <Entry title="Deux mots de «Terre Libérée»" edition="Le Néo-Naturien, n° 20, janvier-février 1925"/>
+    <Entry title="Le “Néo-Naturien” doit-il disparaître pour avoir coopéré au succès du végétalisme liberateur ?" edition="Le Néo-naturien, n°21, octobre-novembre 1925"/>
+    <Entry title="Terre Libérée" edition="l’en-dehors, n° 266, mi-janvier 1934"/>
+</ul>
+<h3 class="frankie my-8 text-3xl">Autres articles</h3>
+<ul>
+    <Entry title="Application du communisme en pleine societe bourgeoise" edition="bulletin des C.O.S., 32 p. 1920"/>
+</ul>
+<h3 class="frankie my-8 text-3xl">Brochures</h3>
+<ul>
+    <Entry title="Le Tabac, les infirmités, les fléaux qu’il provoque, le remède nature..." edition="intro. de Julia Bertrand, ed. de l’Ecole de pratique végétalienne, 1927"/>
+    <Entry title="Les Origines de la vie humaine révélées par la pratique du végétalisme intégral" edition="ed. Terre libérée, 1929"/>
+    <Entry title="Le Grand Problème naturiste : se libérer sans délai dans un jardin, guide complet de jardinage naturiste..." edition="ed. Terre libérée, s.d."/>
+    <Entry title="Plantes sauvages alimentaires..." edition="ed. Terre libérée, s.d."/>
+</ul>
+
+<h2 class="text-center frankie my-8" id="oeuvres-litteraires-et-graphiques">Œuvres littéraires et graphiques</h2>
+<ul>
+    <Entry author="Thierry MARICOURT" title="Histoire de la littérature libertaire en France" edition="Albin Michel, 1990" extract="
+    «La littérature anarchiste mériterait toute une étude», écrivait Michel Ragon. Cette étude, la voici,
+    qui, de Jules Vallès à Henry Poulaille, de Louise Michel à Augustin Gomez-Arcos, rend compte de la
+    richesse et de la vitalité du courant libertaire dans la littérature française.
+    Se défiant des « étiquettes », refusant toute subordination à une idéologie, les écrivains libertaires
+    sont convaincus de la fonction sociale et politique de l’art. La mission de l’écrivain est de troubler le
+    lecteur, d’induire le doute à l’encontre de l’ordre établi. Par le biais des genres littéraires les plus
+    divers, le roman bien sûr, mais aussi le théâtre, la poésie, le pamphlet, ils s’attachent à « réveiller les
+    énergies», selon le mot d’Henry Poulaille.
+    Qu’ils soient reconnus, comme Octave Mirbeau ou Albert Camus, méconnus comme Eugène Bizeau
+    ou Maurice Joyeux, ces auteurs sont unis par leur commune répulsion de l’autorité et de l’injustice.
+    A travers des thèmes récurrents et cruciaux : la guerre, le travail, l’utopie, l’enfance, ils veulent
+    s’adresser d’abord aux défavorisés. «Avec les pauvres toujours», écrivait Séverine.»"/>
+    <Entry author="Sergio ATZENI" title="Le fils de Bakounine" edition="Libretto, 2011"/>
+    <Entry author="Veronique BERGEN et WINSHLUSS" title="L’anarchie. Théories et pratiques libertaires" edition="Le Lombard, 2019" imageName="bergen.jpeg"/>
+    <Entry author="Ernest CALLENBACH" title="Ecotopia" edition="Folio-SF, Gallimard, 2021"/>
+    <Entry author="Daniel DE ROULET" title="Dix Petites Anarchistes" edition="Libretto, 2018" extract="
+    «Il faut se mettre à la place de ces femmes jeunes, qui quittent leur vallon pour Belfort, Paris, Le
+    Havre, puis Brest, car c’est là qu’un navire nommé La Virginie embarque pour Punta Arenas, où elles
+    ont décidé d’émigrer. [...] À Punta Arenas, elles font peur au gouverneur car elle se disent «protestantes, anarchistes et sorcières».
+    [...] Quelques années passent, des déconvenues, des
+    bonheurs, l’occasion se présente d’aller rejoindre une colonie libertaire nommée L’Expérience dans
+    l’archipel Juan Fernández, sur l’île de Robinson Crusoé.»" imageName="deroulet.jpeg"/>
+    <Entry author="Lucien DESCAVES et Maurice DONNAY" title="La clairière" edition="Pièce en 5 actes, Stock, 1900"/>
+    <Entry author="Vincent HENRY et Gael HENRY" title="Alexandre Jacob. Journal d’un anarchiste cambrioleur" edition="(BD) Sarbacane, 2016"/>
+    <Entry author="Aldous HUXLEY" title="Île" edition="Pocket, 1962"/>
+    <Entry author="Jean-Pierre JOBLIN" title="Dans les sillons de Gaston Couté" edition="(BD) JPL, 2023"/>
+    <Entry author="Maximilien LE ROY et A. DAN" title="Thoreau. La vie sublime" edition="(BD) Le Lombard, 2012"/>
+    <Entry author="Thomas MORE" title="L’Utopie" edition="[1516], Gallimard, 2012"/>
+    <Entry author="William MORRIS" title="Nouvelles de nulle part. Ou une ère de repos" edition="[1893], Libertalia, 2024" imageName="morris.jpeg"/>
+    <Entry author="Emmanuel MOYNOT" title="Le temps des bombes" edition="(BD) Casterman, 2014"/>
+    <Entry author="Jacques TARDI et Léo MALET" title="Nestor Burma. Brouillard au pont de Tolbiac" edition="(BD) Casterman, 1997"/>
+    <Entry author="Jules VERNE" title="En Magellanie" edition="[1897-98], Folio Gallimard, 1999"/>
+</ul>
+<p class="text-2xl my-8 text-right">Groupe «Histoire» de «L’Autre Terre Libérée» (2024)</p>
