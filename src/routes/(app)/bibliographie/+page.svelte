@@ -68,7 +68,7 @@
     <Entry author="Normand BAILLARGEON" title="L’anarchisme" edition="QSJ ?, 2024" imageName="baillargeon.jpeg"/>
     <Entry author="Anselme BELLEGARRIGUE" title="Manifeste de l’anarchie"
            titleLink="https://mirror.anarhija.net/fr.theanarchistlibrary.org/mirror/a/ab/anselme-bellegarrigue-manifeste-de-l-anarchie.pdf" edition="[1850], Lux, 2011"/>
-    <Entry author="Guillaume DAVRANCHE" title="Dix questions sur l’anarchisme" edition="Libertalia, 2020"/>
+    <Entry author="Guillaume DAVRANCHE" title="Dix questions sur l’anarchisme" edition="Libertalia, 2020" highlight={true}/>
     <Entry title="Dictionnaire international des militants anarchistes" titleLink="https://militants-anarchistes.info/" edition="[1850], Lux, 2011"/>
     <Entry author="Voltairine de CLEYRE" title="Ecrits d’une insoumise" edition="Lux, 2018"/>
     <Entry author="Voltairine de CLEYRE" title="Y a-t-il plus fier et libre que nous ? Textes et poèmes anarcho-féministes" edition="[1893-1914], Payot & Rivages, 2023"/>
@@ -83,7 +83,7 @@
     <Entry author="David GRAEBER" title="Pour une anthropologie anarchiste" edition="Lux, 2018"/>
     <Entry author="Jean GRAVE" title="Ce que nous voulons et autres textes anarchistes" titleLink="https://fr.theanarchistlibrary.org/library/grave-jean-ce-que-nous-voulons.pdf"
            edition="[1898-1914], Mille et une nuits, 2012"/>
-    <Entry author="Daniel GUERIN" title="L’Anarchisme : de la doctrine à l’action" edition="Gallimard, 1965"/>
+    <Entry author="Daniel GUERIN" title="L’Anarchisme : de la doctrine à l’action" edition="Gallimard, 1965" highlight={true}/>
     <Entry author="Daniel GUERIN" title="Ni Dieu ni maître. Anthologie de l’anarchisme" edition="Maspero, 1970" imageName="guerin.jpeg"/>
     <Entry author="Pierre KROPOTKINE" title="Paroles d’un révolté" edition="[1885], Flammarion, 1978"/>
     <Entry author="Pierre KROPOTKINE" title="La Morale anarchiste" titleLink="https://funambule.org/lectures/anarchisme/kropotkine%20-%20la%20morale%20anarchiste.pdf"
@@ -92,7 +92,7 @@
            edition="Scala, 1898"/>
     <Entry author="Pierre KROPOTKINE" title="L’Entraide, un facteur d’évolution" titleLink="http://data0.eklablog.com/ae-editions/perso/bibliotheque%20-%20pdf/kropotkine%20-%20l-entraide.pdf"
            edition="[1902], Aden, 2009"/>
-    <Entry author="Pierre KROPOTKINE" title="Aux jeunes gens" edition="[1902], Aden, 2009" extract="
+    <Entry author="Pierre KROPOTKINE" title="Aux jeunes gens" edition="[1902], Aden, 2009" highlight={true} extract="
             «Demanderez-vous qu'on jette dans les cachots ces tisserands qui, dans un moment d'exaspération,
             ont mis le feu à la fabrique ? qu'on envoie aux pontons cet homme qui a tiré sur un assassin couronné
             ? qu'on fusille ce peuple insurgé qui plante sur les barricades le drapeau de l'avenir ? [...] ... ou bien
@@ -103,7 +103,7 @@
            edition="Les Temps Nouveaux, n° 42 – 1914"/>
     <Entry author="Arthur LEHNING" title="Bakounine et les autres" edition="Les Nuits Rouges, 2013"/>
     <Entry author="Jules LERMINA" title="L'ABC du libertaire" titleLink="https://gallica.bnf.fr/ark:/12148/bpt6k61740m.pdf"
-           edition="publications periodiques de la Colonie communiste d'Aiglemont, [n°1, fevrier 1906], Mille et une nuits, 2004"/>
+           edition="publications périodiques de la Colonie communiste d'Aiglemont, [n°1, fevrier 1906], Mille et une nuits, 2004"/>
     <Entry author="Jean MAITRON" title="Ravachol et les anarchistes" edition="Julliard, 1964"/>
     <Entry author="Jean MAITRON" title="Histoire du mouvement anarchiste en France" edition="2 t., Maspero, 1975" imageName="maitron.jpeg"/>
     <Entry author="Errico MALATESTA" title="Conversations sur l’anarchie" edition="Nada, 2024" extract="
@@ -210,9 +210,9 @@
             succédé depuis le XVIe siècle, en privilégiant certains thèmes : le travail et les loisirs, l'éducation, la
             famille et les relations amoureuses, la ville et l'architecture. L'utopie s'enrichit au XIXe siècle de
             l'uchronie, puis de la science-fiction, pour proposer de nouvelles alternatives à la 'société de
-            consommation'.»"/>
+            consommation'.»" highlight={true}/>
     <Entry author="Jean-Christian PETITFILS" title="Les communautés utopistes au XIXe siècle" edition="Paris, Pluriel, 2011"/>
-    <Entry author="Michele RIOT-SARCEY" title="Le Réel de l’utopie : essai sur le politique au XIXe siècle" edition="Paris, Albin Michel, 1998"/>
+    <Entry author="Michele RIOT-SARCEY" title="Le Réel de l’utopie : essai sur le politique au XIXe siècle" edition="Paris, Albin Michel, 1998" highlight={true}/>
     <Entry author="Jacqueline RUSS" title="Le Socialisme utopique français" edition="Paris, Bordas, 1988"/>
     <Entry author="Jean SERVIER" title="Histoire de l’utopie (1967)" edition="Paris, Gallimard, 1991"/>
     <Entry author="Minutes rouges" authorLink="https://www.youtube.com/@MinutesRouges" title="SOCIALISME UTOPIQUE" titleLink="https://youtu.be/Hzquf8ZB3gs" edition="2022"/>
@@ -232,10 +232,10 @@
             en 1905, dénonce ainsi l’alcool et le tabac comme des instruments d’aliénation auxquels se plie, de
             façon grégaire, le monde ouvrier. Il en va de même pour la consommation de viande, que Libertad
             désigne comme l’aliment qui nourrit les muscles des travailleurs et permet leur asservissement,
-            faisant d’eux « des victimes qui se laissent nourrir du sang d’autres victimes.»"/>
+            faisant d’eux « des victimes qui se laissent nourrir du sang d’autres victimes.»" highlight={true}/>
     <Entry author="Romeo BONDON" title="Le bestiaire libertaire d’Elisée Reclus" edition="Atelier de creation libertaire, 2020" imageName="romeo-bondon.jpeg"/>
     <Entry author="Georges BUTAUD" title="Le végétalisme" edition="publication du Végétalien, 1930"/>
-    <Entry title="Cause animale, luttes sociales"
+    <Entry title="Cause animale, luttes sociales" highlight={true}
            edition="[Textes de C. Gide, M. Huot, L. Michel, O. Mirbeau, E. Reclus, L. Rimbault, Severine, L. Tolstoï, G. Butaud, S. Zaïkowska, E. Coeuderoy, H.S. Salt], le passager clandestin, 2021"/>
     <Entry author="Paul GUILIBERT" title="Exploiter les vivants. Une écologie politique du travail" edition="editions Amsterdam, 2023" extract="
             «Selon une ritournelle de la politique contemporaine, « l’écologie commence à la maison » : nous
@@ -319,7 +319,7 @@
     <Entry author="Dominique PETIT" title="Fortuné Henry et la colonie libertaire d’Aiglemont. De la propagande pour Ravachol au syndicalisme révolutionnaire"
            edition="Terres ardennaises/Noir & Rouge, 2023"/>
     <Entry author="Han RYNER" title="As-tu vu Bascon ?" edition="Le Journal du Peuple, 28 aout 1922"/>
-    <Entry author="Anne STEINER" title="Les En-Dehors. Anarchistes individualistes et illégalistes à la « Belle Époque »" edition="l’échappée, 2019" imageName="steiner.jpeg"/>
+    <Entry author="Anne STEINER" title="Les En-Dehors. Anarchistes individualistes et illégalistes à la « Belle Époque »" edition="l’échappée, 2019" imageName="steiner.jpeg" highlight={true}/>
     <Entry author="Anne STEINER" title="Vivre l’anarchie ici et maintenant : milieux libres et colonies libertaires a la Belle Epoque »"
            edition="Cahiers d’histoire. Revue d’histoire critique, 133 | 2016, 43-58"/>
     <Entry author="Anne STEINER" title="Les milieux libres en images" edition="Cahiers d’histoire. Revue d’histoire critique, 133 | 2016, 59-63"/>

@@ -7,10 +7,14 @@
     export let extract: string = '';
     export let imageName: string = '';
     export let imageAlt: string = '';
+    export let highlight = false;
     $: imagePath = `/images/bibliographie/${imageName}`;
+
+    let liClass = highlight ? 'bg-atl-red text-white py-2 px-4 my-2' : '';
+    let extractClass = highlight ? 'text-sm text-white' : 'text-sm my-2 py-2 px-4 bg-atl-black text-white';
 </script>
 
-<li>
+<li class={liClass}>
     <p class="text-lg">
         {#if author}
             {#if authorLink}
@@ -30,6 +34,18 @@
 
         {#if edition}{edition}{/if}
     </p>
-    {#if extract}<p class="text-sm my-2 py-2 px-4 bg-atl-black text-white">{extract}</p>{/if}
-    {#if imageName}<div class="flex justify-center my-4"><img class="max-h-96 border-4 border-atl-black" src="{imagePath}" alt="{imageAlt}"/></div>{/if}
+    {#if extract}
+        <p class={extractClass}>{extract}</p>
+    {/if}
+    {#if imageName}
+        <div class="flex justify-center my-4">
+            <img class="max-h-96 border-4 border-atl-black" src="{imagePath}" alt="{imageAlt}"/>
+        </div>
+    {/if}
 </li>
+
+<style>
+    li::marker {
+        color: #2C2E35 ! important;
+    }
+</style>
