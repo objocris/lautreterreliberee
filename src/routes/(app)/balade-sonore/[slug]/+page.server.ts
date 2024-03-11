@@ -7,7 +7,7 @@ export function load({params}) {
     const index = +slug - 1;
     const ardoise = ardoises[index];
 
-    if (!ardoise) throw redirect(307, '/balade-sonore/1');
+    if (!ardoise) redirect(307, '/balade-sonore/1');
 
     const result: { ardoise: Ardoise, previous?: Ardoise, next?: Ardoise } = {ardoise};
 

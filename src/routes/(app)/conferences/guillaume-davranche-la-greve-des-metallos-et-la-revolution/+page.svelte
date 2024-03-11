@@ -1,6 +1,5 @@
 <script>
     import Entry from "$lib/components/Entry.svelte";
-    import populaire from "src/lib/images/populaire.jpg";
 </script>
 
 <svelte:head>
@@ -10,8 +9,6 @@
 <h1 class="text-center frankie text-5xl py-4">Louis Rimbault 1919 : la grève des métallos et la révolution</h1>
 <h2 class="text-center frankie text-4xl py-2">Guillaume Davranche, 25 avril 2024, Luynes</h2>
 <h2 class="text-center frankie text-2xl py-2">Compléments bibliographiques et chronologiques à la Causerie populaire de Guillaume Davranche</h2>
-
-<img src="${populaire}" alt="Le Populaire 1919"/>
 
 <h2 class="frankie text-2xl py-4 pt-6">Compléments bibliographiques</h2>
 <ul class="">
