@@ -35,12 +35,39 @@
 </p>
 
 <div class="menu-bibliographie">
+    <a href="#essentiel">Pour aller à l'essentiel</a>
     <a href="#le-mouvement-anarchiste">Le mouvement anarchiste</a>
     <a href="#les-socialismes-utopiques">Les socialismes utopiques</a>
     <a href="#nature-pratiques-alimentaires-et-cause-animale">«Nature», pratiques alimentaires et cause animale</a>
     <a href="#les-milieux-libres">Les «milieux libres»</a>
     <a href="#publications-de-louis-rimbault">Publications de Louis Rimbault</a>
 </div>
+
+<h2 class="text-center frankie my-8" id="essentiel">Pour aller à l'essentiel</h2>
+<ul>
+    <Entry author="Guillaume DAVRANCHE" title="Dix questions sur l’anarchisme" edition="Libertalia, 2020"/>
+    <Entry author="Daniel GUERIN" title="L’Anarchisme : de la doctrine à l’action" edition="Gallimard, 1965"/>
+    <Entry author="Pierre KROPOTKINE" title="Aux jeunes gens" edition="[1902], Aden, 2009" extract="
+            «Demanderez-vous qu'on jette dans les cachots ces tisserands qui, dans un moment d'exaspération,
+            ont mis le feu à la fabrique ? qu'on envoie aux pontons cet homme qui a tiré sur un assassin couronné
+            ? qu'on fusille ce peuple insurgé qui plante sur les barricades le drapeau de l'avenir ? [...] ... ou bien
+            vous ferez taire votre conscience et deviendrez un coquin, ou bien vous romprez avec la tradition et
+            viendrez travailler avec nous à l'abolition de toutes les injustices : économiques, politiques,
+            sociales.»"/>
+    <Entry author="Arnaud BAUBEROT" title="Aux sources de l'écologisme anarchiste : Louis Rimbault et les communautes végétaliennes en France dans la première moitié du XXe siecle"
+           edition="Le Mouvement social, n° 246, janvier-mars 2014" extract="
+            «La recherche des implications pratiques de cette morale naturelle conduit une partie des
+            individualistes à s’intéresser aux recommandations formulées à la même époque par des médecins
+            naturistes et dont les thèses sont activement relayées par la Société végétarienne de France. Le
+            groupe de militants qui se rassemblent autour de Libertad et de son hebdomadaire L’Anarchie, fondé
+            en 1905, dénonce ainsi l’alcool et le tabac comme des instruments d’aliénation auxquels se plie, de
+            façon grégaire, le monde ouvrier. Il en va de même pour la consommation de viande, que Libertad
+            désigne comme l’aliment qui nourrit les muscles des travailleurs et permet leur asservissement,
+            faisant d’eux « des victimes qui se laissent nourrir du sang d’autres victimes.»"/>
+    <Entry title="Cause animale, luttes sociales"
+           edition="[Textes de C. Gide, M. Huot, L. Michel, O. Mirbeau, E. Reclus, L. Rimbault, Severine, L. Tolstoï, G. Butaud, S. Zaïkowska, E. Coeuderoy, H.S. Salt], le passager clandestin, 2021"/>
+    <Entry author="Anne STEINER" title="Les En-Dehors. Anarchistes individualistes et illégalistes à la « Belle Époque »" edition="l’échappée, 2019" imageName="steiner.jpeg"/>
+</ul>
 
 <h2 class="text-center frankie my-8" id="le-mouvement-anarchiste">Le mouvement anarchiste</h2>
 <ul>
@@ -54,7 +81,7 @@
             Cross) se mêlent aux théoriciens (Jean Grave, Sébastien Faure) ; illégalistes et propagandistes par
             le fait (Bonnot, Ravachol) cohabitent avec les figures fondatrices du syndicalisme révolutionnaire
             (Fernand Pelloutier, Pierre Monatte).»"/>
-    <Entry author="Minutes rouges" authorLink="https://www.youtube.com/@MinutesRouges" title="ANARCHISME INDIVIDUALISTE" titleLink="https://youtu.be/GVxJfZDcZcA" edition="2022"/>
+    <Entry author="Minutes rouges (YouTube)" authorLink="https://www.youtube.com/@MinutesRouges" title="ANARCHISME INDIVIDUALISTE" titleLink="https://youtu.be/GVxJfZDcZcA" edition="2022"/>
     <Entry author="Emile ARMAND" title="Petit Manuel anarchiste individualiste" titleLink="https://fr.theanarchistlibrary.org/library/emile-armand-petit-manuel-anarchiste-individualiste"
            edition="[1911-1924-1925], Nada, 2021"/>
     <Entry author="Michel BAKOUNINE" title="Catéchisme révolutionnaire" titleLink="https://www.marxists.org/francais/general/bakounine/works/1865/00/bakounine-cat.htm"
@@ -64,7 +91,7 @@
     <Entry author="Michel BAKOUNINE" title="Dieu et l’Etat" titleLink="https://www.exosens.fr/audio/txt/dieu-et-letat.pdf" edition="[1882], Mille et une nuits, 2000"/>
     <Entry author="Michel BAKOUNINE" title="Le Devoir sacré de la Révolte" edition="lettres et textes, Les Nuits Rouges, 2004"/>
     <Entry author="Michel BAKOUNINE" title="Ecrits libertaires" edition="Le Temps des Cerises, 1997"/>
-    <Entry author="Minutes rouges" authorLink="https://www.youtube.com/@MinutesRouges" title="BAKOUNINE" titleLink="https://youtu.be/HkVfX9GXQqk" edition="2020"/>
+    <Entry author="Minutes rouges (YouTube)" authorLink="https://www.youtube.com/@MinutesRouges" title="BAKOUNINE" titleLink="https://youtu.be/HkVfX9GXQqk" edition="2020"/>
     <Entry author="Normand BAILLARGEON" title="L’anarchisme" edition="QSJ ?, 2024" imageName="baillargeon.jpeg"/>
     <Entry author="Anselme BELLEGARRIGUE" title="Manifeste de l’anarchie"
            titleLink="https://mirror.anarhija.net/fr.theanarchistlibrary.org/mirror/a/ab/anselme-bellegarrigue-manifeste-de-l-anarchie.pdf" edition="[1850], Lux, 2011"/>
@@ -119,7 +146,7 @@
     <Entry author="Pierre-Joseph PROUDHON" title="Qu’est-ce que la propriété ?" titleLink="http://classiques.uqac.ca/classiques/Proudhon/la_propriete/La_propriete.pdf"
            edition="[1840], Garnier Flammarion, 1966 et Le Livre de poche, 2009"/>
     <Entry author="PROUDHON, BAKOUNINE, KROPOTKINE" title="La révolution libertaire" edition="Le Temps des Cerises, 2008"/>
-    <Entry author="Minutes rouges" authorLink="https://www.youtube.com/@MinutesRouges" title="PROUDHON, précurseur encombrant" titleLink="https://youtu.be/Lf7AdLPAiN8" edition="2019"/>
+    <Entry author="Minutes rouges (YouTube)" authorLink="https://www.youtube.com/@MinutesRouges" title="PROUDHON, précurseur encombrant" titleLink="https://youtu.be/Lf7AdLPAiN8" edition="2019"/>
     <Entry author="Tancrède RAMONET" title="Ni Dieu ni Maître. Une histoire de l’anarchisme. L’intégrale 1840-2012" edition="(4h06), Arte editions, 2013"/>
     <Entry author="Elisée RECLUS" title="L’Anarchie" titleLink="https://gallica.bnf.fr/ark:/12148/bpt6k81778q" edition="[1895-1896-1902], Nada, 2021" extract="
             «Nous sommes des révoltés de toutes les heures, des hommes vraiment sans dieu, sans maître et sans patrie,
@@ -215,7 +242,7 @@
     <Entry author="Michele RIOT-SARCEY" title="Le Réel de l’utopie : essai sur le politique au XIXe siècle" edition="Paris, Albin Michel, 1998" highlight={true}/>
     <Entry author="Jacqueline RUSS" title="Le Socialisme utopique français" edition="Paris, Bordas, 1988"/>
     <Entry author="Jean SERVIER" title="Histoire de l’utopie (1967)" edition="Paris, Gallimard, 1991"/>
-    <Entry author="Minutes rouges" authorLink="https://www.youtube.com/@MinutesRouges" title="SOCIALISME UTOPIQUE" titleLink="https://youtu.be/Hzquf8ZB3gs" edition="2022"/>
+    <Entry author="Minutes rouges (YouTube)" authorLink="https://www.youtube.com/@MinutesRouges" title="SOCIALISME UTOPIQUE" titleLink="https://youtu.be/Hzquf8ZB3gs" edition="2022"/>
 </ul>
 
 <h2 class="text-center frankie my-8" id="nature-pratiques-alimentaires-et-cause-animale">«Nature», pratiques alimentaires et cause animale</h2>
