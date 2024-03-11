@@ -60,8 +60,8 @@
         href="https://cafeshistoriques.com/" target="_blank">cafés historiques en région
     Centre Val-de-Loire</a>.
 </p>
-<p class="text-base lg:text-2xl mb-4">Vente d'une sélection thématique d'ouvrages de la librairie tourangelle autogérée <a
-        href="https://www.canalbd.net/bedelire" target="_blank">Bédélire</a>.</p>
+<!--<p class="text-base lg:text-2xl mb-4">Vente d'une sélection thématique d'ouvrages de la librairie tourangelle autogérée <a-->
+<!--        href="https://www.canalbd.net/bedelire" target="_blank">Bédélire</a>.</p>-->
 
 <h1 class="frankie text-2xl md:text-4xl lg:text-6xl text-center text-white bg-atl-black p-4 my-8">Champ Libre 2023<br/>À la découverte de Terre
     Libérée</h1>
