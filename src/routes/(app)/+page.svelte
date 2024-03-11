@@ -48,23 +48,22 @@
 </span>
 <h2 class="text-base md:text-2xl text-atl-red font-bold">19h - Halle de Luynes</h2>
 <p class="text-base lg:text-2xl mb-4">
-    Conférence de <a href="https://www.babelio.com/auteur/Guillaume-Davranche/337582" target="_blank">Guillaume Davranche</a>, journaliste et
-    chercheur indépendant en histoire sociale. Auteur de <a href="https://editionslibertalia.com/catalogue/coeditions/trop-jeunes-pour-mourir"
-                                                            target="_blank">Trop jeune pour mourir</a>, <a
-        href="https://editionslibertalia.com/catalogue/dix-questions/dix-questions-sur-l-anarchisme" target="_blank">Dix questions sur
-    l'anarchisme</a>, <a
+    Conférence de <a href="https://www.babelio.com/auteur/Guillaume-Davranche/337582" target="_blank">Guillaume Davranche</a>, journaliste et chercheur indépendant en histoire sociale. Auteur de <a
+        href="https://editionslibertalia.com/catalogue/coeditions/trop-jeunes-pour-mourir" target="_blank">Trop jeune pour mourir</a>, <a
+        href="https://editionslibertalia.com/catalogue/dix-questions/dix-questions-sur-l-anarchisme" target="_blank">Dix questions sur l'anarchisme</a>, <a
         href="https://editionsatelier.com/boutique/maitron-/235-les-anarchistes-dictionnaire-biographique-du-mouvement-libertaire-francophone-9782708243163.html"
         target="_blank">Les anarchistes -
-    Dictionnaire bibliographique du mouvement libertaire francophone</a>. en partenariat avec les
-    <a href="https://rdv-histoire.com/" target="_blank">Rendez-vous de l'histoire de Blois</a>, dans le cadre des <a
-        href="https://cafeshistoriques.com/" target="_blank">cafés historiques en région
+    Dictionnaire bibliographique du mouvement libertaire francophone</a>. en partenariat avec les <a href="https://rdv-histoire.com/" target="_blank">Rendez-vous de l'histoire de Blois</a>, dans le
+    cadre des <a href="https://cafeshistoriques.com/" target="_blank">cafés historiques en région
     Centre Val-de-Loire</a>.
+</p>
+<p class="text-base lg:text-2xl mb-4">
+    <a href="conferences/guillaume-davranche-la-greve-des-metallos-et-la-revolution">Eléments bibliographiques et repères historiques</a>
 </p>
 <!--<p class="text-base lg:text-2xl mb-4">Vente d'une sélection thématique d'ouvrages de la librairie tourangelle autogérée <a-->
 <!--        href="https://www.canalbd.net/bedelire" target="_blank">Bédélire</a>.</p>-->
 
-<h1 class="frankie text-2xl md:text-4xl lg:text-6xl text-center text-white bg-atl-black p-4 my-8">Champ Libre 2023<br/>À la découverte de Terre
-    Libérée</h1>
+<h1 class="frankie text-2xl md:text-4xl lg:text-6xl text-center text-white bg-atl-black p-4 my-8">Champ Libre 2023<br/>À la découverte de Terre Libérée</h1>
 
 <span class="frankie text-atl-black text-2xl md:text-6xl block">Mardi 27 juin 2023</span>
 <span class="frankie text-atl-red text-2xl md:text-4xl">
