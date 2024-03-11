@@ -47,7 +47,7 @@
     <a href="https://editionslibertalia.com/catalogue/coeditions/trop-jeunes-pour-mourir" class="frankie" target="_blank">«Louis Rimbault 1919 : la grève des métallos et la révolution»</a>
 </span>
 <h2 class="text-base md:text-2xl text-atl-red font-bold">19h - Halle de Luynes</h2>
-<p class="text-base lg:text-2xl mb-4">
+<p class="text-base lg:text-2xl my-4">
     Conférence de <a href="https://www.babelio.com/auteur/Guillaume-Davranche/337582" target="_blank">Guillaume Davranche</a>, journaliste et chercheur indépendant en histoire sociale. Auteur de <a
         href="https://editionslibertalia.com/catalogue/coeditions/trop-jeunes-pour-mourir" target="_blank">Trop jeune pour mourir</a>, <a
         href="https://editionslibertalia.com/catalogue/dix-questions/dix-questions-sur-l-anarchisme" target="_blank">Dix questions sur l'anarchisme</a>, <a
@@ -57,7 +57,16 @@
     cadre des <a href="https://cafeshistoriques.com/" target="_blank">cafés historiques en région
     Centre Val-de-Loire</a>.
 </p>
-<p class="text-base lg:text-2xl mb-4">
+<p class="text-base my-2">
+    Au sortir de la Grande Guerre, le syndicalisme révolutionnaire remonte en flèche, le pays est en ébullition, et cela se traduit notamment par la grande grève de la métallurgie parisienne, au
+    printemps 1919. Alors que la direction réformiste de la CGT freine et tergiverse, la base est plus impatiente que jamais. Et parmi les meneurs se trouve un rescapé de l'affaire de la bande à
+    Bonnot : Louis Rimbault ! Mais que s'est-il passé exactement, durant ce mouvement des métallos, prélude à la scission de la CGT entre réformistes et révolutionnaires ?
+</p>
+<p class="text-base my-2">
+    Guillaume Davranche est journaliste et chercheur indépendant en histoire sociale. Il est l'auteur de «Trop jeunes pour mourir. Ouvriers et révolutionnaires face à la guerre (1909-1914)» et de «Dix
+    questions sur l'anarchisme» chez Libertalia, et a codirigé le dictionnaire Maitron des anarchistes.
+</p>
+<p class="text-base mb-4">
     <a href="conferences/guillaume-davranche-la-greve-des-metallos-et-la-revolution">Eléments bibliographiques et repères historiques</a>
 </p>
 <!--<p class="text-base lg:text-2xl mb-4">Vente d'une sélection thématique d'ouvrages de la librairie tourangelle autogérée <a-->
