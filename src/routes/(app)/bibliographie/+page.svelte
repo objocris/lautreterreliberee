@@ -361,14 +361,18 @@
 <h2 class="text-center frankie my-8" id="publications-de-louis-rimbault">Publications de Louis Rimbault</h2>
 <h3 class="frankie my-8 text-3xl">«Terre libérée»</h3>
 <ul>
-    <Entry title="Le problème de la viande" edition="Le Néo-Naturien, n°9, décembre-janvier 1923"/>
+    <Entry title="Le problème de la viande" titleLink="https://gallica.bnf.fr/ark:/12148/bpt6k3257905s/f3.item" edition="Le Néo-Naturien, n°9, décembre-janvier 1923"/>
     <Entry title="Coopérative : «La Terre Libérée»" edition="Le Néo-Naturien, n° 14, octobre-novembre 1923"/>
     <Entry title="Extrait des dispositions générales sur le fonctionnement de la Cité Végétalienne «Terre Libérée»" edition="Le Néo-Naturien, n° 15, décembre 23-janvier 1924"/>
     <Entry title="Libération économique" edition="Le Néo-Naturien, n° 16, février 1924" imageName="neonaturien.jpeg"/>
     <Entry title="L’action de «Terre Libérée»" edition="Le Néo-Naturien, n° 19, juillet-août 1924"/>
-    <Entry title="Deux mots de «Terre Libérée»" edition="Le Néo-Naturien, n° 20, janvier-février 1925"/>
-    <Entry title="Le “Néo-Naturien” doit-il disparaître pour avoir coopéré au succès du végétalisme liberateur ?" edition="Le Néo-naturien, n°21, octobre-novembre 1925"/>
+    <Entry title="Deux mots de «Terre Libérée»" titleLink="https://gallica.bnf.fr/ark:/12148/bpt6k3257914r/f21.item" edition="Le Néo-Naturien, n° 20, janvier-février 1925"/>
+    <Entry title="Le “Néo-Naturien” doit-il disparaître pour avoir coopéré au succès du végétalisme libérateur ?" titleLink="https://gallica.bnf.fr/ark:/12148/bpt6k32579155/f13.item"
+           edition="Le Néo-naturien, n°21, octobre-novembre 1925"/>
     <Entry title="Terre Libérée" edition="l’en-dehors, n° 266, mi-janvier 1934"/>
+    <Entry title="Numéros du Néo-Naturien disponibles sur Gallica"
+           titleLink="https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&version=1.2&collapsing=disabled&query=%28dc.title%20all%20%22Le%20N%C3%A9o-naturien%20%3A%20revue%20mensuelle%20des%20id%C3%A9es%22%29%20and%20arkPress%20all%20%22cb365978793_date%22&rk=21459;2"
+    edition="n°3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 20, 21, 22"/>
 </ul>
 <h3 class="frankie my-8 text-3xl">Autres articles</h3>
 <ul>
