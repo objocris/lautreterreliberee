@@ -44,7 +44,7 @@
 
 <span class="frankie text-atl-black text-2xl md:text-6xl block">Jeudi 25 avril 2024</span>
 <span class="frankie text-atl-red text-2xl md:text-4xl">
-    <a href="https://editionslibertalia.com/catalogue/coeditions/trop-jeunes-pour-mourir" class="frankie" target="_blank">«Louis Rimbault 1919 : la grève des métallos et la révolution»</a>
+    <a href="https://cafeshistoriques.com/programme/louis-rimbault-1919-la-greve-des-metallos-et-la-revolution" class="frankie" target="_blank">«Louis Rimbault 1919 : la grève des métallos et la révolution»</a>
 </span>
 <h2 class="text-base md:text-2xl text-atl-red font-bold">19h - Halle de Luynes</h2>
 <p class="text-base lg:text-2xl my-4">
@@ -53,10 +53,11 @@
         href="https://editionslibertalia.com/catalogue/dix-questions/dix-questions-sur-l-anarchisme" target="_blank">Dix questions sur l'anarchisme</a>, <a
         href="https://editionsatelier.com/boutique/maitron-/235-les-anarchistes-dictionnaire-biographique-du-mouvement-libertaire-francophone-9782708243163.html"
         target="_blank">Les anarchistes -
-    Dictionnaire bibliographique du mouvement libertaire francophone</a>. en partenariat avec les <a href="https://rdv-histoire.com/" target="_blank">Rendez-vous de l'histoire de Blois</a>, dans le
+    Dictionnaire bibliographique du mouvement libertaire francophone</a>. En partenariat avec les <a href="https://rdv-histoire.com/" target="_blank">Rendez-vous de l'histoire de Blois</a>, dans le
     cadre des <a href="https://cafeshistoriques.com/" target="_blank">cafés historiques en région
     Centre Val-de-Loire</a>.
 </p>
+<p class="text-base lg:text-2xl mb-4">Vente d'une sélection thématique d'ouvrages de la librairie tourangelle autogérée <a href="https://www.canalbd.net/bedelire" target="_blank">Bédélire</a>.</p>
 <p class="text-base my-2">
     Au sortir de la Grande Guerre, le syndicalisme révolutionnaire remonte en flèche, le pays est en ébullition, et cela se traduit notamment par la grande grève de la métallurgie parisienne, au
     printemps 1919. Alors que la direction réformiste de la CGT freine et tergiverse, la base est plus impatiente que jamais. Et parmi les meneurs se trouve un rescapé de l'affaire de la bande à
@@ -85,10 +86,8 @@
 <p class="text-base lg:text-2xl mb-4">
     Conférence d'<a href="https://fr.wikipedia.org/wiki/Anne_Steiner" target="_blank">Anne Steiner</a>, sociologue, spécialiste du <a
         href="https://fr.wikipedia.org/wiki/Anarchisme_individualiste"
-        target="_blank">mouvement individualiste anarchiste</a>, en
-    partenariat avec les
-    <a href="https://rdv-histoire.com/" target="_blank">Rendez-vous de l'histoire de Blois</a>, dans le cadre des <a
-        href="https://cafeshistoriques.com/" target="_blank">cafés historiques en région
+        target="_blank">mouvement individualiste anarchiste</a>, en partenariat avec les
+    <a href="https://rdv-histoire.com/" target="_blank">Rendez-vous de l'histoire de Blois</a>, dans le cadre des <a href="https://cafeshistoriques.com/" target="_blank">cafés historiques en région
     Centre Val-de-Loire</a>.
 </p>
 <p class="text-base lg:text-2xl mb-4">Vente d'une sélection thématique d'ouvrages de la librairie tourangelle autogérée <a
