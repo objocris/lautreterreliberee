@@ -42,6 +42,19 @@
     <img src={afficheSansTexte} alt="Affiche Champ Libre 2023" class="w-60 max-w-full"/>
 </div>
 
+
+<span class="frankie text-atl-black text-2xl md:text-6xl block">Samedi 15 juin 2024</span>
+<span class="frankie text-atl-red text-2xl md:text-4xl">
+    <a href="https://www.vegetarisme.fr/agenda/vegan-place-a-tours-37-2/" class="frankie" target="_blank">Participation à la Vegan Place 2024</a>
+</span>
+<h2 class="text-base md:text-2xl text-atl-red font-bold">10h ➜ 18h - Boulevard Heurteloup - Tours</h2>
+<p class="text-base lg:text-2xl my-4">
+    La Vegan Place est un événement co-organisé par le <a href="https://www.vegetarisme.fr/groupelocal/indre-et-loire/" target="_blank">groupe local tourangeau</a> de l'<a
+        href="https://www.vegetarisme.fr/" target="_blank">Association Végétarienne de France</a> (AVF), l'antenne tourangelle du <a href="https://mouvementutopia.org/site/" target="_blank">mouvement
+    Utopia</a>, <a href="https://www.l214.com/" target="_blank">L214</a> et <a href="https://www.code-animal.com/" target="_blank">Code Animal</a>. Elle accueillera un ensemble de posters
+    documentaires créés par notre association autour de «Terre libérée» et du végétalisme dans les mouvements anarchistes.
+</p>
+
 <span class="frankie text-atl-black text-2xl md:text-6xl block">Jeudi 25 avril 2024</span>
 <span class="frankie text-atl-red text-2xl md:text-4xl">
     <a href="https://cafeshistoriques.com/programme/louis-rimbault-1919-la-greve-des-metallos-et-la-revolution" class="frankie" target="_blank">«Louis Rimbault 1919 : la grève des métallos et la révolution»</a>
