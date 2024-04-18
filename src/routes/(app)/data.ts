@@ -53,9 +53,6 @@ export const ardoises: Ardoise[] = [
                 'Il se trouverait 9 rue Victor Hugo à Tours chez une dame Pierre avec laquelle il serait en pourparler pour l’achat d’une petite propriété dans laquelle il installerait une colonie végétarienne.',
                 'Rimbault figure sur la liste des anarchistes dont le domicile est soumis à vérification bi-mensuelle.',
                 'Signalement : 1m68 environ, figure maigre, osseuse, aspect maladif, corpulence ordinaire, légèrement voûté, cheveux châtain roux, pommettes saillantes, teint pâle.',
-                'Préfecture de police, direction des recherches. Paris, le 30 avril 1924. Rapport du chef de service.',
-                'L’anarchiste Rimbault Louis, qui demeurait 88 rue Pelleport a quitté cette adresse le 15 avril courant, pour aller habiter à Luynes au lieu dit « Terre Libérée » Indre et Loire, où il aurait créé une colonie végétalienne.',
-                'Rimbault figure sur la liste des anarchistes qui est transmise bi-mensuellement au Cabinet.',
                 'Préfecture de police, cabinet du préfet. Paris, le 31 décembre 1926. Secret. Le préfet de Police à Monsieur le ministre de l’intérieur (Direction de la sureté générale 2e bureau – Carnet B)',
                 'Je suis aisé que le nommé Rimbault Louis Edouard, né le 9 avril 1877 à Tours inscrit au carnet B de la Seine (3e group), s’est installé dans la colonie végétalienne de Luynes au lieu dit « Terre Libérée » Indre et Loire.',
                 'J’ai l’honneur de vous faire connaitre que le 28 décembre 1926, j’ai rayé cet individu au carnet B de la Seine et que j’ai transféré son dossier à Monsieur le Préfet d’Indre et Loire.'
