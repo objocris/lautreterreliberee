@@ -35,7 +35,7 @@ export const ardoises: Ardoise[] = [
         titre: 'L\'épitaphe, le début de l\'enquête',
         texteArdoise:
             [
-                'De cette épitaphe pour le moins énigmatique, nous commençons notre enquête. Louis Rimbault a été inscrit au carnet B vers 1911-1912. Le carnet B est un fichier établi par la Sûreté Nationale recensant les anarchistes et antimilitaristes considérés comme dangereux. Rimbault faisait donc l’objet d’un contrôle régulier qui nous fournit de riches informations sur son parcours.'
+                'De cette épitaphe pour le moins énigmatique, nous commençons notre enquête. Louis Rimbault a été inscrit au carnet B vers 1911-1912, un fichier établi par la Sûreté Nationale recensant les anarchistes et antimilitaristes considérés comme dangereux. Ces documents fournissent de riches informations.'
             ],
         texteAudio:
             [
@@ -64,7 +64,7 @@ export const ardoises: Ardoise[] = [
         titre: 'Les témoignages vivants',
         texteArdoise:
             [
-                'Louis Rimbault est mort en 1949. C’est un peu trop loin pour trouver des témoignages directs. Pour autant, certains ici se souviennent de quelques  commentaires que racontaient les Luynois ayant croisé son chemin.'
+                'Louis Rimbault est mort en 1949. C’est un peu trop loin pour trouver des témoignages directs. Pour autant, certains ici se souviennent des commentaires de quelques Luynois ayant croisé son chemin.'
             ],
         texteAudio:
             [
@@ -73,7 +73,7 @@ export const ardoises: Ardoise[] = [
                 '<i>Le narrateur</i> : Un autre voisin Michel se remémore les dires de sa mère, eux aussi habitaient une troglodyte, non loin de la colonie.',
                 '<i>Michel R</i> : J’ai entendu ma mère me le dire, qu’elle a entendu de ses grands-parents, déjà à l’époque. Il y aurait eu beaucoup de personnes qui seraient décédées là. Beaucoup de travail, travail de la terre afin de récolter terre, mais le lait, ça venait d’une vache. Donc il fallait tout ce qui était vivant il fallait pas y toucher… les œufs de poules, pas les poules, pas le lait de vache, parce qu’ils ne se nourrissaient que de racines, de plantes, que de ça… Racines de pissenlits, et que des trucs comme ça… ben les gens étaient, perdaient du poids et tout. Il y eut des morts…',
                 '<i>Bernard M</i> : Attendez on n’était pas du tout du même bord. Lui, il était végétalien à 100%, nous on était normal, normal quoi on mangeait comme tout le monde.',
-                '<i>Michel Ragot</i> :  Et ils appelaient ça la confrérie des non bâtisseurs. Comme il y a des maisons qui étaient commencées, jamais finies… Ils commençaient, et finissaient rien… Et pourtant c’était joli ce qu’ils faisaient et c’était costaud…',
+                '<i>Michel R</i> :  Et ils appelaient ça la confrérie des non bâtisseurs. Comme il y a des maisons qui étaient commencées, jamais finies… Ils commençaient, et finissaient rien… Et pourtant c’était joli ce qu’ils faisaient et c’était costaud…',
                 '<i>Le narrateur</i> : On le perçoit, les relations entre ce personnage énigmatique et son voisinage sont complexes. EN ces années 20, les habitants de Luynes se demandent bien ce que ce Rimbault vient faire ici, et les plus grandes interrogations subsistent sur ce qui se passe là-haut, à la colonie. Pour autant, on ne va pas voir sur place, on reste en bas dans le village… et on déduit… Gilles se rappelle des dires de son grand-père…',
                 '<i>Gilles F</i> : Mon grand-père a toujours été ici, à Luynes et je me rappelle, quand j’étais gamin, me parler de ce fameux Rimbault ! Rimbault que tout le monde… pas craignait…  mais on évitait… parce qu’il a vu une réputation un petit peu sulfureuse. Alors ça se disait, il y avait des bruits qui couraient… Déjà les bruits sur la réputation de Rimbault, ça, tout le monde le connaissait, son passé était connu à Luynes. Après, il y avait des bruits sur les pratiques un peu bizarres qui se passaient autour de la ferme. Bah, le naturisme à l’époque… Voilà… Dans les années, les années 20-30, ce n’était pas trop… ça courait pas… De temps en temps, il descendait parce qu’il allait chercher, je sais pas, la farine pour faire son pain, il avait quand même quelques courses à faire, mais quand on voyait Rimbault dans le village, on changeait de trottoir. Bon, les luynois, à l’époque, se méfiaient de lui. Alors peut-être parce qu’il avait des idées anarchistes… Ben il a quand même été dans la bande à Bonnot. Il avait une réputation un peu sulfureuse. Et puis on se demandait ce qui se passait aussi dans la ferme…',
                 '<i>Bernard M</i> : Y’a des moments qu’il était sociable… y’a des moments qu’il était sociable. Et puis des moments, il était invivable. Voilà ce que ma mère m’a dit. Elle était sociable avec nous, avec les gamins, les parents plus ou moins. Mais ça allait. Comme dit ma mère, il y a des fois et c’était. Et puis alors là, ça le prenait… Et là, d’ici, il allait à la préfecture, à Tours, à pied !!! Et des fois en courant même !! Ah ben c’est mon frère, il est beaucoup plus vieux, il l’a connu lui… Et attends là, il a bientôt, il a neuf ans de plus que moi. Il a connu ça, il allait là-bas et là, lui, il se rappelle de le voir aller à Tours à pied. Et des fois, il y allait en courant. Il avait même pas un vélo !!! Mais il avait des sacrés relations attention hein !!!! Et puis il était loin d’être bête ! Attention !! Très, très instruit, très très instruit.',
@@ -157,7 +157,7 @@ export const ardoises: Ardoise[] = [
         titre: 'La lutte contre les fléaux',
         texteArdoise:
             [
-                'Toute sa vie, Louis Rimbault mène une lutte acharnée contre l’alcool et le tabac. Il faut replacer dans le contexte d’une époque différente de la nôtre ces combats, contre une consommation de vin, largement encouragée par la publicité, qui crée des ravages dans la population du début du 20e siècle et qui, du point de vue de nombre d’anarchistes, contribue à l’aliénation des masses. Il a écrit nombre d’articles à ce sujet, dans Le Néo-naturien, dont voici des extraits.'
+                'Toute sa vie, Louis Rimbault mène une lutte acharnée contre l’alcool et le tabac, qui du point de vue de nombre d’anarchistes, contribuent à l’aliénation des masses. Il a écrit nombre d’articles à ce sujet, dans <i>Le Néo-naturien</i>, dont voici des extraits.'
             ],
         texteAudio:
             [
@@ -178,11 +178,11 @@ export const ardoises: Ardoise[] = [
         titre: 'Une visite à « Terre Libérée »',
         texteArdoise:
             [
-                'Dans un article paru en 1924, un journaliste se rend à Terre Libérée. Cet article rend la visite très vivante, vous découvrez la colonie comme si vous y rendiez pour la première fois.'
+                'Dans un article paru en 1924, un journaliste se rend à Terre Libérée. Cet article rend la visite très vivante, vous découvrez la colonie comme si vous vous y rendiez pour la première fois.'
             ],
         texteAudio:
             [
-                '<i>Le narrateur</i> : En 1924, un “camarade” du <i>Libertaire</i>, un hebdomadaire fondé en 1895 par Louise Michel et Sébastien Faure, rend visite à Terre Libérée. Cet article rend la visite très vivante, vous découvrez la colonie comme si vous y arriviez pour la première fois.',
+                '<i>Le narrateur</i> : En 1924, un « camarade » du <i>Libertaire</i>, un hebdomadaire fondé en 1895 par Louise Michel et Sébastien Faure, rend visite à Terre Libérée. Cet article rend la visite très vivante, vous découvrez la colonie comme si vous y arriviez pour la première fois.',
                 '<i>Jean Peyroux</i> : Je profitai de ma présence à Tours, pour aller visiter la colonie où Rimbault et quelques pionniers sont en train, depuis une quarantaine de jours, de défricher un sol ingrat. La question des colonies anarchistes m’intéressait au plus haut point, je partis d’enthousiasme.',
                 'Nous y allâmes avec Nadaud et Lehoux, nous prîmes à Tours le tramway qui part à 14h15 et qui s’arrête à Luynes à 15 heures. Arrivés là, nous marchâmes sur la route de Cléré, que nous abandonnâmes après trente-cinq minutes de marche pour prendre un petit chemin d’abord un peu large qui se termine en sentier au milieu de froments, d’avoines, d’arbustes et de touffes d’herbes. Cinq minutes de plus et nous sommes arrivés. Nous apercevons au seuil d’une demeure un peu en ruine un petit groupe de compagnes et de compagnons et de deux bambins qui se distinguent des gens de l’endroit par leur mise. Nous nous approchons rapidement, il nous faut reprendre le tramway à 17 heures, nous avons à peine quarante minutes à être les hôtes de nos amis végétaliens. Dès notre approche, voilà Rimbault assis à une table qui rédige une déclaration de principes ou quelque chose d’analogue.',
                 '« - Bonjour, Rimbault », lui disons-nous. Il nous répond : « -Avez-vous mangé ? – oui. » Tout de suite il commence l’exposé et le fonctionnement de la colonie. Le régime végétalien est de rigueur à « Terre Libérée ». « Nous cherchons à nous exclure complètement du capitalisme », nous dit Rimbault. C’est alors que je lui fais remarquer qu’il n’a réussi qu’imparfaitement. En effet, j’aperçois le journal L’OEuvre, composé par des salariés. « Nous le recevons du Foyer végétalien », nous dit Rimbault. Nadaud, à son tour, de faire observer : « cette machine à coudre, ce fusil, le linge, le cuir de vos sandalettes, etc., etc. »',
