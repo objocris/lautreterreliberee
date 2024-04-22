@@ -21,7 +21,7 @@ export const ardoises: Ardoise[] = [
             ],
         texteAudio:
             [
-                'A Luynes, comme dans beaucoup de villes et villages, nous avons un patrimoine bâti historique qu’on aime à mettre en lumière. Toutes ces vieilles pierres racontent une histoire officielle.',
+                '<i>Le narrateur</i> : A Luynes, comme dans beaucoup de villes et villages, nous avons un patrimoine bâti historique qu’on aime à mettre en lumière. Toutes ces vieilles pierres racontent une histoire officielle.',
                 'A Luynes, nous avons les vestiges d’un aqueduc romain ; une halle du XVe siècle, point de départ de cette promenade ; une maison à pan de bois, du XVe également ; un château médiéval remodelé à la Renaissance ; et encore quelques autres bâtisses pour le moins magnifiques…',
                 'A côté de ces emblèmes forts et imposants, construits sur la sueur et le sang d’hommes et de femmes, il y a leurs petites histoires, leurs parcours.',
                 'L’Histoire, celle avec le H en majuscule, est composée de ces multiples autres plus petites, pour beaucoup certainement banales mais parfois passionnantes.',
@@ -39,8 +39,8 @@ export const ardoises: Ardoise[] = [
             ],
         texteAudio:
             [
-                'Comme vous, là maintenant, en lisant cette plaque, nous avons été intrigués.  Et pour trouver des informations, notre point de départ, ce sont les archives. Aux archives municipales, rien ; aux archives départementales, rien non plus. Notre recherche documentaire nous a finalement conduit loin de Luynes, à Paris, aux archives nationales et aux archives de la police. En tant que militant anarchiste, le parcours de Louis Rimbault a été renseigné par des rapports du ministère de l’Intérieur. Nous vous faisons lecture de certains documents.',
-                'Préfecture de police, service des renseignements généraux. Paris, le 29 août 1916. Rapport du chef de service des renseignements généraux à monsieur le préfet de Police.',
+                '<i>Le narrateur</i> : Comme vous, là maintenant, en lisant cette plaque, nous avons été intrigués.  Et pour trouver des informations, notre point de départ, ce sont les archives. Aux archives municipales, rien ; aux archives départementales, rien non plus. Notre recherche documentaire nous a finalement conduit loin de Luynes, à Paris, aux archives nationales et aux archives de la police. En tant que militant anarchiste, le parcours de Louis Rimbault a été renseigné par des rapports du ministère de l’Intérieur. Nous vous faisons lecture de certains documents.',
+                '<i>Lecture du premier document d’archive</i> : Préfecture de police, service des renseignements généraux. Paris, le 29 août 1916. Rapport du chef de service des renseignements généraux à monsieur le préfet de Police.',
                 'Objet : Au sujet de Monsieur Rimbault, Louis, abonné au journal anarchiste et pacifiste « Ce Qu’il Faut Dire ».',
                 'Je transmets ci-après les renseignements recueillis sur le compte du nommé Rimbault, Louis, né le 09 avril 1877 à Tours.',
                 'Après avoir été établi quincailler pendant 5 ans environ de 1906 à 1911 à Gargan Livry Seine et Oise, où il a exercé, durant 4 ans, les fonctions de conseiller municipal auxquelles il avait été élu sous l’étiquette radicale socialiste et qu’il a dû abandonner en raison de son intransigeance, le susnommé a quitté cette localité pour aller demeurer à Pavillon-sous-Bois de décembre 1911 au 19 janvier 1912.',
@@ -48,12 +48,12 @@ export const ardoises: Ardoise[] = [
                 'Impliqué dans le procès de ces anarchistes, il a été arrêté le 19 janvier 1912, sous l’inculpation de vol et de complicité et écroué à la prison de la Santé.',
                 'Aux assises, le 20 Août 1914, Rimbault a été acquitté mais il n’a pas été remis en liberté. Il a été envoyé le 26 août au 104e Régiment d’Infanterie à Argentan. Le 30 juin 1915, il a été placé en sursis d’appel et affecté, en sa qualité d’ouvrier serrurier à la maison LECOT, 93 rue Pelleport.',
                 'Rimbault demeure depuis juillet 1915, rue Pelleport au 88 ou il occupe un logement annuel de 220 frs qu’il n’a pas encore payé.',
-                'Préfecture de police, service des renseignements généraux et des jeux. Paris, le 8 octobre 1923. Rapport du chef de service.',
+                '<i>Lecture du deuxième document d’archive</i> : Préfecture de police, service des renseignements généraux et des jeux. Paris, le 8 octobre 1923. Rapport du chef de service.',
                 'L’anarchiste Rimbault, Louis, Édouard, est absent de son domicile 88 rue Pelleport depuis la fin Septembre.',
                 'Il se trouverait 9 rue Victor Hugo à Tours chez une dame Pierre avec laquelle il serait en pourparlers pour l’achat d’une petite propriété dans laquelle il installerait une colonie végétarienne.',
                 'Rimbault figure sur la liste des anarchistes dont le domicile est soumis à vérification bimensuelle.',
                 'Signalement : 1m68 environ, figure maigre, osseuse, aspect maladif, corpulence ordinaire, légèrement voûté, cheveux châtain roux, pommettes saillantes, teint pâle.',
-                'Préfecture de police, cabinet du préfet. Paris, le 31 décembre 1926. Secret. Le préfet de Police à Monsieur le ministre de l’intérieur (Direction de la sureté générale 2e bureau – Carnet B)',
+                '<i>Lecture du troisième document d’archive</i> : Préfecture de police, cabinet du préfet. Paris, le 31 décembre 1926. Secret. Le préfet de Police à Monsieur le ministre de l’intérieur (Direction de la sureté générale 2e bureau – Carnet B)',
                 'Je suis aisé que le nommé Rimbault Louis Edouard, né le 9 avril 1877 à Tours inscrit au carnet B de la Seine (3e group), s’est installé dans la colonie végétalienne de Luynes au lieu-dit « Terre Libérée » Indre et Loire.',
                 'J’ai l’honneur de vous faire connaitre que le 28 décembre 1926, j’ai rayé cet individu au carnet B de la Seine et que j’ai transféré son dossier à Monsieur le Préfet d’Indre et Loire.'
             ],
@@ -93,7 +93,7 @@ export const ardoises: Ardoise[] = [
             ],
         texteAudio:
             [
-                'Après l’avoir suivi dans les fiches de renseignements de la préfecture de police, nous retrouvons Louis dans un journal de propagande végétarienne <i>Le Néo-Naturien</i>, le numéro 15 de novembre-décembre 1923, dans lequel Louis Rimbault décrit avec enthousiasme la propriété qu’il vient d’acquérir',
+                '<i>Le narrateur</i> : Après l’avoir suivi dans les fiches de renseignements de la préfecture de police, nous retrouvons Louis dans un journal de propagande végétarienne <i>Le Néo-Naturien</i>, le numéro 15 de novembre-décembre 1923, dans lequel Louis Rimbault décrit avec enthousiasme la propriété qu’il vient d’acquérir',
                 '<i>Louis Rimbault</i> : C’est donc à Luynes, près de Tours (11 kilomètres), en pleine Touraine, que s’établira la cité libre végétalienne « Terre Libérée », au lieu-dit « Le Pin ». Les 10 hectares de bonne terre acquis à cet effet sont merveilleusement situés sur un coteau abrité des vents par une ceinture de bois de sapins et de châtaigniers. La propriété domine un ensemble de ravissants panoramas.',
                 'Ce coin des plus intéressants de l’ancien duché de Luynes, est à 30 minutes de la Loire et à 8 minutes de la Brême ; un petit ruisselet passe au pied du coteau à l’extrémité de la propriété. Le pays, distant de 2 kilomètres 500 de « Terre Libérée », comprend un bureau de poste, un hôpital et est desservi par un chemin de fer sur route, partant de la gare de Tours, avec six départs journaliers et ayant Luynes comme terminus. Une gare de chemins de fer des lignes de Tours au Mans et de Tours-Vendôme-Paris, Fondettes-Saint-Cyr (résidence d’Anatole France), se trouve à 4 kilomètres de Luynes.',
                 'La pierre de béton et de blocage, le cailloutis et la pierre propre à la construction peuvent être tirés très facilement du sol de la Cité. Luynes possède des ruines historiques imposantes, vestiges d’un grand aqueduc romain, ainsi qu’un château fort ancien attirant le touriste étranger. Nombreux sont les amateurs de merveilleux paysages qui fréquentent Luynes et ses environs. Luynes est également le rendez-vous des peintres paysagistes et des poètes qui y composèrent quelques œuvres célèbres.',
