@@ -24,7 +24,7 @@
 
     <div class="text-center mb-4">
         <a href="/balade-sonore" class="frankie text-2xl mb-6">
-            Retour à la carte
+            Carte de la balade
         </a>
     </div>
 
